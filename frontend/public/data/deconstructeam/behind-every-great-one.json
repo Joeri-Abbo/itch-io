@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjk2NDA2LzE0NDc1MzEuZ2lm/315x250%23c/6hwd8c.gif",
+    "id": 296406,
+    "links": {
+        "self": "https://deconstructeam.itch.io/behind-every-great-one",
+        "comments": "https://deconstructeam.itch.io/behind-every-great-one/comments",
+        "devlog": "https://deconstructeam.itch.io/behind-every-great-one/devlog"
+    },
+    "title": "Behind Every Great One",
+    "authors": [
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        }
+    ],
+    "tags": [
+        "adventure",
+        "drama",
+        "female-protagonist",
+        "housewife",
+        "interactive-fiction",
+        "isometric",
+        "life-simulation",
+        "narrative",
+        "pixel-art",
+        "singleplayer",
+        "slice-of-life"
+    ]
+}

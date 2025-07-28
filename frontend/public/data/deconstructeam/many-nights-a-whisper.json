@@ -1,0 +1,34 @@
+{
+    "authors": [
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        },
+        {
+            "name": "Selkie Harbour",
+            "url": "https://selkieharbour.itch.io"
+        }
+    ],
+    "id": 3391281,
+    "price": "$2.99",
+    "tags": [
+        "adventure",
+        "archery",
+        "atmospheric",
+        "casual",
+        "female-protagonist",
+        "interactive-fiction",
+        "narrative",
+        "no-ai",
+        "pixel-art",
+        "short",
+        "story-rich",
+        "third-person"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwMjU1MDU4LmdpZg==/315x250%23c/X8Z0y1.gif",
+    "links": {
+        "self": "https://deconstructeam.itch.io/many-nights-a-whisper",
+        "comments": "https://deconstructeam.itch.io/many-nights-a-whisper/comments"
+    },
+    "title": "Many Nights a Whisper"
+}

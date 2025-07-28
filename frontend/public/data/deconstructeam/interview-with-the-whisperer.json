@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ3MTQ1MjUuZ2lm/315x250%23c/15M%2FK4.gif",
+    "id": 840699,
+    "title": "Interview with the Whisperer",
+    "links": {
+        "self": "https://deconstructeam.itch.io/interview-with-the-whisperer",
+        "comments": "https://deconstructeam.itch.io/interview-with-the-whisperer/comments"
+    },
+    "tags": [
+        "artificial-intelligence",
+        "chatbot",
+        "conversational",
+        "experimental",
+        "interactive-fiction",
+        "mystery",
+        "narrative",
+        "other",
+        "pixel-art",
+        "short",
+        "typing"
+    ]
+}

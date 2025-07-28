@@ -1,0 +1,27 @@
+{
+    "authors": [
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        }
+    ],
+    "id": 340666,
+    "tags": [
+        "creative",
+        "crime",
+        "dystopian",
+        "gay",
+        "interactive-fiction",
+        "ludum-dare-43",
+        "narrative",
+        "pixel-art",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE2ODgzMDAuZ2lm/315x250%23c/F0UN84.gif",
+    "links": {
+        "devlog": "https://deconstructeam.itch.io/eternal-home-floristry/devlog",
+        "self": "https://deconstructeam.itch.io/eternal-home-floristry",
+        "comments": "https://deconstructeam.itch.io/eternal-home-floristry/comments"
+    },
+    "title": "Eternal Home Floristry"
+}

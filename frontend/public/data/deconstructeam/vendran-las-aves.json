@@ -1,0 +1,36 @@
+{
+    "authors": [
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        },
+        {
+            "name": "chuso",
+            "url": "https://chusommontero.itch.io"
+        },
+        {
+            "name": "Fran Riolobos",
+            "url": "https://franxurio.itch.io"
+        }
+    ],
+    "id": 3273067,
+    "tags": [
+        "life-simulation",
+        "management",
+        "mental-health",
+        "narrative",
+        "no-ai",
+        "pixel-art",
+        "point-and-click",
+        "simulation",
+        "slice-of-life",
+        "strategy"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5NTQwNTg3LmdpZg==/315x250%23c/soFg3B.gif",
+    "links": {
+        "devlog": "https://deconstructeam.itch.io/vendran-las-aves/devlog",
+        "self": "https://deconstructeam.itch.io/vendran-las-aves",
+        "comments": "https://deconstructeam.itch.io/vendran-las-aves/comments"
+    },
+    "title": "Vendr\u00e1n las aves"
+}

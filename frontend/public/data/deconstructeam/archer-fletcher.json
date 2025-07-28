@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Jordi de Paco",
+            "url": "https://jordidepaco.itch.io"
+        },
+        {
+            "name": "Marina Gonz\u00e1lez",
+            "url": "https://marineteta.itch.io"
+        }
+    ],
+    "id": 2513758,
+    "tags": [
+        "pixel-art",
+        "prototype",
+        "puzzle",
+        "sokoban"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE0OTQyODAyLnBuZw==/315x250%23c/WGcsmg.png",
+    "links": {
+        "self": "https://jordidepaco.itch.io/archer-fletcher",
+        "comments": "https://jordidepaco.itch.io/archer-fletcher/comments"
+    },
+    "title": "Archer & Fletcher"
+}

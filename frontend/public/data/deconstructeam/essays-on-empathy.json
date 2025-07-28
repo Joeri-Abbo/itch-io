@@ -1,0 +1,33 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzU3Mjg5MzgucG5n/315x250%23c/QZPbkr.png",
+    "id": 1005851,
+    "links": {
+        "self": "https://devolverdigital.itch.io/essays-on-empathy",
+        "comments": "https://devolverdigital.itch.io/essays-on-empathy/comments"
+    },
+    "title": "Essays on Empathy",
+    "price": "$12.99",
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        }
+    ],
+    "tags": [
+        "adult",
+        "casual",
+        "cyberpunk",
+        "female-protagonist",
+        "interactive-fiction",
+        "lgbt",
+        "pixel-art",
+        "point-and-click",
+        "romance",
+        "singleplayer",
+        "story-rich"
+    ]
+}

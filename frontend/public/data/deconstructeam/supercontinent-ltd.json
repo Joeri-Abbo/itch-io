@@ -1,0 +1,23 @@
+{
+    "title": "Supercontinent Ltd",
+    "id": 83247,
+    "cover_image": "https://img.itch.zone/aW1hZ2UvODMyNDcvMzkyMDI0LmdpZg==/315x250%23c/mOu%2FjB.gif",
+    "links": {
+        "comments": "https://deconstructeam.itch.io/supercontinent-ltd/comments",
+        "self": "https://deconstructeam.itch.io/supercontinent-ltd"
+    },
+    "tags": [
+        "ludum-dare",
+        "ludum-dare-36",
+        "narrative",
+        "phonecall",
+        "pixel-art",
+        "visual-novel"
+    ],
+    "authors": [
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        }
+    ]
+}

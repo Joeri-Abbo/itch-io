@@ -1,0 +1,37 @@
+{
+    "authors": [
+        {
+            "name": "Fran Riolobos",
+            "url": "https://franxurio.itch.io"
+        },
+        {
+            "name": "chuso",
+            "url": "https://chusommontero.itch.io"
+        },
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        }
+    ],
+    "id": 2496608,
+    "tags": [
+        "2d",
+        "comedy",
+        "dark-humor",
+        "interactive-fiction",
+        "meaningful-choices",
+        "narrative",
+        "pixel-art",
+        "point-and-click",
+        "short",
+        "storygame",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE0ODk2MjUxLnBuZw==/315x250%23c/T3sYJc.png",
+    "links": {
+        "devlog": "https://franxurio.itch.io/figuras-y-figuraciones/devlog",
+        "self": "https://franxurio.itch.io/figuras-y-figuraciones",
+        "comments": "https://franxurio.itch.io/figuras-y-figuraciones/comments"
+    },
+    "title": "Figuras y Figuraciones"
+}
