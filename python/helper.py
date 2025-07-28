@@ -53,25 +53,28 @@ def fetch_games_of_creator(
         print(f"Found {len(games)} games for creator {creator}")
 
         for game in games:
-            game_link = game['href']
-            
-            # get game name after itch.io/
-            game_name = game_link.split('/')[-1]
-            print(f"Game name: {game_name}")
-            
-            # create directory for creator if it does not exist
-            creator_dir = f"{data_dir}/{creator}"
-            if not os.path.exists(creator_dir):
-                os.makedirs(creator_dir)
-            # check if game file already exists
-            game_file_path = f"{creator_dir}/{game_name}.json"
-            if os.path.exists(game_file_path):
-                print(f"Game file {game_file_path} already exists, skipping.")
-                continue
-            data = requests.get(f"{game_link}/data.json").json()
-            if data:
-                with open(game_file_path, 'w') as game_file:
-                    json.dump(data, game_file, indent=4)
-                    print(f"Created {game_name}.json for {creator} in {creator_dir}/")
+            try:
+                game_link = game['href']
+                
+                # get game name after itch.io/
+                game_name = game_link.split('/')[-1]
+                print(f"Game name: {game_name}")
+                
+                # create directory for creator if it does not exist
+                creator_dir = f"{data_dir}/{creator}"
+                if not os.path.exists(creator_dir):
+                    os.makedirs(creator_dir)
+                # check if game file already exists
+                game_file_path = f"{creator_dir}/{game_name}.json"
+                if os.path.exists(game_file_path):
+                    print(f"Game file {game_file_path} already exists, skipping.")
+                    continue
+                data = requests.get(f"{game_link}/data.json").json()
+                if data:
+                    with open(game_file_path, 'w') as game_file:
+                        json.dump(data, game_file, indent=4)
+                        print(f"Created {game_name}.json for {creator} in {creator_dir}/")
+            except Exception as e:
+                print(f"Error fetching game {game_name} for creator {creator}: {e}")
     else:
         print(f"Failed to fetch page for {creator}, status code: {response.status_code}")

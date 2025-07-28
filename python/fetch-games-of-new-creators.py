@@ -8,7 +8,10 @@ no_new_creators = True
 for creator in get_creators():
     if creator not in creators:
         print(f"New creator found: {creator}")
-        fetch_games_of_creator(creator)
+        try:
+            fetch_games_of_creator(creator)
+        except Exception as e:
+            print(f"Error fetching games for creator {creator}: {e}")
         no_new_creators = False
 
 if no_new_creators:
