@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "Rafael",
+            "url": "https://rafael-a.itch.io"
+        },
+        {
+            "name": "KaTSukiFireStar",
+            "url": "https://katsukifirestar.itch.io"
+        },
+        {
+            "name": "GeckoSouriant",
+            "url": "https://geckosouriant.itch.io"
+        },
+        {
+            "name": "Lordan6",
+            "url": "https://lordan6.itch.io"
+        }
+    ],
+    "id": 3737474,
+    "tags": [
+        "action",
+        "no-ai"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMjQ0NTQyLnBuZw==/315x250%23c/OOH12l.png",
+    "links": {
+        "self": "https://rafael-a.itch.io/ghourlmet",
+        "comments": "https://rafael-a.itch.io/ghourlmet/comments"
+    },
+    "title": "Ghourlmet!"
+}

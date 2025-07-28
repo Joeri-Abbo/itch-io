@@ -1,0 +1,24 @@
+{
+    "tags": [
+        "2d",
+        "exploration",
+        "no-ai",
+        "procedural",
+        "simulation",
+        "walking-simulator",
+        "worm"
+    ],
+    "authors": [
+        {
+            "name": "Harper Rhett",
+            "url": "https://harper-rhett.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMDU3MTE5LmdpZg==/315x250%23c/b%2F1JZD.gif",
+    "id": 3706468,
+    "title": "Worm Game",
+    "links": {
+        "comments": "https://harper-rhett.itch.io/worm-game/comments",
+        "self": "https://harper-rhett.itch.io/worm-game"
+    }
+}

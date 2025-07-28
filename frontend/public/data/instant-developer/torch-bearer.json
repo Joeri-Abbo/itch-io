@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "Instant Developer",
+            "url": "https://instant-developer.itch.io"
+        }
+    ],
+    "id": 3746119,
+    "tags": [
+        "no-ai",
+        "platformer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMjk2OTAzLnBuZw==/315x250%23c/ix7fAS.png",
+    "links": {
+        "self": "https://instant-developer.itch.io/torch-bearer",
+        "comments": "https://instant-developer.itch.io/torch-bearer/comments"
+    },
+    "title": "Torch Bearer"
+}

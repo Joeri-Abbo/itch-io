@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Digital Workshop22",
+            "url": "https://digital-workshop22.itch.io"
+        }
+    ],
+    "id": 2587469,
+    "price": "$0.00",
+    "tags": [
+        "adult",
+        "character-customization",
+        "cozy",
+        "dress-up",
+        "dressup",
+        "female-protagonist",
+        "free",
+        "no-ai",
+        "other"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxODk1Njc1LnBuZw==/315x250%23c/%2FBBo%2By.png",
+    "links": {
+        "devlog": "https://digital-workshop22.itch.io/female-forge/devlog",
+        "self": "https://digital-workshop22.itch.io/female-forge",
+        "comments": "https://digital-workshop22.itch.io/female-forge/comments"
+    },
+    "title": "Female Forge"
+}

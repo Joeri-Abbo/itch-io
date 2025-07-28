@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Third Spirit Games",
+            "url": "https://thirdspiritgames.itch.io"
+        }
+    ],
+    "id": 474481,
+    "price": "$14.99",
+    "tags": [
+        "2d",
+        "action",
+        "action-adventure",
+        "adventure",
+        "atmospheric",
+        "fantasy",
+        "narrative",
+        "pixel-art",
+        "singleplayer",
+        "story-rich",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzY3OTk0NTMucG5n/315x250%23c/0521ZC.png",
+    "links": {
+        "devlog": "https://thirdspiritgames.itch.io/ariettaofspirits/devlog",
+        "self": "https://thirdspiritgames.itch.io/ariettaofspirits",
+        "comments": "https://thirdspiritgames.itch.io/ariettaofspirits/comments"
+    },
+    "title": "Arietta of Spirits"
+}

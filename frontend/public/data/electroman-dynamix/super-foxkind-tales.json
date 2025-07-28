@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Electroman Dynamix",
+            "url": "https://electroman-dynamix.itch.io"
+        }
+    ],
+    "id": 3498483,
+    "tags": [
+        "2d",
+        "action",
+        "adventure",
+        "fantasy",
+        "music",
+        "pixel-art",
+        "puzzle",
+        "rpg",
+        "sing"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxODA4MDc1LnBuZw==/315x250%23c/93XKTk.png",
+    "links": {
+        "self": "https://electroman-dynamix.itch.io/super-foxkind-tales",
+        "comments": "https://electroman-dynamix.itch.io/super-foxkind-tales/comments"
+    },
+    "title": "Super Foxkind Tales"
+}

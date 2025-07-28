@@ -1,0 +1,25 @@
+{
+    "id": 2913856,
+    "title": "GATOTAG",
+    "links": {
+        "self": "https://team-bugulon.itch.io/gatotag",
+        "comments": "https://team-bugulon.itch.io/gatotag/comments"
+    },
+    "tags": [
+        "blocks",
+        "gmtkjam",
+        "jetsetradio",
+        "pixel-art",
+        "platformer",
+        "puzzle",
+        "puzzle-platformer",
+        "tetris"
+    ],
+    "authors": [
+        {
+            "name": "Team Bugulon",
+            "url": "https://team-bugulon.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3NDQ2NDU0LnBuZw==/315x250%23c/Hh8RcS.png"
+}

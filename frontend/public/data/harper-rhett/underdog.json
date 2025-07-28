@@ -1,0 +1,21 @@
+{
+    "authors": [
+        {
+            "name": "Harper Rhett",
+            "url": "https://harper-rhett.itch.io"
+        }
+    ],
+    "id": 954252,
+    "tags": [
+        "2d",
+        "clicker",
+        "pico-8",
+        "simulation"
+    ],
+    "links": {
+        "comments": "https://harper-rhett.itch.io/underdog/comments",
+        "self": "https://harper-rhett.itch.io/underdog"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzU0MTUzNzIuZ2lm/315x250%23c/5LIvy3.gif",
+    "title": "Underdog"
+}

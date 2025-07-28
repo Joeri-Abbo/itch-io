@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "Adam Vian SFB Games",
+            "url": "https://adamvian.itch.io"
+        }
+    ],
+    "id": 2625190,
+    "tags": [
+        "rpg",
+        "strategy",
+        "turn-based",
+        "turn-based-combat",
+        "turn-based-strategy"
+    ],
+    "links": {
+        "comments": "https://adamvian.itch.io/rpg-battle/comments",
+        "self": "https://adamvian.itch.io/rpg-battle"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE1NjQxNzA4LnBuZw==/315x250%23c/hvSYA6.png",
+    "title": "RPG Battle"
+}

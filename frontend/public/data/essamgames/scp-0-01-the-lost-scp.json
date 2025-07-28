@@ -1,0 +1,31 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://essamgames.itch.io/scp-0-01-the-lost-scp/comments",
+        "self": "https://essamgames.itch.io/scp-0-01-the-lost-scp"
+    },
+    "authors": [
+        {
+            "name": "EssamGames",
+            "url": "https://essamgames.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxOTAyOTk2LnBuZw==/315x250%23c/GzJUIh.png",
+    "id": 3681302,
+    "title": "SCP-0.01: The Lost SCP",
+    "tags": [
+        "3d",
+        "adventure",
+        "ai-generated",
+        "ai-generated-text",
+        "atmospheric",
+        "dark",
+        "escape-game",
+        "exploration",
+        "horror",
+        "indie",
+        "psychological-horror",
+        "short",
+        "singleplayer"
+    ]
+}

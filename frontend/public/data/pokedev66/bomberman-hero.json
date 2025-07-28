@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "pokedev66",
+            "url": "https://pokedev66.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzc3ODE0LmpwZw==/315x250%23c/xU4NVr.jpg",
+    "id": 3759110,
+    "links": {
+        "self": "https://pokedev66.itch.io/bomberman-hero",
+        "comments": "https://pokedev66.itch.io/bomberman-hero/comments"
+    },
+    "title": "Bomberman Hero",
+    "price": "$0.00",
+    "tags": [
+        "action",
+        "bomberman",
+        "classicgames",
+        "emulator",
+        "instantplay",
+        "n64",
+        "no-ai",
+        "no-emulator",
+        "project64",
+        "retrogaming",
+        "singleplayer"
+    ]
+}

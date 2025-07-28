@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Mokaaja",
+            "url": "https://mokaaja.itch.io"
+        }
+    ],
+    "id": 641602,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "adventure",
+        "fantasy",
+        "mystery",
+        "puzzle",
+        "runner",
+        "survival"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM0MzQ4MzkucG5n/315x250%23c/mgkP4S.png",
+    "links": {
+        "self": "https://mokaaja.itch.io/rock-goes-whrooom",
+        "comments": "https://mokaaja.itch.io/rock-goes-whrooom/comments"
+    },
+    "title": "Rock Goes Whrooom"
+}

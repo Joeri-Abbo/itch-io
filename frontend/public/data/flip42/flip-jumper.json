@@ -1,0 +1,22 @@
+{
+    "links": {
+        "comments": "https://flip42.itch.io/flip-jumper/comments",
+        "self": "https://flip42.itch.io/flip-jumper"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIyMDA4MTQ3LnBuZw==/315x250%23c/qy9SQi.png",
+    "tags": [
+        "no-ai",
+        "pixel-art",
+        "platformer",
+        "retro",
+        "short"
+    ],
+    "id": 3697999,
+    "authors": [
+        {
+            "name": "flip42",
+            "url": "https://flip42.itch.io"
+        }
+    ],
+    "title": "Flip jumper"
+}

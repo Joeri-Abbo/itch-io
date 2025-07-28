@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Alyssa N. Vaughn",
+            "url": "https://alyssaenvy.itch.io"
+        }
+    ],
+    "id": 2109877,
+    "tags": [
+        "2d",
+        "adventure",
+        "demo",
+        "my-first-game-jam",
+        "mystery",
+        "puzzle",
+        "rpgmaker",
+        "walking-simulator"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyNDIxMTY1LmpwZw==/315x250%23c/bB8H1v.jpg",
+    "links": {
+        "devlog": "https://alyssaenvy.itch.io/vindicta/devlog",
+        "self": "https://alyssaenvy.itch.io/vindicta",
+        "comments": "https://alyssaenvy.itch.io/vindicta/comments"
+    },
+    "title": "Vindicta"
+}

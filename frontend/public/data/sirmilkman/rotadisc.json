@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "sirmilkman",
+            "url": "https://sirmilkman.itch.io"
+        },
+        {
+            "name": "Barndles",
+            "url": "https://barndles.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzYyMjA1NzguZ2lm/315x250%23c/P%2FUeXs.gif",
+    "id": 1081447,
+    "title": "Rotadisc",
+    "links": {
+        "self": "https://sirmilkman.itch.io/rotadisc",
+        "comments": "https://sirmilkman.itch.io/rotadisc/comments"
+    },
+    "tags": [
+        "action",
+        "asteroids",
+        "bullet-hell",
+        "gamemaker",
+        "gmtkjam",
+        "high-score",
+        "singleplayer"
+    ]
+}

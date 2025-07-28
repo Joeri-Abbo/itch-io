@@ -1,0 +1,32 @@
+{
+    "price": "$3.99",
+    "links": {
+        "self": "https://thirdspiritgames.itch.io/letifer",
+        "comments": "https://thirdspiritgames.itch.io/letifer/comments",
+        "devlog": "https://thirdspiritgames.itch.io/letifer/devlog"
+    },
+    "authors": [
+        {
+            "name": "Third Spirit Games",
+            "url": "https://thirdspiritgames.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3ODg4MzI1LnBuZw==/315x250%23c/3QL5Re.png",
+    "id": 2352156,
+    "title": "Letifer",
+    "tags": [
+        "action",
+        "action-adventure",
+        "atmospheric",
+        "bullet-hell",
+        "difficult",
+        "female-protagonist",
+        "gamemaker",
+        "narrative",
+        "no-ai",
+        "pixel-art",
+        "roguelite",
+        "shooter",
+        "upgrade-system"
+    ]
+}

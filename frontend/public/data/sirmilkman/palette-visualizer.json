@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "sirmilkman",
+            "url": "https://sirmilkman.itch.io"
+        }
+    ],
+    "id": 913162,
+    "tags": [
+        "colorful",
+        "frog",
+        "gameboy",
+        "gamemaker",
+        "pixel-art",
+        "visualization"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzUxNjg0NjMuanBn/315x250%23c/jxtIy1.jpg",
+    "links": {
+        "self": "https://sirmilkman.itch.io/palette-visualizer",
+        "comments": "https://sirmilkman.itch.io/palette-visualizer/comments"
+    },
+    "title": "Palette Visualizer"
+}

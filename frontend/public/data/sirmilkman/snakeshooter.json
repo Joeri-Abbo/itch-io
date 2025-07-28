@@ -1,0 +1,21 @@
+{
+    "id": 1636000,
+    "cover_image": "https://img.itch.zone/aW1nLzk2MTg4MTcucG5n/315x250%23c/mdadR%2B.png",
+    "title": "snakeshooter",
+    "links": {
+        "self": "https://sirmilkman.itch.io/snakeshooter",
+        "comments": "https://sirmilkman.itch.io/snakeshooter/comments"
+    },
+    "authors": [
+        {
+            "name": "sirmilkman",
+            "url": "https://sirmilkman.itch.io"
+        }
+    ],
+    "tags": [
+        "action",
+        "shooter",
+        "snake",
+        "twin-stick-shooter"
+    ]
+}
