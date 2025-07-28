@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "CIOSAI",
+            "url": "https://ciosai.itch.io"
+        }
+    ],
+    "id": 2183684,
+    "tags": [
+        "2d",
+        "cute",
+        "platformer",
+        "puzzle",
+        "top-down"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyOTQxNTQzLnBuZw==/315x250%23c/R1xRkg.png",
+    "links": {
+        "self": "https://ciosai.itch.io/botactivate",
+        "comments": "https://ciosai.itch.io/botactivate/comments"
+    },
+    "title": "Bot.Activate()"
+}

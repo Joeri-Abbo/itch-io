@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzE0MDM3ODQ1LnBuZw==/315x250%23c/I5oNAc.png",
+    "id": 2370293,
+    "title": "Operation: Snake Oil",
+    "price": "$0.00",
+    "links": {
+        "self": "https://octalottergames.itch.io/operation-snake-oil",
+        "comments": "https://octalottergames.itch.io/operation-snake-oil/comments"
+    },
+    "authors": [
+        {
+            "name": "OctalOtterGames",
+            "url": "https://octalottergames.itch.io"
+        },
+        {
+            "name": "FungiWolf",
+            "url": "https://fungiwolf.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "adventure",
+        "gameboy",
+        "pixel-art",
+        "retro",
+        "short",
+        "singleplayer"
+    ]
+}

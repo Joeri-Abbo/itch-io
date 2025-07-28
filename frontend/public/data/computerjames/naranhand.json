@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "GooseStranger",
+            "url": "https://goosestranger.itch.io"
+        }
+    ],
+    "id": 2822535,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "action",
+        "action-adventure",
+        "adventure",
+        "godot",
+        "indie",
+        "jumping",
+        "minimalist",
+        "pixel-art",
+        "platformer",
+        "retro"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE2ODkzNjY1LnBuZw==/315x250%23c/MIghov.png",
+    "links": {
+        "self": "https://goosestranger.itch.io/naranhand",
+        "comments": "https://goosestranger.itch.io/naranhand/comments"
+    },
+    "title": "Naranhand"
+}

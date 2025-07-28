@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzM3OTMxODYucG5n/315x250%23c/qJCCgj.png",
+    "id": 665792,
+    "links": {
+        "self": "https://haraiva.itch.io/under-a-star-called-sun",
+        "comments": "https://haraiva.itch.io/under-a-star-called-sun/comments",
+        "devlog": "https://haraiva.itch.io/under-a-star-called-sun/devlog"
+    },
+    "title": "UNDER A STAR CALLED SUN",
+    "price": "$0.00",
+    "authors": [
+        {
+            "name": "cecile richard",
+            "url": "https://haraiva.itch.io"
+        }
+    ],
+    "tags": [
+        "artgame",
+        "atmospheric",
+        "bitsy",
+        "glitch",
+        "interactive-fiction",
+        "minimalist",
+        "narrative",
+        "science-fiction",
+        "space",
+        "walking-simulator"
+    ]
+}

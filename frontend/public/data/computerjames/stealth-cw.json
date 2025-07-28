@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "ComputerJames",
+            "url": "https://computerjames.itch.io"
+        }
+    ],
+    "id": 3448811,
+    "tags": [
+        "crossword",
+        "no-ai",
+        "puzzle",
+        "remake",
+        "singleplayer",
+        "stealth",
+        "top-down",
+        "word-game"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwNTc2OTkyLmdpZg==/315x250%23c/cPWEpp.gif",
+    "links": {
+        "devlog": "https://computerjames.itch.io/stealth-cw/devlog",
+        "self": "https://computerjames.itch.io/stealth-cw",
+        "comments": "https://computerjames.itch.io/stealth-cw/comments"
+    },
+    "title": "Stealth Crossword"
+}

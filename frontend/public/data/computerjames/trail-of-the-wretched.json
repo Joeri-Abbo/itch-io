@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "Xavier Bell",
+            "url": "https://xavibell.itch.io"
+        },
+        {
+            "name": "JRegMare",
+            "url": "https://jregmare.itch.io"
+        }
+    ],
+    "id": 2309291,
+    "price": "$0.00",
+    "tags": [
+        "dark",
+        "historical",
+        "interactive-fiction",
+        "no-ai",
+        "story-rich",
+        "thriller",
+        "visual-novel",
+        "western"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEzNzUwODE2LmpwZw==/315x250%23c/rKJHPs.jpg",
+    "links": {
+        "devlog": "https://xavibell.itch.io/trail-of-the-wretched/devlog",
+        "self": "https://xavibell.itch.io/trail-of-the-wretched",
+        "comments": "https://xavibell.itch.io/trail-of-the-wretched/comments"
+    },
+    "title": "Trail of the Wretched"
+}

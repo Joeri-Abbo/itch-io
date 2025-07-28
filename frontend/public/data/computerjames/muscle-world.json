@@ -1,0 +1,27 @@
+{
+    "authors": [
+        {
+            "name": "fotocopiadora",
+            "url": "https://fotocopiadora.itch.io"
+        }
+    ],
+    "id": 188903,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "dark",
+        "low-poly",
+        "muscle",
+        "mystery",
+        "no-ai",
+        "survival-horror"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTg4OTAzLzEyMzUxMjgucG5n/315x250%23c/2A3cU6.png",
+    "links": {
+        "self": "https://fotocopiadora.itch.io/muscle-world",
+        "comments": "https://fotocopiadora.itch.io/muscle-world/comments"
+    },
+    "title": "MUSCLE WORLD"
+}

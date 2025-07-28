@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "dingensundso",
+            "url": "https://dingensundso.itch.io"
+        }
+    ],
+    "id": 2828960,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "action",
+        "retro",
+        "short",
+        "singleplayer",
+        "snake"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE2ODk5ODM0LnBuZw==/315x250%23c/42xWfz.png",
+    "links": {
+        "self": "https://dingensundso.itch.io/snek",
+        "comments": "https://dingensundso.itch.io/snek/comments"
+    },
+    "title": "Apple-Eating Danger Noodles"
+}

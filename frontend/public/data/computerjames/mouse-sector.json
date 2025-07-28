@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 408546,
+    "title": "mouse sector",
+    "links": {
+        "self": "https://fotocopiadora.itch.io/mouse-sector",
+        "comments": "https://fotocopiadora.itch.io/mouse-sector/comments",
+        "devlog": "https://fotocopiadora.itch.io/mouse-sector/devlog"
+    },
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "dark",
+        "exploration",
+        "mouse",
+        "mystery",
+        "no-ai",
+        "rat",
+        "space",
+        "spooky"
+    ],
+    "authors": [
+        {
+            "name": "fotocopiadora",
+            "url": "https://fotocopiadora.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwMjg4OTEucG5n/315x250%23c/fLwFrL.png"
+}

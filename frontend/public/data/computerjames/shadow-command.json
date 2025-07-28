@@ -1,0 +1,24 @@
+{
+    "price": "$0.00",
+    "id": 2182483,
+    "cover_image": "https://img.itch.zone/aW1nLzEyOTc2NzcyLnBuZw==/315x250%23c/RUnHX6.png",
+    "tags": [
+        "action",
+        "no-ai"
+    ],
+    "links": {
+        "comments": "https://moczan.itch.io/shadow-command/comments",
+        "self": "https://moczan.itch.io/shadow-command"
+    },
+    "authors": [
+        {
+            "name": "Moczan",
+            "url": "https://moczan.itch.io"
+        },
+        {
+            "name": "Little Chmura",
+            "url": "https://littlechmura.itch.io"
+        }
+    ],
+    "title": "Shadow Command"
+}

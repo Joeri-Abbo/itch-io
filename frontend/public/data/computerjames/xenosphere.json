@@ -1,0 +1,21 @@
+{
+    "links": {
+        "comments": "https://nifflas.itch.io/xenosphere/comments",
+        "self": "https://nifflas.itch.io/xenosphere"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE2MTg3NzQ4LnBuZw==/315x250%23c/olzXUQ.png",
+    "tags": [
+        "golf",
+        "neon",
+        "no-ai",
+        "platformer"
+    ],
+    "id": 2715023,
+    "authors": [
+        {
+            "name": "Nifflas",
+            "url": "https://nifflas.itch.io"
+        }
+    ],
+    "title": "Xenosphere"
+}

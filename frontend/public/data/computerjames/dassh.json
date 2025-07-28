@@ -1,0 +1,25 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzEyMDIxODI2LnBuZw==/315x250%23c/6XJGNp.png",
+    "id": 2031879,
+    "links": {
+        "self": "https://computerjames.itch.io/dassh",
+        "comments": "https://computerjames.itch.io/dassh/comments",
+        "devlog": "https://computerjames.itch.io/dassh/devlog"
+    },
+    "title": "Dashcam",
+    "authors": [
+        {
+            "name": "ComputerJames",
+            "url": "https://computerjames.itch.io"
+        }
+    ],
+    "tags": [
+        "artgame",
+        "first-person",
+        "narrative",
+        "pixel-art",
+        "racing",
+        "short",
+        "storygame"
+    ]
+}

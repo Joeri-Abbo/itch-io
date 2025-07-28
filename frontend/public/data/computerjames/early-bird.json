@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "moonshell31",
+            "url": "https://moonshell31.itch.io"
+        },
+        {
+            "name": "Little baboon",
+            "url": "https://little-baboon.itch.io"
+        }
+    ],
+    "id": 3130130,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "godot",
+        "no-ai",
+        "puzzle"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4NzEzNjkzLnBuZw==/315x250%23c/%2BzKYi%2B.png",
+    "links": {
+        "self": "https://moonshell31.itch.io/early-bird",
+        "comments": "https://moonshell31.itch.io/early-bird/comments"
+    },
+    "title": "Early Bird"
+}
