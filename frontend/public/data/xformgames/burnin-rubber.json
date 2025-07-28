@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "id": 806318,
+    "price": "$1.99",
+    "tags": [
+        "3d",
+        "action",
+        "racing",
+        "retro",
+        "rubber",
+        "shockwave",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzY4MzY5MjYucG5n/315x250%23c/a63goK.png",
+    "links": {
+        "devlog": "https://xformgames.itch.io/burnin-rubber/devlog",
+        "self": "https://xformgames.itch.io/burnin-rubber",
+        "comments": "https://xformgames.itch.io/burnin-rubber/comments"
+    },
+    "title": "Burnin' Rubber"
+}

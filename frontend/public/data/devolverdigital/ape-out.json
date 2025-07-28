@@ -1,0 +1,24 @@
+{
+    "price": "$15.00",
+    "id": 374569,
+    "title": "APE OUT",
+    "links": {
+        "self": "https://devolverdigital.itch.io/ape-out",
+        "comments": "https://devolverdigital.itch.io/ape-out/comments"
+    },
+    "tags": [
+        "action",
+        "minimalist",
+        "procedural",
+        "rhythm",
+        "top-down",
+        "violent"
+    ],
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4OTEyMzIucG5n/315x250%23c/C%2Fjf25.png"
+}

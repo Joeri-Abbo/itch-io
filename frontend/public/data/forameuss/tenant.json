@@ -1,0 +1,31 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzM0OTUyMzUuZ2lm/315x250%23c/%2FiOJ%2Bg.gif",
+    "id": 641532,
+    "links": {
+        "self": "https://croxel-studios.itch.io/tenant",
+        "comments": "https://croxel-studios.itch.io/tenant/comments"
+    },
+    "title": "TENANT",
+    "authors": [
+        {
+            "name": "Croxel Studios",
+            "url": "https://croxel-studios.itch.io"
+        },
+        {
+            "name": "Astrophel Dev",
+            "url": "https://astropheldev.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "action",
+        "arcade",
+        "boss-battle",
+        "retro",
+        "science-fiction",
+        "shoot-em-up",
+        "short",
+        "singleplayer",
+        "space"
+    ]
+}

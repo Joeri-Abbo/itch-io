@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Kodub",
+            "url": "https://kodub.itch.io"
+        }
+    ],
+    "id": 573794,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "physics",
+        "short",
+        "simulation",
+        "singleplayer",
+        "virtual-reality",
+        "webvr",
+        "webxr"
+    ],
+    "links": {
+        "comments": "https://kodub.itch.io/krossa/comments",
+        "self": "https://kodub.itch.io/krossa"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzMwMTg0MzYucG5n/315x250%23c/enlfQb.png",
+    "title": "Krossa [VR]"
+}

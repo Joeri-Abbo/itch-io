@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "pixel-boy",
+            "url": "https://pixel-boy.itch.io"
+        }
+    ],
+    "id": 752164,
+    "tags": [
+        "2d",
+        "action",
+        "fantasy",
+        "grayscale",
+        "local-multiplayer",
+        "multiplayer",
+        "no-ai",
+        "pixel-art",
+        "platformer",
+        "racing",
+        "short",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQyMjg2ODkuZ2lm/315x250%23c/M03U3v.gif",
+    "links": {
+        "devlog": "https://pixel-boy.itch.io/quest-of-graal/devlog",
+        "self": "https://pixel-boy.itch.io/quest-of-graal",
+        "comments": "https://pixel-boy.itch.io/quest-of-graal/comments"
+    },
+    "title": "Quest Of Graal"
+}

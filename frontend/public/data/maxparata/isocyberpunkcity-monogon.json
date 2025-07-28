@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzc4Nzc1NzcucG5n/315x250%23c/zw4OlX.png",
+    "id": 1351968,
+    "links": {
+        "comments": "https://maxparata.itch.io/isocyberpunkcity-monogon/comments",
+        "devlog": "https://maxparata.itch.io/isocyberpunkcity-monogon/devlog",
+        "self": "https://maxparata.itch.io/isocyberpunkcity-monogon"
+    },
+    "title": "Isometric Cyberpunk City - monogon",
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "3d",
+        "cyberpunk",
+        "godot",
+        "isometric",
+        "no-ai",
+        "pixel-art",
+        "rpgmaker",
+        "sprites",
+        "unreal-engine",
+        "voxel"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "Laura2000",
+            "url": "https://laura2000.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI1MzMzNzMuanBn/315x250%23c/Rf1xPf.jpg",
+    "id": 490106,
+    "links": {
+        "self": "https://laura2000.itch.io/bowball",
+        "comments": "https://laura2000.itch.io/bowball/comments"
+    },
+    "title": "BowBall",
+    "price": "$0.00",
+    "tags": [
+        "arcade",
+        "josegame",
+        "local-co-op",
+        "local-multiplayer",
+        "multiplayer",
+        "survival"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "tags": [
+        "16-bit",
+        "2d",
+        "3d",
+        "4k",
+        "cg",
+        "hd",
+        "no-ai",
+        "procedural",
+        "textures"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM1NDg1MTAucG5n/315x250%23c/ztiO8y.png",
+    "id": 657991,
+    "price": "$17.95",
+    "links": {
+        "self": "https://kronbits.itch.io/organic-renders"
+    },
+    "sale": {
+        "end_date": "2026-01-02 17:00:00",
+        "id": 86346,
+        "rate": 10,
+        "title": "Super Mega Gamedev Bundle v2"
+    },
+    "original_price": "$19.95",
+    "title": "4K Textures - Organic"
+}

@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "bun muen",
+            "url": "https://bunmuen.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI1NTkwMTcucG5n/315x250%23c/nREh1N.png",
+    "id": 495018,
+    "title": "Slinger",
+    "links": {
+        "self": "https://bunmuen.itch.io/slinger",
+        "community": "https://bunmuen.itch.io/slinger/community"
+    },
+    "tags": [
+        "2d",
+        "action",
+        "adventure",
+        "boss-battle",
+        "fast-paced",
+        "ludum-dare-45",
+        "platformer",
+        "singleplayer",
+        "unity"
+    ]
+}

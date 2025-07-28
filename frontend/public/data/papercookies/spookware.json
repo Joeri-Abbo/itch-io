@@ -1,0 +1,28 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://papercookies.itch.io/spookware",
+        "comments": "https://papercookies.itch.io/spookware/comments",
+        "devlog": "https://papercookies.itch.io/spookware/devlog"
+    },
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        },
+        {
+            "name": "ViktorRKraus",
+            "url": "https://viktorrkraus.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM4Nzk3MjUuZ2lm/315x250%23c/bJ3Zpm.gif",
+    "id": 702657,
+    "title": "SPOOKWARE (JAM VERSION)",
+    "tags": [
+        "arcade",
+        "horror",
+        "minigames",
+        "survival",
+        "survival-horror"
+    ]
+}

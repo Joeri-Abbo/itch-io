@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "echochvmber",
+            "url": "https://echochvmber.itch.io"
+        }
+    ],
+    "id": 3515319,
+    "price": "$0.00",
+    "tags": [
+        "atmospheric",
+        "exploration",
+        "first-person",
+        "horror",
+        "inventory",
+        "no-ai",
+        "retro",
+        "singleplayer",
+        "survival"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxNTI2ODQzLmdpZg==/315x250%23c/FSxG5Z.gif",
+    "links": {
+        "devlog": "https://echochvmber.itch.io/invocation/devlog",
+        "self": "https://echochvmber.itch.io/invocation",
+        "comments": "https://echochvmber.itch.io/invocation/comments"
+    },
+    "title": "Invocation: Ghost Photography"
+}

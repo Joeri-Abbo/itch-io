@@ -1,0 +1,26 @@
+{
+    "price": "$12.00",
+    "links": {
+        "comments": "https://calnite.itch.io/gothic-vn-gui/comments",
+        "self": "https://calnite.itch.io/gothic-vn-gui"
+    },
+    "authors": [
+        {
+            "name": "Cal",
+            "url": "https://calnite.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODU2MDUyLmdpZg==/315x250%23c/yA6QIq.gif",
+    "id": 3325026,
+    "title": "Gothic VN GUI",
+    "tags": [
+        "asset-pack",
+        "dark-fantasy",
+        "fantasy",
+        "gothic",
+        "gui",
+        "no-ai",
+        "renpy",
+        "visual-novel"
+    ]
+}

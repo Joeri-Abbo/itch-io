@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/voxel-guns-n-riffles-monogon",
+        "comments": "https://maxparata.itch.io/voxel-guns-n-riffles-monogon/comments",
+        "devlog": "https://maxparata.itch.io/voxel-guns-n-riffles-monogon/devlog"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyNTg2ODg5LnBuZw==/315x250%23c/y8%2Bld2.png",
+    "id": 1226499,
+    "title": "Voxel Guns n Riffles - monogon",
+    "tags": [
+        "3d",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "obj",
+        "pixel-art",
+        "top-down",
+        "top-down-shooter",
+        "unreal-engine",
+        "voxel"
+    ]
+}

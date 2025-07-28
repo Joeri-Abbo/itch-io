@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "dimikira",
+            "url": "https://dimikira.itch.io"
+        }
+    ],
+    "id": 2993403,
+    "price": "$0.00",
+    "tags": [
+        "escape-game",
+        "renpy",
+        "thriller",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3OTc3MzY4LnBuZw==/315x250%23c/qnzmY6.png",
+    "links": {
+        "devlog": "https://dimikira.itch.io/bad-manors/devlog",
+        "self": "https://dimikira.itch.io/bad-manors",
+        "comments": "https://dimikira.itch.io/bad-manors/comments"
+    },
+    "title": "BAD MANORS"
+}

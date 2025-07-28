@@ -1,0 +1,29 @@
+{
+    "price": "$0.00",
+    "id": 727068,
+    "title": "Snakes without Brakes",
+    "links": {
+        "self": "https://kodub.itch.io/snakes-without-brakes",
+        "comments": "https://kodub.itch.io/snakes-without-brakes/comments",
+        "devlog": "https://kodub.itch.io/snakes-without-brakes/devlog"
+    },
+    "tags": [
+        "2d",
+        "lowrezjam",
+        "minimalist",
+        "pixel-art",
+        "puzzle",
+        "retro",
+        "singleplayer",
+        "snake",
+        "top-down",
+        "turn-based"
+    ],
+    "authors": [
+        {
+            "name": "Kodub",
+            "url": "https://kodub.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQwNjgyMzcucG5n/315x250%23c/2gG7rc.png"
+}

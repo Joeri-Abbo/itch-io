@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTMxODUyLzYwNTI5My5naWY=/315x250%23c/43GskV.gif",
+    "id": 131852,
+    "links": {
+        "self": "https://papercookies.itch.io/seasonal-heights",
+        "comments": "https://papercookies.itch.io/seasonal-heights/comments"
+    },
+    "title": "Seasonal Heights",
+    "price": "$0.00",
+    "tags": [
+        "pixel-art",
+        "platformer",
+        "seasons",
+        "short",
+        "slow",
+        "slow_game_jam"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 2665057,
+    "cover_image": "https://img.itch.zone/aW1nLzE4NzUxMTE4LmpwZw==/315x250%23c/s9rW4b.jpg",
+    "tags": [
+        "3d",
+        "asset-pack",
+        "godot",
+        "icons",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ],
+    "links": {
+        "self": "https://maxparata.itch.io/voxelicons",
+        "comments": "https://maxparata.itch.io/voxelicons/comments",
+        "devlog": "https://maxparata.itch.io/voxelicons/devlog"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "title": "Voxel Icons and Items Megapack - monogon"
+}

@@ -1,0 +1,25 @@
+{
+    "price": "$9.99",
+    "id": 240797,
+    "title": "Minit",
+    "links": {
+        "self": "https://devolverdigital.itch.io/minit"
+    },
+    "tags": [
+        "1-bit",
+        "adventure",
+        "frog",
+        "indie",
+        "minit",
+        "retro",
+        "speedrun",
+        "time-attack"
+    ],
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjQwNzk3LzExNDc0OTMucG5n/315x250%23c/3FJ3CQ.png"
+}

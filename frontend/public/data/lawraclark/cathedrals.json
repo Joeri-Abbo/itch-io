@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Lawra Suits Clark",
+            "url": "https://lawraclark.itch.io"
+        }
+    ],
+    "id": 1472249,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "altgame",
+        "artgame",
+        "atmospheric",
+        "casual",
+        "gamemaker",
+        "puzzle",
+        "short"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzg2MjE4MzEuZ2lm/315x250%23c/43e%2FoH.gif",
+    "links": {
+        "self": "https://lawraclark.itch.io/cathedrals",
+        "comments": "https://lawraclark.itch.io/cathedrals/comments"
+    },
+    "title": "Cathedrals"
+}

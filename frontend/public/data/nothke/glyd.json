@@ -1,0 +1,34 @@
+{
+    "authors": [
+        {
+            "name": "raxter",
+            "url": "https://raxter.itch.io"
+        },
+        {
+            "name": "- grr -",
+            "url": "https://grreuze.itch.io"
+        },
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        },
+        {
+            "name": "Calined",
+            "url": "https://calined.itch.io"
+        }
+    ],
+    "id": 99527,
+    "price": "$0.00",
+    "tags": [
+        "abstract",
+        "experimental",
+        "other",
+        "ray-marching"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvOTk1MjcvNDY4Mjc1LmpwZw==/315x250%23c/T7DumZ.jpg",
+    "links": {
+        "self": "https://raxter.itch.io/glyd",
+        "comments": "https://raxter.itch.io/glyd/comments"
+    },
+    "title": "Gly'd"
+}

@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "id": 320115,
+    "price": "$2.99",
+    "tags": [
+        "3d",
+        "action",
+        "nitro",
+        "racing",
+        "retro",
+        "time-attack"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyNDA0MzgucG5n/315x250%23c/v5ekLx.png",
+    "links": {
+        "devlog": "https://xformgames.itch.io/rally-point-4/devlog",
+        "self": "https://xformgames.itch.io/rally-point-4",
+        "comments": "https://xformgames.itch.io/rally-point-4/comments"
+    },
+    "title": "Rally Point 4"
+}

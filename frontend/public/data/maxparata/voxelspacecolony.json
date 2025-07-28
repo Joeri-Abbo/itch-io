@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 1078280,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "cyberpunk",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "space",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyNTg3MTY2LnBuZw==/315x250%23c/XD887x.png",
+    "links": {
+        "devlog": "https://maxparata.itch.io/voxelspacecolony/devlog",
+        "self": "https://maxparata.itch.io/voxelspacecolony",
+        "comments": "https://maxparata.itch.io/voxelspacecolony/comments"
+    },
+    "title": "Voxel Space Colony - monogon"
+}

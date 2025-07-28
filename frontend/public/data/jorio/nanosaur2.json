@@ -1,0 +1,19 @@
+{
+    "price": "$0.00",
+    "links": {
+        "community": "https://jorio.itch.io/nanosaur2/community",
+        "self": "https://jorio.itch.io/nanosaur2"
+    },
+    "authors": [
+        {
+            "name": "Iliyas Jorio",
+            "url": "https://jorio.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEwNzA5ODUxLmpwZw==/315x250%23c/I7N70A.jpg",
+    "id": 1824399,
+    "title": "Nanosaur 2: Hatchling",
+    "tags": [
+        "action"
+    ]
+}

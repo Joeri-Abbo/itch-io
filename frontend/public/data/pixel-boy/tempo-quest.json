@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "pixel-boy",
+            "url": "https://pixel-boy.itch.io"
+        }
+    ],
+    "id": 249686,
+    "tags": [
+        "action",
+        "gamemaker",
+        "local-co-op",
+        "local-multiplayer",
+        "ludum-dare-41",
+        "mashup",
+        "multiplayer",
+        "music",
+        "no-ai",
+        "pixel-art",
+        "roguelike",
+        "rpg"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE2Mjc3NjguZ2lm/315x250%23c/1t09CQ.gif",
+    "links": {
+        "devlog": "https://pixel-boy.itch.io/tempo-quest/devlog",
+        "self": "https://pixel-boy.itch.io/tempo-quest",
+        "comments": "https://pixel-boy.itch.io/tempo-quest/comments"
+    },
+    "title": "Tempo Quest"
+}

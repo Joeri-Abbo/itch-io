@@ -1,0 +1,25 @@
+{
+    "price": "$0.00",
+    "id": 1600769,
+    "cover_image": "https://img.itch.zone/aW1nLzk0OTA2MDEuZ2lm/315x250%23c/nn%2FL8k.gif",
+    "tags": [
+        "arcade",
+        "mfgj14",
+        "my-first-game-jam",
+        "other",
+        "retro",
+        "voxel"
+    ],
+    "links": {
+        "self": "https://tmseldon.itch.io/silentwings-2491",
+        "comments": "https://tmseldon.itch.io/silentwings-2491/comments",
+        "devlog": "https://tmseldon.itch.io/silentwings-2491/devlog"
+    },
+    "authors": [
+        {
+            "name": "tmseldon",
+            "url": "https://tmseldon.itch.io"
+        }
+    ],
+    "title": "Silent Wings 2491"
+}

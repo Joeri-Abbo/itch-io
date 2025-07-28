@@ -1,0 +1,22 @@
+{
+    "title": "EGG BABY",
+    "id": 257834,
+    "price": "$0.00",
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjU3ODM0LzEyMzYxOTcucG5n/315x250%23c/qeQ%2FHY.png",
+    "links": {
+        "self": "https://splendidland.itch.io/egg-baby"
+    },
+    "tags": [
+        "baby",
+        "egg",
+        "interactive-fiction",
+        "twine",
+        "virtual-pet"
+    ],
+    "authors": [
+        {
+            "name": "splendidland",
+            "url": "https://splendidland.itch.io"
+        }
+    ]
+}

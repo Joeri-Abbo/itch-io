@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "id": 321455,
+    "price": "$1.99",
+    "tags": [
+        "3d",
+        "action",
+        "drm-free",
+        "explosions",
+        "racing",
+        "shooter",
+        "sports"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ0NDIyMjUucG5n/315x250%23c/YuXEDz.png",
+    "links": {
+        "self": "https://xformgames.itch.io/hydro-storm-2",
+        "comments": "https://xformgames.itch.io/hydro-storm-2/comments"
+    },
+    "title": "Hydro Storm 2"
+}

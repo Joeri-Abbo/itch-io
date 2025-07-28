@@ -1,0 +1,29 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://maxparata.itch.io/rocky-mountains/comments",
+        "self": "https://maxparata.itch.io/rocky-mountains"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzUzNDAwMDAucG5n/315x250%23c/QDCPK9.png",
+    "id": 942251,
+    "title": "Voxel Nature Pack : Rocky Mountains",
+    "tags": [
+        "3d",
+        "godot",
+        "isometric",
+        "low-poly",
+        "nature",
+        "no-ai",
+        "pixel-art",
+        "post-apocalyptic",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ]
+}

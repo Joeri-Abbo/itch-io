@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        },
+        {
+            "name": "ViktorRKraus",
+            "url": "https://viktorrkraus.itch.io"
+        },
+        {
+            "name": "WardDheer",
+            "url": "https://warddheer.itch.io"
+        }
+    ],
+    "id": 546326,
+    "price": "$0.00",
+    "tags": [
+        "altgame",
+        "artgame",
+        "immersive",
+        "other",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI4NTUxMjQuZ2lm/315x250%23c/Myjf7X.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/day-divider",
+        "comments": "https://papercookies.itch.io/day-divider/comments"
+    },
+    "title": "Day Divider"
+}

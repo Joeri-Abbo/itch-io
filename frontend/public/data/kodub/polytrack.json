@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzIwNjA4NTc4LnBuZw==/315x250%23c/wDwBX5.png",
+    "id": 1829893,
+    "links": {
+        "self": "https://kodub.itch.io/polytrack",
+        "community": "https://kodub.itch.io/polytrack/community",
+        "devlog": "https://kodub.itch.io/polytrack/devlog"
+    },
+    "title": "PolyTrack",
+    "price": "$0.00",
+    "authors": [
+        {
+            "name": "Kodub",
+            "url": "https://kodub.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "arcade",
+        "difficult",
+        "driving",
+        "high-score",
+        "level-editor",
+        "low-poly",
+        "racing",
+        "singleplayer",
+        "speedrun"
+    ]
+}

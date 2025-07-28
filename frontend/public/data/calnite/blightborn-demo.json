@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Cal",
+            "url": "https://calnite.itch.io"
+        }
+    ],
+    "id": 3435536,
+    "price": "$0.00",
+    "tags": [
+        "dating-sim",
+        "horror",
+        "no-ai",
+        "otome",
+        "post-apocalyptic",
+        "romance",
+        "science-fiction",
+        "survival-horror",
+        "visual-novel"
+    ],
+    "links": {
+        "devlog": "https://calnite.itch.io/blightborn-demo/devlog",
+        "comments": "https://calnite.itch.io/blightborn-demo/comments",
+        "self": "https://calnite.itch.io/blightborn-demo"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIwNTMwOTIyLmpwZw==/315x250%23c/fNCVTV.jpg",
+    "title": "Blightborn - Demo"
+}

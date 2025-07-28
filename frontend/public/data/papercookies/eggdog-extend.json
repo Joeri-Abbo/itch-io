@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "zamsire",
+            "url": "https://zamsire.itch.io"
+        },
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 2344425,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "arcade",
+        "cute",
+        "low-poly",
+        "other",
+        "short",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEzODg4OTc4LnBuZw==/315x250%23c/ZL6X5B.png",
+    "links": {
+        "self": "https://zamsire.itch.io/eggdog-extend",
+        "comments": "https://zamsire.itch.io/eggdog-extend/comments"
+    },
+    "title": "Eggdog Extended"
+}

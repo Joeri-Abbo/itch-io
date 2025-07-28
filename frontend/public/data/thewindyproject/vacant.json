@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "Windy",
+            "url": "https://thewindyproject.itch.io"
+        }
+    ],
+    "id": 3566517,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "horror",
+        "no-ai",
+        "psx",
+        "psychological-horror",
+        "retro",
+        "short",
+        "story-rich",
+        "survival-horror"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxODMxNjM2LmdpZg==/315x250%23c/x5iNUy.gif",
+    "links": {
+        "devlog": "https://thewindyproject.itch.io/vacant/devlog",
+        "self": "https://thewindyproject.itch.io/vacant",
+        "comments": "https://thewindyproject.itch.io/vacant/comments"
+    },
+    "title": "VACANT"
+}

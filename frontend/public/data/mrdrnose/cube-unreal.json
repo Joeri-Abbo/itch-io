@@ -1,0 +1,30 @@
+{
+    "title": "\"CUBE\" Unreal [archive]",
+    "id": 216792,
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjE2NzkyLzEwMjMwNTcucG5n/315x250%23c/ue4g0R.png",
+    "tags": [
+        "3d",
+        "dark",
+        "difficult",
+        "first-person",
+        "maze",
+        "puzzle",
+        "secrets",
+        "simulation",
+        "singleplayer",
+        "survival",
+        "unreal-engine"
+    ],
+    "authors": [
+        {
+            "name": "mrdrnose",
+            "url": "https://mrdrnose.itch.io"
+        }
+    ],
+    "price": "$0.00",
+    "links": {
+        "self": "https://mrdrnose.itch.io/cube-unreal",
+        "devlog": "https://mrdrnose.itch.io/cube-unreal/devlog",
+        "community": "https://mrdrnose.itch.io/cube-unreal/community"
+    }
+}

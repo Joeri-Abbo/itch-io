@@ -1,0 +1,33 @@
+{
+    "price": "$0.00",
+    "id": 3454585,
+    "cover_image": "https://img.itch.zone/aW1nLzIwNjM1MDgxLnBuZw==/315x250%23c/S9wsYT.png",
+    "tags": [
+        "3d",
+        "adventure",
+        "cozy",
+        "first-person",
+        "fishing",
+        "funny",
+        "ludum-dare",
+        "no-ai",
+        "ocean",
+        "simulation",
+        "vibes"
+    ],
+    "links": {
+        "comments": "https://bragekh.itch.io/fresh-catch/comments",
+        "self": "https://bragekh.itch.io/fresh-catch"
+    },
+    "authors": [
+        {
+            "name": "BrageKh",
+            "url": "https://bragekh.itch.io"
+        },
+        {
+            "name": "Ollie Hall",
+            "url": "https://olliehall.itch.io"
+        }
+    ],
+    "title": "Fresh Catch!"
+}

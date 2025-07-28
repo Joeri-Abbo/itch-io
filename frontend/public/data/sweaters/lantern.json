@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Sweaters",
+            "url": "https://sweaters.itch.io"
+        }
+    ],
+    "id": 1137770,
+    "price": "$0.00",
+    "tags": [
+        "1-bit",
+        "2d",
+        "action",
+        "dark",
+        "pixel-art"
+    ],
+    "links": {
+        "comments": "https://sweaters.itch.io/lantern/comments",
+        "self": "https://sweaters.itch.io/lantern"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzY1OTYwMzMucG5n/315x250%23c/5%2FQrD7.png",
+    "title": "Lantern"
+}

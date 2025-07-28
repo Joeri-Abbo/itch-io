@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "A. V. Dossow",
+            "url": "https://avdossow.itch.io"
+        }
+    ],
+    "id": 1941091,
+    "price": "$0.00",
+    "tags": [
+        "atmospheric",
+        "creepy",
+        "folklore",
+        "horror",
+        "interactive-fiction",
+        "pixel-art",
+        "psychological-horror",
+        "puzzle",
+        "rpgmaker",
+        "survival",
+        "survival-horror"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzExNDEyMDU4LnBuZw==/315x250%23c/1MMk%2Fd.png",
+    "links": {
+        "self": "https://avdossow.itch.io/the-sakabashira-game",
+        "comments": "https://avdossow.itch.io/the-sakabashira-game/comments"
+    },
+    "title": "The Sakabashira Game"
+}

@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "Sparklin Labs",
+            "url": "https://sparklinlabs.itch.io"
+        }
+    ],
+    "id": 49512,
+    "tags": [
+        "3d-platformer",
+        "platformer",
+        "superpowers-html5"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNDk1MTIvMjE2ODA1LmdpZg==/315x250%23c/UbszrY.gif",
+    "links": {
+        "self": "https://sparklinlabs.itch.io/discover-superpowers"
+    },
+    "title": "Superpowers Demo"
+}

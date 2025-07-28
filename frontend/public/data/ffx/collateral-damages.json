@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzQyODk1MTEuanBn/315x250%23c/dsSmJo.jpg",
+    "id": 766807,
+    "tags": [
+        "2d",
+        "action",
+        "arcade",
+        "parallax",
+        "platformer",
+        "retro",
+        "robots",
+        "shooter",
+        "side-scroller",
+        "singleplayer"
+    ],
+    "price": "$0.00",
+    "title": "Collateral Damages",
+    "links": {
+        "devlog": "https://ffx.itch.io/collateral-damages/devlog",
+        "self": "https://ffx.itch.io/collateral-damages",
+        "comments": "https://ffx.itch.io/collateral-damages/comments"
+    },
+    "authors": [
+        {
+            "name": "ffx",
+            "url": "https://ffx.itch.io"
+        }
+    ]
+}

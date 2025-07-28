@@ -1,0 +1,23 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzI4MjEzODYucG5n/315x250%23c/2JXQo%2B.png",
+    "id": 541745,
+    "title": "Bird Creator",
+    "price": "$0.00",
+    "links": {
+        "self": "https://sweaters.itch.io/birdcreator",
+        "comments": "https://sweaters.itch.io/birdcreator/comments",
+        "devlog": "https://sweaters.itch.io/birdcreator/devlog"
+    },
+    "authors": [
+        {
+            "name": "Sweaters",
+            "url": "https://sweaters.itch.io"
+        }
+    ],
+    "tags": [
+        "creative",
+        "other",
+        "pixel-art",
+        "retro"
+    ]
+}

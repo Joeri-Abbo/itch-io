@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Giant Light Studios",
+            "url": "https://giantlight.itch.io"
+        }
+    ],
+    "id": 2751104,
+    "price": "$0.00",
+    "tags": [
+        "experimental",
+        "eyeballs",
+        "minimalist",
+        "puzzle",
+        "spoopy",
+        "weird"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE2NDI1MjE2LnBuZw==/315x250%23c/Zeyd0n.png",
+    "links": {
+        "devlog": "https://giantlight.itch.io/peek-peek/devlog",
+        "self": "https://giantlight.itch.io/peek-peek",
+        "comments": "https://giantlight.itch.io/peek-peek/comments"
+    },
+    "title": "Peek Peek"
+}

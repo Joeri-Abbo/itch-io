@@ -1,0 +1,30 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzUyODM1OTYucG5n/315x250%23c/VGvQP0.png",
+    "id": 922037,
+    "title": "Voxel Apocalypse : Zombies",
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/voxel-zombies",
+        "comments": "https://maxparata.itch.io/voxel-zombies/comments",
+        "devlog": "https://maxparata.itch.io/voxel-zombies/devlog"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "godot",
+        "horror",
+        "low-poly",
+        "mobile",
+        "no-ai",
+        "pixel-art",
+        "post-apocalyptic",
+        "unreal-engine",
+        "voxel",
+        "zombies"
+    ]
+}

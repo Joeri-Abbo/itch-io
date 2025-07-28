@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Fiendish Fiction",
+            "url": "https://fiendishfiction.itch.io"
+        }
+    ],
+    "id": 1127652,
+    "tags": [
+        "atmospheric",
+        "creepy",
+        "dark",
+        "female-protagonist",
+        "horror",
+        "interactive-fiction",
+        "monsters",
+        "no-ai",
+        "short",
+        "survival",
+        "underwater",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzY1Mjk5NDEucG5n/315x250%23c/3%2B9cY9.png",
+    "links": {
+        "devlog": "https://fiendishfiction.itch.io/fromthedeep/devlog",
+        "self": "https://fiendishfiction.itch.io/fromthedeep",
+        "comments": "https://fiendishfiction.itch.io/fromthedeep/comments"
+    },
+    "title": "To Mari, From the Deep"
+}

@@ -1,0 +1,25 @@
+{
+    "id": 1509737,
+    "title": "FRANKEN",
+    "links": {
+        "self": "https://splendidland.itch.io/franken",
+        "comments": "https://splendidland.itch.io/franken/comments"
+    },
+    "tags": [
+        "2d",
+        "adventure",
+        "funny",
+        "jrpg",
+        "ohrrpgce",
+        "pixel-art",
+        "rpg",
+        "singleplayer"
+    ],
+    "authors": [
+        {
+            "name": "splendidland",
+            "url": "https://splendidland.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzg4MDQ3NzQucG5n/315x250%23c/TtPEWq.png"
+}

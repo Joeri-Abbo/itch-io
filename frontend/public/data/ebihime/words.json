@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        }
+    ],
+    "id": 1433027,
+    "price": "$12.99",
+    "tags": [
+        "anime",
+        "comedy",
+        "cute",
+        "female-protagonist",
+        "lesbian",
+        "lgbt",
+        "moe",
+        "no-ai",
+        "romance",
+        "slice-of-life",
+        "visual-novel",
+        "yuri"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzgzNTA3OTMucG5n/315x250%23c/rkg7SH.png",
+    "links": {
+        "devlog": "https://ebihime.itch.io/words/devlog",
+        "self": "https://ebihime.itch.io/words",
+        "comments": "https://ebihime.itch.io/words/comments"
+    },
+    "title": "All the Words She Wrote"
+}

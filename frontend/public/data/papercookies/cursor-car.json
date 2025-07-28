@@ -1,0 +1,25 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://papercookies.itch.io/cursor-car",
+        "comments": "https://papercookies.itch.io/cursor-car/comments",
+        "devlog": "https://papercookies.itch.io/cursor-car/devlog"
+    },
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODMzNTYuZ2lm/315x250%23c/rSCIY4.gif",
+    "id": 400232,
+    "title": "Cursor Car",
+    "tags": [
+        "dektop",
+        "desktop-toy",
+        "other",
+        "racing",
+        "toy",
+        "unity"
+    ]
+}

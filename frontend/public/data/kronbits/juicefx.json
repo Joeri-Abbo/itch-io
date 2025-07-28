@@ -1,0 +1,33 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzE5MzY0MDQuZ2lm/315x250%23c/Zpu6C0.gif",
+    "price": "$14.96",
+    "sale": {
+        "rate": 25,
+        "id": 156442,
+        "end_date": "2025-08-05 10:20:00",
+        "title": "Juice FX \u2014 Sale"
+    },
+    "id": 347387,
+    "title": "Juice FX",
+    "original_price": "$19.95",
+    "links": {
+        "self": "https://codemanu.itch.io/juicefx",
+        "community": "https://codemanu.itch.io/juicefx/community",
+        "devlog": "https://codemanu.itch.io/juicefx/devlog"
+    },
+    "tags": [
+        "16-bit",
+        "2d",
+        "8-bit",
+        "animation",
+        "particles",
+        "pixel-art",
+        "sprites"
+    ],
+    "authors": [
+        {
+            "name": "CodeManu",
+            "url": "https://codemanu.itch.io"
+        }
+    ]
+}

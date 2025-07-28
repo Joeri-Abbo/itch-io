@@ -1,0 +1,21 @@
+{
+    "links": {
+        "comments": "https://freds72.itch.io/another-world/comments",
+        "self": "https://freds72.itch.io/another-world"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzQ5MDA3MjAucG5n/315x250%23c/2SHe%2B2.png",
+    "tags": [
+        "2d",
+        "action",
+        "pico-8",
+        "pixel-art"
+    ],
+    "id": 871779,
+    "authors": [
+        {
+            "name": "freds72",
+            "url": "https://freds72.itch.io"
+        }
+    ],
+    "title": "Another World"
+}

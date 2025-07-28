@@ -1,0 +1,27 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://tommulgrew.itch.io/whiplash-taxi-co",
+        "comments": "https://tommulgrew.itch.io/whiplash-taxi-co/comments",
+        "devlog": "https://tommulgrew.itch.io/whiplash-taxi-co/devlog"
+    },
+    "authors": [
+        {
+            "name": "Tom Mulgrew",
+            "url": "https://tommulgrew.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEzNTQ1MDY0LnBuZw==/315x250%23c/GR%2BEH%2B.png",
+    "id": 2195559,
+    "title": "Whiplash Taxi Co",
+    "tags": [
+        "3d",
+        "driving",
+        "pico-8",
+        "pixel-art",
+        "racing",
+        "retro",
+        "singleplayer",
+        "taxi"
+    ]
+}

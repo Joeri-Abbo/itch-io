@@ -1,0 +1,28 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://reassembler68k.itch.io/outrun-amiga-edition",
+        "comments": "https://reassembler68k.itch.io/outrun-amiga-edition/comments",
+        "devlog": "https://reassembler68k.itch.io/outrun-amiga-edition/devlog"
+    },
+    "authors": [
+        {
+            "name": "reassembler",
+            "url": "https://reassembler68k.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMTcxMTA3LnBuZw==/315x250%23c/5SfcHb.png",
+    "id": 3724917,
+    "title": "OutRun: Amiga Edition",
+    "tags": [
+        "amiga",
+        "arcade",
+        "no-ai",
+        "outrun",
+        "racing",
+        "remake",
+        "retro",
+        "sega",
+        "simulation"
+    ]
+}

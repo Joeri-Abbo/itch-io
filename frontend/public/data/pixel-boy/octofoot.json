@@ -1,0 +1,23 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://sparklinlabs.itch.io/octofoot/comments",
+        "self": "https://sparklinlabs.itch.io/octofoot"
+    },
+    "authors": [
+        {
+            "name": "Sparklin Labs",
+            "url": "https://sparklinlabs.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNzA2NTkvMzMxNTcwLnBuZw==/315x250%23c/hrik7H.png",
+    "id": 70659,
+    "title": "Octofoot",
+    "tags": [
+        "2d",
+        "arcade",
+        "soccer",
+        "sports",
+        "superpowers-html5"
+    ]
+}

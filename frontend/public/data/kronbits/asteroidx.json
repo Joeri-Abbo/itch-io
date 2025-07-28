@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "id": 50305,
+    "price": "$0.00",
+    "tags": [
+        "asteroids",
+        "casual",
+        "oldschool",
+        "retro",
+        "shoot-em-up",
+        "shooter",
+        "stardust"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNTAzMDUvNDM4NzA1LmdpZg==/315x250%23c/f3I4tA.gif",
+    "links": {
+        "self": "https://kronbits.itch.io/asteroidx"
+    },
+    "title": "Asteroidx"
+}

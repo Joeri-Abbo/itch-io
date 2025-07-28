@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "id": 137127,
+    "tags": [
+        "ludum-dare-38",
+        "puzzle"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTM3MTI3LzYyODIyMy5wbmc=/315x250%23c/Yu5SxG.png",
+    "links": {
+        "self": "https://impbox.itch.io/smalltrek",
+        "comments": "https://impbox.itch.io/smalltrek/comments"
+    },
+    "title": "Smalltrek"
+}

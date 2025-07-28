@@ -1,0 +1,30 @@
+{
+    "title": "Tanks of Freedom",
+    "id": 17705,
+    "price": "$0.00",
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTc3MDUvOTE2NTkuZ2lm/315x250%23c/lu9dhb.gif",
+    "links": {
+        "self": "https://w84death.itch.io/tanks-of-freedom",
+        "devlog": "https://w84death.itch.io/tanks-of-freedom/devlog"
+    },
+    "tags": [
+        "2d",
+        "8-bit",
+        "classic",
+        "global-game-jam",
+        "isometric",
+        "local-multiplayer",
+        "pixel-art",
+        "retro",
+        "strategy",
+        "tanks",
+        "turn-based",
+        "turn-based-strategy"
+    ],
+    "authors": [
+        {
+            "name": "P1X",
+            "url": "https://w84death.itch.io"
+        }
+    ]
+}

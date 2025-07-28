@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "PuzzSoft",
+            "url": "https://puzzsoft.itch.io"
+        }
+    ],
+    "id": 384102,
+    "tags": [
+        "2d",
+        "co-op",
+        "difficult",
+        "hand-drawn",
+        "local-co-op",
+        "local-multiplayer",
+        "puzzle",
+        "puzzle-platformer",
+        "unity",
+        "watercolor"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyNTczODQucG5n/315x250%23c/wz1BVH.png",
+    "links": {
+        "devlog": "https://puzzsoft.itch.io/trail-mix/devlog",
+        "self": "https://puzzsoft.itch.io/trail-mix",
+        "comments": "https://puzzsoft.itch.io/trail-mix/comments"
+    },
+    "title": "Trail Mix"
+}

@@ -1,0 +1,29 @@
+{
+    "price": "$0.00",
+    "id": 741421,
+    "cover_image": "https://img.itch.zone/aW1nLzQyMjcwOTMucG5n/315x250%23c/k1nNDM.png",
+    "tags": [
+        "arcade",
+        "cats",
+        "creepy",
+        "cute",
+        "horror",
+        "pixel-art",
+        "puzzle",
+        "retro",
+        "tetris",
+        "violent"
+    ],
+    "links": {
+        "self": "https://sweaters.itch.io/ketris",
+        "comments": "https://sweaters.itch.io/ketris/comments",
+        "devlog": "https://sweaters.itch.io/ketris/devlog"
+    },
+    "authors": [
+        {
+            "name": "Sweaters",
+            "url": "https://sweaters.itch.io"
+        }
+    ],
+    "title": "Ketris"
+}

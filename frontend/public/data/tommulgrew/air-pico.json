@@ -1,0 +1,27 @@
+{
+    "authors": [
+        {
+            "name": "Tom Mulgrew",
+            "url": "https://tommulgrew.itch.io"
+        }
+    ],
+    "id": 3605213,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "cozy",
+        "exploration",
+        "flight",
+        "no-ai",
+        "pico-8",
+        "pixel-art",
+        "simulation"
+    ],
+    "links": {
+        "devlog": "https://tommulgrew.itch.io/air-pico/devlog",
+        "comments": "https://tommulgrew.itch.io/air-pico/comments",
+        "self": "https://tommulgrew.itch.io/air-pico"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIxNDYxMTczLnBuZw==/315x250%23c/QzZ601.png",
+    "title": "Air Pico"
+}

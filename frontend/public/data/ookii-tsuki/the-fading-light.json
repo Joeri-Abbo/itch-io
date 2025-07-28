@@ -1,0 +1,25 @@
+{
+    "title": "The Fading Light",
+    "id": 574485,
+    "cover_image": "https://img.itch.zone/aW1nLzMwMjI5MjAucG5n/315x250%23c/WmAiil.png",
+    "tags": [
+        "2d",
+        "endless",
+        "shooter",
+        "singleplayer",
+        "survival",
+        "top-down"
+    ],
+    "authors": [
+        {
+            "name": "Medo",
+            "url": "https://ookii-tsuki.itch.io"
+        }
+    ],
+    "price": "$0.00",
+    "links": {
+        "self": "https://ookii-tsuki.itch.io/the-fading-light",
+        "devlog": "https://ookii-tsuki.itch.io/the-fading-light/devlog",
+        "comments": "https://ookii-tsuki.itch.io/the-fading-light/comments"
+    }
+}

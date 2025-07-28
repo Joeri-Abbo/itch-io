@@ -1,0 +1,35 @@
+{
+    "authors": [
+        {
+            "name": "Til Nomi",
+            "url": "https://the-nomi.itch.io"
+        },
+        {
+            "name": "Ferran Bertomeu",
+            "url": "https://fonserbc.itch.io"
+        },
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        },
+        {
+            "name": "horatiuromantic",
+            "url": "https://horatiuromantic.itch.io"
+        }
+    ],
+    "id": 1304485,
+    "price": "$0.00",
+    "tags": [
+        "board-game",
+        "drawing",
+        "multiplayer",
+        "other",
+        "tabletop"
+    ],
+    "links": {
+        "comments": "https://the-nomi.itch.io/tell-a-vision/comments",
+        "self": "https://the-nomi.itch.io/tell-a-vision"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzc1ODgzNTkucG5n/315x250%23cb/GwFrjg.png",
+    "title": "Tell-a-Vision"
+}

@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 168442,
+    "price": "$0.00",
+    "tags": [
+        "lowrezjam",
+        "pixel-art",
+        "platformer",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTY4NDQyLzc4MDgwNi5naWY=/315x250%23c/oPahEp.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/lowrez2017",
+        "comments": "https://papercookies.itch.io/lowrez2017/comments"
+    },
+    "title": "By The Campfire"
+}

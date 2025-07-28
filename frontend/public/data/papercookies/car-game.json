@@ -1,0 +1,27 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        },
+        {
+            "name": "ViktorRKraus",
+            "url": "https://viktorrkraus.itch.io"
+        }
+    ],
+    "id": 608420,
+    "price": "$0.00",
+    "tags": [
+        "altgame",
+        "experimental",
+        "postcardware",
+        "racing",
+        "short"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzMyMzE2MjQuZ2lm/315x250%23c/uKolNE.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/car-game",
+        "comments": "https://papercookies.itch.io/car-game/comments"
+    },
+    "title": "CAR GAME"
+}

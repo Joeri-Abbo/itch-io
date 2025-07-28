@@ -1,0 +1,25 @@
+{
+    "price": "$0.00",
+    "id": 505993,
+    "title": "Gone Bawting",
+    "links": {
+        "self": "https://nothke.itch.io/bawt",
+        "comments": "https://nothke.itch.io/bawt/comments"
+    },
+    "tags": [
+        "boat",
+        "gamepad",
+        "ship",
+        "short",
+        "simulation",
+        "singleplayer",
+        "top-down"
+    ],
+    "authors": [
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI2MjQ0MzMuZ2lm/315x250%23c/mxQ3Ja.gif"
+}

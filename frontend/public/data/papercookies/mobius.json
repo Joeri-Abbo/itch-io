@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4NjQ2NzUuZ2lm/315x250%23c/PSYh%2FP.gif",
+    "id": 371877,
+    "links": {
+        "self": "https://papercookies.itch.io/mobius",
+        "comments": "https://papercookies.itch.io/mobius/comments"
+    },
+    "title": "Mobius",
+    "price": "$0.00",
+    "tags": [
+        "3d-platformer",
+        "boss-battle",
+        "chiptune",
+        "pixel-art",
+        "platformer",
+        "puzzle-platformer"
+    ]
+}

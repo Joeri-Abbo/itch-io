@@ -1,0 +1,28 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://iamderlencer.itch.io/please-stay/comments",
+        "self": "https://iamderlencer.itch.io/please-stay"
+    },
+    "authors": [
+        {
+            "name": "iamderlencer",
+            "url": "https://iamderlencer.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5OTMwNjM0LnBuZw==/315x250%23c/a4zts9.png",
+    "id": 3331210,
+    "title": "Please, Stay",
+    "tags": [
+        "3d",
+        "first-person",
+        "horror",
+        "no-ai",
+        "pixel-art",
+        "psychological-horror",
+        "retro",
+        "short",
+        "singleplayer",
+        "unity"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        },
+        {
+            "name": "pierreFontaine",
+            "url": "https://pierrefontaine.itch.io"
+        }
+    ],
+    "id": 426051,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "action",
+        "cyberpunk",
+        "driving",
+        "indie",
+        "no-ai",
+        "open-world",
+        "racing",
+        "retro",
+        "science-fiction",
+        "singleplayer",
+        "unreal-engine"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5NjQ3MzgyLmdpZg==/315x250%23c/mAiY2O.gif",
+    "links": {
+        "devlog": "https://maxparata.itch.io/punkrunner/devlog",
+        "self": "https://maxparata.itch.io/punkrunner",
+        "comments": "https://maxparata.itch.io/punkrunner/comments"
+    },
+    "title": "Punk Runner [Early Access]"
+}

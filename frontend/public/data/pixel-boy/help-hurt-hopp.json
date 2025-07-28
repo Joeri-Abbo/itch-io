@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Daniel Linssen",
+            "url": "https://managore.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjc5Mjk1LzEzNzY4NTkuZ2lm/315x250%23c/D6Z2nG.gif",
+    "id": 279295,
+    "links": {
+        "self": "https://managore.itch.io/help-hurt-hopp"
+    },
+    "title": "Help Hurt Hopp",
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "controller",
+        "level-editor",
+        "multiplayer",
+        "pixel-art",
+        "platformer"
+    ]
+}

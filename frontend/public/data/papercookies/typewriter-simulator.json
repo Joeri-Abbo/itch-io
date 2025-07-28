@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        },
+        {
+            "name": "ViktorRKraus",
+            "url": "https://viktorrkraus.itch.io"
+        }
+    ],
+    "id": 548303,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "immersive",
+        "photorealistic",
+        "relaxing",
+        "simulation",
+        "sitting-simulator",
+        "typing"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI4ODA0MDcuZ2lm/315x250%23c/iBVcsY.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/typewriter-simulator",
+        "comments": "https://papercookies.itch.io/typewriter-simulator/comments"
+    },
+    "title": "Typewriter Simulator"
+}

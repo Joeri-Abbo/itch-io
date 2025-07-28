@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 402495,
+    "price": "$0.00",
+    "tags": [
+        "difficult",
+        "minimalist",
+        "platformer",
+        "short"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5OTczMTQuZ2lm/315x250%23c/8X5Kns.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/a-stair-with-no-steps",
+        "comments": "https://papercookies.itch.io/a-stair-with-no-steps/comments"
+    },
+    "title": "A Stair With No Steps"
+}

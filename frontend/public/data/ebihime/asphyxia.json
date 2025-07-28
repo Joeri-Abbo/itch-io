@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        }
+    ],
+    "id": 33004,
+    "price": "$5.99",
+    "tags": [
+        "anime",
+        "educational",
+        "female-protagonist",
+        "lesbian",
+        "lgbt",
+        "meaningful-choices",
+        "mental-health",
+        "multiple-endings",
+        "no-ai",
+        "romance",
+        "visual-novel",
+        "yuri"
+    ],
+    "links": {
+        "devlog": "https://ebihime.itch.io/asphyxia/devlog",
+        "comments": "https://ebihime.itch.io/asphyxia/comments",
+        "self": "https://ebihime.itch.io/asphyxia"
+    },
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMzMwMDQvMTQxNDE5LmpwZw==/315x250%23c/ZH7GrG.jpg",
+    "title": "Asphyxia"
+}

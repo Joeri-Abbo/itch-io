@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "3d",
+        "action",
+        "arcade",
+        "endless",
+        "joycon",
+        "motion-controls",
+        "multiplayer",
+        "procedural",
+        "singleplayer",
+        "unity"
+    ],
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        },
+        {
+            "name": "FLeysen",
+            "url": "https://fleysen.itch.io"
+        },
+        {
+            "name": "SybrenVP",
+            "url": "https://sybrenvp.itch.io"
+        },
+        {
+            "name": "OscarGodspear",
+            "url": "https://oscartulkens.itch.io"
+        },
+        {
+            "name": "Jens Lelie",
+            "url": "https://madebyjens.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwNzk2MjkuZ2lm/315x250%23c/iRwwee.gif",
+    "id": 417874,
+    "title": "Climb Mate",
+    "links": {
+        "comments": "https://papercookies.itch.io/climb-mate/comments",
+        "self": "https://papercookies.itch.io/climb-mate"
+    }
+}

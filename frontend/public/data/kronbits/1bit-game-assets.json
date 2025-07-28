@@ -1,0 +1,35 @@
+{
+    "price": "$19.79",
+    "links": {
+        "devlog": "https://kronbits.itch.io/1bit-game-assets/devlog",
+        "self": "https://kronbits.itch.io/1bit-game-assets"
+    },
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTcwNzIyLzc5MjkzOS5wbmc=/315x250%23c/nalZLW.png",
+    "tags": [
+        "1-bit",
+        "1bit",
+        "2d",
+        "ascii",
+        "black-and-white",
+        "no-ai",
+        "pixatool",
+        "pixel-art",
+        "rpg",
+        "sprites"
+    ],
+    "id": 170722,
+    "sale": {
+        "id": 10012,
+        "end_date": "2026-12-31 00:00:00",
+        "title": "1700+ Sprites & PixaTool",
+        "rate": 56
+    },
+    "title": "1700+ 1Bit Game Assets & PixaTool",
+    "original_price": "$44.99"
+}

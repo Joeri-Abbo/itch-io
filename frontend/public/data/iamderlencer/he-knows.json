@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "iamderlencer",
+            "url": "https://iamderlencer.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5NTE2ODE5LnBuZw==/315x250%23c/XUYTxX.png",
+    "id": 3269660,
+    "links": {
+        "self": "https://iamderlencer.itch.io/he-knows",
+        "comments": "https://iamderlencer.itch.io/he-knows/comments"
+    },
+    "title": "He knows...",
+    "price": "$0.00",
+    "tags": [
+        "atmospheric",
+        "horror",
+        "indie",
+        "low-poly",
+        "no-ai",
+        "other",
+        "psychological-horror",
+        "retro",
+        "short",
+        "simulation",
+        "singleplayer",
+        "unity"
+    ]
+}

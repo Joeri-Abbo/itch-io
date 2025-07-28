@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "PAK-9",
+            "url": "https://pak-9.itch.io"
+        }
+    ],
+    "id": 1433939,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "8-bit",
+        "arcade",
+        "pico-8",
+        "pixel-art",
+        "racing",
+        "retro"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzgzNTkzNTIucG5n/315x250%23c/5l4IY%2B.png",
+    "links": {
+        "self": "https://pak-9.itch.io/pico-world-race",
+        "comments": "https://pak-9.itch.io/pico-world-race/comments"
+    },
+    "title": "Pico World Race"
+}

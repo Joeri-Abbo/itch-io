@@ -1,0 +1,27 @@
+{
+    "title": "Shakedown Rally",
+    "id": 1885592,
+    "price": "6.99\u20ac",
+    "cover_image": "https://img.itch.zone/aW1nLzExMTA2MTEzLnBuZw==/315x250%23c/m67vf5.png",
+    "links": {
+        "community": "https://nothke.itch.io/shakedown/community",
+        "self": "https://nothke.itch.io/shakedown",
+        "devlog": "https://nothke.itch.io/shakedown/devlog"
+    },
+    "tags": [
+        "3d",
+        "arcade",
+        "driving",
+        "low-poly",
+        "physics",
+        "racing",
+        "retro",
+        "singleplayer"
+    ],
+    "authors": [
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        }
+    ]
+}

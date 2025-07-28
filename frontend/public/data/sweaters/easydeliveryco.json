@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzIwODcwODYwLnBuZw==/315x250%23c/1h9l%2BM.png",
+    "id": 2813321,
+    "links": {
+        "self": "https://sweaters.itch.io/easydeliveryco",
+        "comments": "https://sweaters.itch.io/easydeliveryco/comments",
+        "devlog": "https://sweaters.itch.io/easydeliveryco/devlog"
+    },
+    "title": "Easy Delivery Co. Demo",
+    "price": "$0.00",
+    "authors": [
+        {
+            "name": "Sweaters",
+            "url": "https://sweaters.itch.io"
+        }
+    ],
+    "tags": [
+        "casual",
+        "driving",
+        "low-poly",
+        "no-ai",
+        "psx",
+        "racing",
+        "retro",
+        "simulation",
+        "singleplayer",
+        "split-screen"
+    ]
+}

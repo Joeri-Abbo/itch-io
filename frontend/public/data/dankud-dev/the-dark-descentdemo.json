@@ -1,0 +1,30 @@
+{
+    "id": 3200330,
+    "cover_image": "https://img.itch.zone/aW1nLzIwOTg2NTAyLmdpZg==/315x250%23c/fK%2FU4O.gif",
+    "title": "The Dark Descent [Demo]",
+    "links": {
+        "self": "https://dankud-dev.itch.io/the-dark-descentdemo",
+        "comments": "https://dankud-dev.itch.io/the-dark-descentdemo/comments",
+        "devlog": "https://dankud-dev.itch.io/the-dark-descentdemo/devlog"
+    },
+    "authors": [
+        {
+            "name": "Dankud_Dev",
+            "url": "https://dankud-dev.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "first-person",
+        "horror",
+        "indie",
+        "no-ai",
+        "psychological-horror",
+        "remake",
+        "spooky",
+        "unreal-engine"
+    ]
+}

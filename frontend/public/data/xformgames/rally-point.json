@@ -1,0 +1,26 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzE4MDI5MzIucG5n/315x250%23c/ExusAM.png",
+    "id": 318503,
+    "links": {
+        "self": "https://xformgames.itch.io/rally-point",
+        "comments": "https://xformgames.itch.io/rally-point/comments",
+        "devlog": "https://xformgames.itch.io/rally-point/devlog"
+    },
+    "title": "Rally Point",
+    "price": "$1.00",
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "action",
+        "cars",
+        "nitro",
+        "racing",
+        "retro",
+        "time-attack"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "links": {
+        "self": "https://hiroshi-dev.itch.io/flexbody-engine"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIwMzY5MDUzLnBuZw==/315x250%23c/D5csfL.png",
+    "tags": [
+        "3d",
+        "cars",
+        "no-ai",
+        "physics",
+        "simulation",
+        "softbody",
+        "unity",
+        "vehicles"
+    ],
+    "id": 3412887,
+    "authors": [
+        {
+            "name": "Hiroshi_Dev",
+            "url": "https://hiroshi-dev.itch.io"
+        }
+    ],
+    "title": "Flexbody Engine"
+}

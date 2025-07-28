@@ -1,0 +1,28 @@
+{
+    "title": "DGS",
+    "id": 1857230,
+    "price": "$0.00",
+    "cover_image": "https://img.itch.zone/aW1nLzE0Njg3MDc2LnBuZw==/315x250%23c/M9e64w.png",
+    "links": {
+        "comments": "https://deadprocess.itch.io/dgs/comments",
+        "self": "https://deadprocess.itch.io/dgs"
+    },
+    "tags": [
+        "3d",
+        "action",
+        "atmospheric",
+        "first-person",
+        "pixel-art",
+        "shooter",
+        "short",
+        "singleplayer",
+        "survival",
+        "unity"
+    ],
+    "authors": [
+        {
+            "name": "DEAD_PROCESS",
+            "url": "https://deadprocess.itch.io"
+        }
+    ]
+}

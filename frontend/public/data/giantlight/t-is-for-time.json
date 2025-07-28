@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "Giant Light Studios",
+            "url": "https://giantlight.itch.io"
+        }
+    ],
+    "id": 304430,
+    "price": "$0.00",
+    "tags": [
+        "minimalist",
+        "other",
+        "pixel-art",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMzA0NDMwLzE0OTIyOTkucG5n/315x250%23c/g1OhYe.png",
+    "links": {
+        "self": "https://giantlight.itch.io/t-is-for-time",
+        "comments": "https://giantlight.itch.io/t-is-for-time/comments"
+    },
+    "title": "T is for Time"
+}

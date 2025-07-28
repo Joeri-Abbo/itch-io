@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "DEADline Studios",
+            "url": "https://deadline-co.itch.io"
+        }
+    ],
+    "id": 3522651,
+    "price": "$0.00",
+    "tags": [
+        "creepy",
+        "dark",
+        "first-person",
+        "interactive-fiction",
+        "narrative",
+        "no-ai",
+        "short",
+        "singleplayer",
+        "story-rich",
+        "strategy",
+        "thriller",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMDg1OTQyLmdpZg==/315x250%23c/OT88OL.gif",
+    "links": {
+        "devlog": "https://deadline-co.itch.io/pig/devlog",
+        "self": "https://deadline-co.itch.io/pig",
+        "comments": "https://deadline-co.itch.io/pig/comments"
+    },
+    "title": "PIG"
+}

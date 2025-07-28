@@ -1,0 +1,22 @@
+{
+    "links": {
+        "self": "https://kronbits.itch.io/rogueascii"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzk5Mjg5NDYucG5n/315x250%23c/KxIeFn.png",
+    "tags": [
+        "ascii",
+        "roguelike",
+        "roguelite",
+        "survival",
+        "turn-based-combat",
+        "turn-based-strategy"
+    ],
+    "id": 1685755,
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "title": "RogueASCII"
+}

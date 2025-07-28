@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 2210430,
+    "title": "Voxel Noir Crime Detective",
+    "links": {
+        "self": "https://maxparata.itch.io/voxelnoir",
+        "comments": "https://maxparata.itch.io/voxelnoir/comments",
+        "devlog": "https://maxparata.itch.io/voxelnoir/devlog"
+    },
+    "tags": [
+        "3d",
+        "crime",
+        "detective",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "noir",
+        "pixel-art",
+        "top-down",
+        "voxel"
+    ],
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEzMDc3OTM0LmpwZw==/315x250%23c/Lx%2F1zo.jpg"
+}

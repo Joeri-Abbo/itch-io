@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Medo",
+            "url": "https://ookii-tsuki.itch.io"
+        }
+    ],
+    "id": 890104,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "action",
+        "anime",
+        "endless",
+        "fps",
+        "jojo",
+        "time-attack",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzUwMjI1MjIuanBn/315x250%23c/V71UOL.jpg",
+    "links": {
+        "self": "https://ookii-tsuki.itch.io/za-warudo",
+        "comments": "https://ookii-tsuki.itch.io/za-warudo/comments"
+    },
+    "title": "Za Warudo"
+}

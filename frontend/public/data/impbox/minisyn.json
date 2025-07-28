@@ -1,0 +1,19 @@
+{
+    "title": "Ministry of Synthesis",
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTYyODgwLzc1Mjg3Ni5wbmc=/315x250%23c/LtGV5D.png",
+    "tags": [
+        "ludum-dare-39",
+        "puzzle"
+    ],
+    "id": 162880,
+    "links": {
+        "self": "https://impbox.itch.io/minisyn",
+        "comments": "https://impbox.itch.io/minisyn/comments"
+    }
+}

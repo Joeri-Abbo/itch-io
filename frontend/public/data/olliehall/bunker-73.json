@@ -1,0 +1,42 @@
+{
+    "title": "BUNKER 73",
+    "id": 3058445,
+    "cover_image": "https://img.itch.zone/aW1nLzIxNzM0ODA2LnBuZw==/315x250%23c/r50bFf.png",
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "first-person",
+        "ghosts",
+        "horror",
+        "no-ai",
+        "retro",
+        "short",
+        "supernatural"
+    ],
+    "authors": [
+        {
+            "name": "BrageKh",
+            "url": "https://bragekh.itch.io"
+        },
+        {
+            "name": "Andersbrynildsen",
+            "url": "https://andersbrynildsen.itch.io"
+        },
+        {
+            "name": "BjornH",
+            "url": "https://bjornh.itch.io"
+        },
+        {
+            "name": "Ollie Hall",
+            "url": "https://olliehall.itch.io"
+        }
+    ],
+    "price": "$0.00",
+    "links": {
+        "self": "https://bragekh.itch.io/bunker-73",
+        "devlog": "https://bragekh.itch.io/bunker-73/devlog",
+        "comments": "https://bragekh.itch.io/bunker-73/comments"
+    }
+}

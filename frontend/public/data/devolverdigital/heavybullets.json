@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "terriv",
+            "url": "https://terriv.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTg5NjQxLzg4NzE5MC5qcGc=/315x250%23c/mRnS9p.jpg",
+    "id": 189641,
+    "links": {
+        "self": "https://devolverdigital.itch.io/heavybullets"
+    },
+    "title": "Heavy Bullets",
+    "price": "$9.99",
+    "tags": [
+        "colorful",
+        "fps",
+        "highheels",
+        "shooter",
+        "snakes"
+    ]
+}

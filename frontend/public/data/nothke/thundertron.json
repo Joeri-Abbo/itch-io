@@ -1,0 +1,21 @@
+{
+    "authors": [
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        }
+    ],
+    "id": 64668,
+    "tags": [
+        "1-bit",
+        "atmospheric",
+        "black-and-white",
+        "weird"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNjQ2NjgvMjkyNDYxLnBuZw==/315x250%23c/VYRiCN.png",
+    "links": {
+        "self": "https://nothke.itch.io/thundertron",
+        "comments": "https://nothke.itch.io/thundertron/comments"
+    },
+    "title": "ThunderTron"
+}

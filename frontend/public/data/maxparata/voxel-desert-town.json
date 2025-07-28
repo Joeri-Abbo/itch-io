@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 734200,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "3d",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "obj",
+        "pixel-art",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQxNjY2NDUucG5n/315x250%23c/aDOgYk.png",
+    "links": {
+        "devlog": "https://maxparata.itch.io/voxel-desert-town/devlog",
+        "self": "https://maxparata.itch.io/voxel-desert-town",
+        "comments": "https://maxparata.itch.io/voxel-desert-town/comments"
+    },
+    "title": "Voxel environment assets : Desert town"
+}

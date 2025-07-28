@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Sweaters",
+            "url": "https://sweaters.itch.io"
+        }
+    ],
+    "id": 1079326,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "atmospheric",
+        "horror",
+        "interactive-fiction",
+        "multiple-endings",
+        "narrative",
+        "pixel-art",
+        "retro",
+        "short",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzYxOTA3MjcuZ2lm/315x250%23c/UCuUXj.gif",
+    "links": {
+        "self": "https://sweaters.itch.io/wip",
+        "comments": "https://sweaters.itch.io/wip/comments"
+    },
+    "title": "w.i.p"
+}

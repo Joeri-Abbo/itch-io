@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Sweaters",
+            "url": "https://sweaters.itch.io"
+        }
+    ],
+    "id": 303370,
+    "price": "$0.00",
+    "tags": [
+        "8-bit",
+        "arcade",
+        "fighting",
+        "gamepad",
+        "local-multiplayer",
+        "multiplayer",
+        "pico-8",
+        "pixel-art",
+        "platformer",
+        "retro"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE1NTg3MTAucG5n/315x250%23c/LjwaGu.png",
+    "links": {
+        "devlog": "https://sweaters.itch.io/fencing/devlog",
+        "self": "https://sweaters.itch.io/fencing",
+        "comments": "https://sweaters.itch.io/fencing/comments"
+    },
+    "title": "Fencing"
+}

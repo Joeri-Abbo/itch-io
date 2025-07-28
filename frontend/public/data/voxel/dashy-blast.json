@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "voxel",
+            "url": "https://voxel.itch.io"
+        }
+    ],
+    "id": 1713191,
+    "tags": [
+        "action",
+        "dreamcast",
+        "halloween",
+        "retro",
+        "touhou"
+    ],
+    "links": {
+        "devlog": "https://voxel.itch.io/dashy-blast/devlog",
+        "comments": "https://voxel.itch.io/dashy-blast/comments",
+        "self": "https://voxel.itch.io/dashy-blast"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzEwMzgzOTc1LnBuZw==/315x250%23c/0ZgzUt.png",
+    "title": "[Dreamcast] Dashy no Blast"
+}

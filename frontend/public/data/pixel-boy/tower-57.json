@@ -1,0 +1,29 @@
+{
+    "price": "$11.99",
+    "links": {
+        "comments": "https://benitosub.itch.io/tower-57/comments",
+        "self": "https://benitosub.itch.io/tower-57"
+    },
+    "authors": [
+        {
+            "name": "benitosub",
+            "url": "https://benitosub.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjMyODk0LzExMDUxNDAuanBn/315x250%23c/dS7l8k.jpg",
+    "id": 232894,
+    "title": "Tower 57",
+    "tags": [
+        "16-bit",
+        "action",
+        "arcade",
+        "dystopian",
+        "kickstarter",
+        "local-co-op",
+        "pixel-art",
+        "post-apocalyptic",
+        "retro",
+        "top-down-shooter",
+        "twin-stick-shooter"
+    ]
+}

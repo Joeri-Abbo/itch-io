@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 1638931,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "castle",
+        "dark-fantasy",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "obj",
+        "souls-like",
+        "unreal-engine",
+        "voxel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyNTg3NTA2LnBuZw==/315x250%23c/36tGQq.png",
+    "links": {
+        "devlog": "https://maxparata.itch.io/darksoulsgothic-monogon/devlog",
+        "self": "https://maxparata.itch.io/darksoulsgothic-monogon",
+        "comments": "https://maxparata.itch.io/darksoulsgothic-monogon/comments"
+    },
+    "title": "Voxel Dark Souls Gothic - monogon"
+}

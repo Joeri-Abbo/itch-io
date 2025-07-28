@@ -1,0 +1,21 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzE3NTQ2MTQ2LnBuZw==/315x250%23c/UmdYLO.png",
+    "id": 2928123,
+    "title": "Dual Threat",
+    "price": "$0.00",
+    "links": {
+        "self": "https://granitkartoffel.itch.io/dual-threat",
+        "comments": "https://granitkartoffel.itch.io/dual-threat/comments"
+    },
+    "authors": [
+        {
+            "name": "GranitKartoffel",
+            "url": "https://granitkartoffel.itch.io"
+        }
+    ],
+    "tags": [
+        "godot",
+        "puzzle",
+        "singleplayer"
+    ]
+}

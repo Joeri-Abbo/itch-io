@@ -1,0 +1,18 @@
+{
+    "title": "LD30: Super Shaker X",
+    "id": 16662,
+    "cover_image": "",
+    "links": {
+        "self": "https://voxel.itch.io/super-shaker-x"
+    },
+    "tags": [
+        "ludum-dare-30",
+        "shooter"
+    ],
+    "authors": [
+        {
+            "name": "voxel",
+            "url": "https://voxel.itch.io"
+        }
+    ]
+}

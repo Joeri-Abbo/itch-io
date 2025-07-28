@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        }
+    ],
+    "id": 62905,
+    "tags": [
+        "exploration",
+        "lowrezjam",
+        "procedural",
+        "simulation",
+        "space",
+        "space-sim"
+    ],
+    "links": {
+        "devlog": "https://nothke.itch.io/normans-sky/devlog",
+        "comments": "https://nothke.itch.io/normans-sky/comments",
+        "self": "https://nothke.itch.io/normans-sky"
+    },
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNjI5MDUvMjgzODI5LmdpZg==/315x250%23c/MvEvkz.gif",
+    "title": "Norman's Sky"
+}

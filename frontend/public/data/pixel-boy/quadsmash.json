@@ -1,0 +1,25 @@
+{
+    "id": 31515,
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMzE1MTUvMTMzNzYwLmdpZg==/315x250%23c/AbSci%2F.gif",
+    "title": "QuadSmash",
+    "links": {
+        "self": "https://elisee.itch.io/quadsmash",
+        "comments": "https://elisee.itch.io/quadsmash/comments"
+    },
+    "authors": [
+        {
+            "name": "Elis\u00e9e",
+            "url": "https://elisee.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "arcade",
+        "gamepad",
+        "local-multiplayer",
+        "platformer",
+        "singleplayer",
+        "soccer",
+        "sports"
+    ]
+}

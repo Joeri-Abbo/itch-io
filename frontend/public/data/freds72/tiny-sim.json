@@ -1,0 +1,22 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://freds72.itch.io/tiny-sim",
+        "comments": "https://freds72.itch.io/tiny-sim/comments",
+        "devlog": "https://freds72.itch.io/tiny-sim/devlog"
+    },
+    "authors": [
+        {
+            "name": "freds72",
+            "url": "https://freds72.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwMjM5NDYucG5n/315x250%23c/tL8gL%2B.png",
+    "id": 407711,
+    "title": "Tiny Sim",
+    "tags": [
+        "3d",
+        "pico-8",
+        "simulation"
+    ]
+}

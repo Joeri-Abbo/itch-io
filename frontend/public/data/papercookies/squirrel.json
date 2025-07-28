@@ -1,0 +1,20 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 123284,
+    "tags": [
+        "jam",
+        "micro-game",
+        "short"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTIzMjg0LzU2NzkzNC5wbmc=/315x250%23c/UaTqpy.png",
+    "links": {
+        "self": "https://papercookies.itch.io/squirrel",
+        "comments": "https://papercookies.itch.io/squirrel/comments"
+    },
+    "title": "Squirrel"
+}

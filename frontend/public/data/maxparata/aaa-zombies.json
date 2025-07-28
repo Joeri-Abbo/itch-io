@@ -1,0 +1,25 @@
+{
+    "title": "AAA ZOMBIES!!!",
+    "id": 1088557,
+    "price": "$0.00",
+    "cover_image": "https://img.itch.zone/aW1nLzg0OTYwNjkucG5n/315x250%23c/VbfTqG.png",
+    "links": {
+        "devlog": "https://swearsoft.itch.io/aaa-zombies/devlog",
+        "comments": "https://swearsoft.itch.io/aaa-zombies/comments",
+        "self": "https://swearsoft.itch.io/aaa-zombies"
+    },
+    "tags": [
+        "arcade",
+        "dungeon-crawler",
+        "first-person",
+        "horror",
+        "shooter",
+        "unity"
+    ],
+    "authors": [
+        {
+            "name": "Swearsoft",
+            "url": "https://swearsoft.itch.io"
+        }
+    ]
+}

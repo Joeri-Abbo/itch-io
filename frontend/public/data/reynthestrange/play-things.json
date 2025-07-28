@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "Burning Eye",
+            "url": "https://reynthestrange.itch.io"
+        }
+    ],
+    "id": 3387060,
+    "price": "$0.00",
+    "tags": [
+        "atmospheric",
+        "creepy",
+        "czech",
+        "dolls",
+        "english",
+        "first-person",
+        "horror",
+        "no-ai",
+        "psychological-horror",
+        "storygame",
+        "survival",
+        "voice-acting"
+    ],
+    "links": {
+        "devlog": "https://reynthestrange.itch.io/play-things/devlog",
+        "comments": "https://reynthestrange.itch.io/play-things/comments",
+        "self": "https://reynthestrange.itch.io/play-things"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIwMjk4MjI4LnBuZw==/315x250%23c/PcL4qv.png",
+    "title": "Play Things"
+}

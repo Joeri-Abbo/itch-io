@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 653786,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "3d",
+        "horror",
+        "minimalist",
+        "narrative",
+        "platformer",
+        "short"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM1MTAxNTEuZ2lm/315x250%23c/fJUKJJ.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/metamaze",
+        "comments": "https://papercookies.itch.io/metamaze/comments"
+    },
+    "title": "METAMAZE"
+}

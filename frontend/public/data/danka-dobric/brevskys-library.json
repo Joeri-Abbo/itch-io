@@ -1,0 +1,37 @@
+{
+    "authors": [
+        {
+            "name": "Vuk Dobric",
+            "url": "https://danka-dobric.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "first-person",
+        "horror",
+        "no-ai",
+        "retro",
+        "short",
+        "singleplayer",
+        "story-rich",
+        "working-simulator"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxNjg1NDg2LnBuZw==/315x250%23c/ZTzsZl.png",
+    "id": 3644024,
+    "price": "$0.00",
+    "links": {
+        "self": "https://danka-dobric.itch.io/brevskys-library",
+        "comments": "https://danka-dobric.itch.io/brevskys-library/comments"
+    },
+    "sale": {
+        "end_date": "2025-09-18 00:37:00",
+        "id": 155160,
+        "rate": 100,
+        "title": "Really means a lot!"
+    },
+    "original_price": "$0.00",
+    "title": "Brevsky's Library"
+}

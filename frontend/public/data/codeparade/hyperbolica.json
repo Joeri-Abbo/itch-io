@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "CodeParade",
+            "url": "https://codeparade.itch.io"
+        }
+    ],
+    "id": 1449766,
+    "price": "$12.99",
+    "tags": [
+        "adventure",
+        "atmospheric",
+        "comedy",
+        "cute",
+        "experimental",
+        "first-person",
+        "non-eucledian",
+        "psychedelic",
+        "puzzle",
+        "surreal",
+        "virtual-reality"
+    ],
+    "links": {
+        "comments": "https://codeparade.itch.io/hyperbolica/comments",
+        "self": "https://codeparade.itch.io/hyperbolica"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzg0NjQ4MTgucG5n/315x250%23c/Kdybmy.png",
+    "title": "Hyperbolica"
+}

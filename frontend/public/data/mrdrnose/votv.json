@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "mrdrnose",
+            "url": "https://mrdrnose.itch.io"
+        }
+    ],
+    "id": 1635465,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "aliens",
+        "atmospheric",
+        "first-person",
+        "horror",
+        "low-poly",
+        "science-fiction",
+        "simulation",
+        "space",
+        "unreal-engine"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3Mzk3NTAwLnBuZw==/315x250%23c/bAUZWd.png",
+    "links": {
+        "community": "https://mrdrnose.itch.io/votv/community",
+        "devlog": "https://mrdrnose.itch.io/votv/devlog",
+        "self": "https://mrdrnose.itch.io/votv"
+    },
+    "title": "\"Voices Of The Void\" Pre-Alpha"
+}

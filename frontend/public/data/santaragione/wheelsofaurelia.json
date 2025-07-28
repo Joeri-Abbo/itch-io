@@ -1,0 +1,33 @@
+{
+    "authors": [
+        {
+            "name": "Santa Ragione",
+            "url": "https://santaragione.itch.io"
+        },
+        {
+            "name": "PaoloMonkey",
+            "url": "https://paolomonkey.itch.io"
+        }
+    ],
+    "id": 41241,
+    "price": "$14.99",
+    "tags": [
+        "3d",
+        "colorful",
+        "driving",
+        "female-protagonist",
+        "interactive-fiction",
+        "isometric",
+        "italy",
+        "narrative",
+        "other",
+        "racing",
+        "road-trip"
+    ],
+    "links": {
+        "comments": "https://santaragione.itch.io/wheelsofaurelia/comments",
+        "self": "https://santaragione.itch.io/wheelsofaurelia"
+    },
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNDEyNDEvMzk3NzA0LnBuZw==/315x250%23c/MdbUyp.png",
+    "title": "Wheels of Aurelia"
+}

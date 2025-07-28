@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Fiendish Fiction",
+            "url": "https://fiendishfiction.itch.io"
+        }
+    ],
+    "id": 3706831,
+    "price": "$0.00",
+    "tags": [
+        "adventure",
+        "comedy",
+        "fantasy",
+        "funny",
+        "gay",
+        "interactive-fiction",
+        "lgbt",
+        "meaningful-choices",
+        "no-ai",
+        "otome",
+        "short",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMjQzNzQwLnBuZw==/315x250%23c/TgrQ0t.png",
+    "links": {
+        "self": "https://fiendishfiction.itch.io/chance",
+        "comments": "https://fiendishfiction.itch.io/chance/comments"
+    },
+    "title": "A Chance Encounter"
+}

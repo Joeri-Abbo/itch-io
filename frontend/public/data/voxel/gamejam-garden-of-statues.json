@@ -1,0 +1,20 @@
+{
+    "authors": [
+        {
+            "name": "voxel",
+            "url": "https://voxel.itch.io"
+        }
+    ],
+    "id": 228363,
+    "tags": [
+        "art",
+        "other",
+        "statues",
+        "walking-simulator"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjI4MzYzLzEwODA3MDIucG5n/315x250%23c/dxxCnx.png",
+    "links": {
+        "self": "https://voxel.itch.io/gamejam-garden-of-statues"
+    },
+    "title": "Garden of Statues"
+}

@@ -1,0 +1,29 @@
+{
+    "price": "$0.00",
+    "id": 587312,
+    "title": "DustSim",
+    "links": {
+        "self": "https://kodub.itch.io/dustsim",
+        "comments": "https://kodub.itch.io/dustsim/comments",
+        "devlog": "https://kodub.itch.io/dustsim/devlog"
+    },
+    "tags": [
+        "2d",
+        "abstract",
+        "creative",
+        "gravity",
+        "mouse-only",
+        "particles",
+        "physics",
+        "relaxing",
+        "sandbox",
+        "simulation"
+    ],
+    "authors": [
+        {
+            "name": "Kodub",
+            "url": "https://kodub.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzMwOTg2MDYucG5n/315x250%23c/0Xn1Bw.png"
+}

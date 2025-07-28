@@ -1,0 +1,28 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://sweaters.itch.io/datarestored/comments",
+        "self": "https://sweaters.itch.io/datarestored"
+    },
+    "authors": [
+        {
+            "name": "Sweaters",
+            "url": "https://sweaters.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzExMjA2OTMxLnBuZw==/315x250%23c/Di9AOc.png",
+    "id": 1895577,
+    "title": "DATA RESTORED",
+    "tags": [
+        "1-bit",
+        "atmospheric",
+        "cats",
+        "pico-8",
+        "pixel-art",
+        "platformer",
+        "puzzle",
+        "puzzle-platformer",
+        "short",
+        "singleplayer"
+    ]
+}

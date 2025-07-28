@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 323822,
+    "cover_image": "https://img.itch.zone/aW1nLzQ1MDg3MTQucG5n/315x250%23c/on%2FZ6M.png",
+    "tags": [
+        "3d",
+        "dark",
+        "first-person",
+        "halloween",
+        "horrible",
+        "horror",
+        "interactive-fiction",
+        "short",
+        "singleplayer",
+        "stupid",
+        "unity"
+    ],
+    "links": {
+        "self": "https://forameuss.itch.io/death-trips",
+        "comments": "https://forameuss.itch.io/death-trips/comments",
+        "devlog": "https://forameuss.itch.io/death-trips/devlog"
+    },
+    "authors": [
+        {
+            "name": "Forameuss",
+            "url": "https://forameuss.itch.io"
+        }
+    ],
+    "title": "Death Trips"
+}

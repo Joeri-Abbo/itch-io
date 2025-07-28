@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "Giant Light Studios",
+            "url": "https://giantlight.itch.io"
+        }
+    ],
+    "id": 1882563,
+    "price": "$0.00",
+    "tags": [
+        "action",
+        "roguelike",
+        "roguelite",
+        "singleplayer",
+        "strategy"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzExNjIwNzM3LmdpZg==/315x250%23c/7GVxa4.gif",
+    "links": {
+        "devlog": "https://giantlight.itch.io/the-only-tower/devlog",
+        "self": "https://giantlight.itch.io/the-only-tower",
+        "comments": "https://giantlight.itch.io/the-only-tower/comments"
+    },
+    "title": "The Only Tower"
+}

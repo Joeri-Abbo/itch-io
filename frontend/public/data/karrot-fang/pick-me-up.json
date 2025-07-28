@@ -1,0 +1,27 @@
+{
+    "id": 3733424,
+    "title": "Pick me UP!",
+    "links": {
+        "self": "https://karrot-fang.itch.io/pick-me-up",
+        "comments": "https://karrot-fang.itch.io/pick-me-up/comments"
+    },
+    "tags": [
+        "3d",
+        "action",
+        "clicker",
+        "fast-paced",
+        "godot",
+        "incremental",
+        "indie",
+        "low-poly",
+        "mouse-only",
+        "no-ai"
+    ],
+    "authors": [
+        {
+            "name": "karrot_fang",
+            "url": "https://karrot-fang.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMjIxMjAyLnBuZw==/315x250%23c/GoslJV.png"
+}

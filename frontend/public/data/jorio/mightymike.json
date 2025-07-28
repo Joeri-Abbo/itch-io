@@ -1,0 +1,29 @@
+{
+    "price": "$0.00",
+    "id": 1568315,
+    "title": "Mighty Mike",
+    "links": {
+        "self": "https://jorio.itch.io/mightymike",
+        "community": "https://jorio.itch.io/mightymike/community",
+        "devlog": "https://jorio.itch.io/mightymike/devlog"
+    },
+    "tags": [
+        "90s",
+        "action",
+        "open-source",
+        "pangea-software",
+        "pixel-art",
+        "remake",
+        "retro",
+        "source-port",
+        "top-down-shooter",
+        "twin-stick-shooter"
+    ],
+    "authors": [
+        {
+            "name": "Iliyas Jorio",
+            "url": "https://jorio.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzkxNTczMDIucG5n/315x250%23c/8X2n7q.png"
+}

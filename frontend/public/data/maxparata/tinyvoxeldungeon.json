@@ -1,0 +1,30 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzQxNjYwNjUucG5n/315x250%23c/KiKGFE.png",
+    "id": 729214,
+    "links": {
+        "self": "https://maxparata.itch.io/tinyvoxeldungeon",
+        "comments": "https://maxparata.itch.io/tinyvoxeldungeon/comments",
+        "devlog": "https://maxparata.itch.io/tinyvoxeldungeon/devlog"
+    },
+    "title": "Voxel dungeon crawler environment assets : Desert",
+    "price": "$0.00",
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "3d",
+        "dungeon-crawler",
+        "godot",
+        "isometric",
+        "mobile",
+        "no-ai",
+        "pixel-art",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ]
+}

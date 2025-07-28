@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 308462,
+    "price": "$0.00",
+    "tags": [
+        "arcade",
+        "local-multiplayer",
+        "multiplayer",
+        "pixel-art",
+        "platformer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMzA4NDYyLzE1MTQ4NDUuZ2lm/315x250%23c/2TtMDK.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/dropkick",
+        "comments": "https://papercookies.itch.io/dropkick/comments"
+    },
+    "title": "DROPKICK"
+}

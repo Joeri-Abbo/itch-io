@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzEwNDgzOTc1LnBuZw==/315x250%23c/tRB5ZZ.png",
+    "id": 1746733,
+    "links": {
+        "self": "https://devolverdigital.itch.io/mcpixel-3",
+        "community": "https://devolverdigital.itch.io/mcpixel-3/community"
+    },
+    "title": "McPixel 3",
+    "price": "$9.99",
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "Sos",
+            "url": "https://sos.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "8-bit",
+        "adventure",
+        "funny",
+        "indie",
+        "pixel-art",
+        "singleplayer"
+    ]
+}

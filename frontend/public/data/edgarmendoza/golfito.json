@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "Edgar Mendoza",
+            "url": "https://edgarmendoza.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzg3MDEwODAuZ2lm/315x250%23c/2gAGvU.gif",
+    "id": 1491401,
+    "links": {
+        "self": "https://edgarmendoza.itch.io/golfito",
+        "comments": "https://edgarmendoza.itch.io/golfito/comments"
+    },
+    "title": "Golfito",
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "action",
+        "arcade",
+        "minimalist",
+        "pixel-art",
+        "singleplayer"
+    ]
+}

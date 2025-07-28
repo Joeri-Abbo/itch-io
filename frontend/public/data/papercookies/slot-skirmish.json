@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 359647,
+    "price": "$0.00",
+    "tags": [
+        "action",
+        "casual",
+        "controller",
+        "local-multiplayer",
+        "multiplayer",
+        "versus"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3OTc3MTAucG5n/315x250%23c/Q7TuiZ.png",
+    "links": {
+        "self": "https://papercookies.itch.io/slot-skirmish",
+        "comments": "https://papercookies.itch.io/slot-skirmish/comments"
+    },
+    "title": "Slot Skirmish"
+}

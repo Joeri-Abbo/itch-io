@@ -1,0 +1,33 @@
+{
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        }
+    ],
+    "id": 261423,
+    "price": "$14.99",
+    "tags": [
+        "adventure",
+        "artificial-intelligence",
+        "bartending",
+        "cyberpunk",
+        "interactive-fiction",
+        "noir",
+        "pixel-art",
+        "point-and-click",
+        "pottery",
+        "puzzle",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjYxNDIzLzEyNTU3ODUucG5n/315x250%23c/OHu1%2Fd.png",
+    "links": {
+        "community": "https://devolverdigital.itch.io/the-red-strings-club/community",
+        "self": "https://devolverdigital.itch.io/the-red-strings-club"
+    },
+    "title": "The Red Strings Club"
+}

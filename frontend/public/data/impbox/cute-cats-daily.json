@@ -1,0 +1,21 @@
+{
+    "links": {
+        "comments": "https://impbox.itch.io/cute-cats-daily/comments",
+        "self": "https://impbox.itch.io/cute-cats-daily"
+    },
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjAwNDY3LzkzNzY0NC5wbmc=/315x250%23c/LH3n8r.png",
+    "tags": [
+        "cats",
+        "cute",
+        "ludum-dare-40",
+        "simulation"
+    ],
+    "id": 200467,
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "title": "Cute Cats Daily"
+}

@@ -1,0 +1,26 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjgxNDI4LzEzNjY3MTkucG5n/315x250%23c/co1O95.png",
+    "id": 281428,
+    "links": {
+        "self": "https://powerhoof.itch.io/crawl",
+        "comments": "https://powerhoof.itch.io/crawl/comments"
+    },
+    "title": "Crawl",
+    "price": "$14.99",
+    "authors": [
+        {
+            "name": "Powerhoof",
+            "url": "https://powerhoof.itch.io"
+        }
+    ],
+    "tags": [
+        "action",
+        "action-rpg",
+        "dungeon-crawler",
+        "horror",
+        "local-multiplayer",
+        "no-ai",
+        "party-game",
+        "pixel-art"
+    ]
+}

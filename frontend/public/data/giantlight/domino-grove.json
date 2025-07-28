@@ -1,0 +1,41 @@
+{
+    "id": 3092858,
+    "title": "Domino Grove",
+    "links": {
+        "self": "https://ezra-szanton.itch.io/domino-grove",
+        "comments": "https://ezra-szanton.itch.io/domino-grove/comments",
+        "devlog": "https://ezra-szanton.itch.io/domino-grove/devlog"
+    },
+    "tags": [
+        "arcade",
+        "casual",
+        "colorful",
+        "cozy",
+        "cute",
+        "indie",
+        "minimalist",
+        "puzzle",
+        "relaxing",
+        "short",
+        "turn-based"
+    ],
+    "authors": [
+        {
+            "name": "Ezra Szanton",
+            "url": "https://ezra-szanton.itch.io"
+        },
+        {
+            "name": "Giant Light Studios",
+            "url": "https://giantlight.itch.io"
+        },
+        {
+            "name": "Fergus Ferguson",
+            "url": "https://fergus-ferguson.itch.io"
+        },
+        {
+            "name": "B\u00d8LT",
+            "url": "https://bolttracks.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4NjAyMDA5LnBuZw==/315x250%23c/pBEu0L.png"
+}

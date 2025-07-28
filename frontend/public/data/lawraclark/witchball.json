@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Lawra Suits Clark",
+            "url": "https://lawraclark.itch.io"
+        }
+    ],
+    "id": 205243,
+    "price": "$5.00",
+    "tags": [
+        "2d",
+        "artgame",
+        "atmospheric",
+        "dark",
+        "gamemaker",
+        "local-multiplayer",
+        "multiplayer",
+        "racing",
+        "sports",
+        "surreal",
+        "witch"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI2MTkzMzcucG5n/315x250%23c/YOI801.png",
+    "links": {
+        "community": "https://lawraclark.itch.io/witchball/community",
+        "devlog": "https://lawraclark.itch.io/witchball/devlog",
+        "self": "https://lawraclark.itch.io/witchball"
+    },
+    "title": "Witchball"
+}

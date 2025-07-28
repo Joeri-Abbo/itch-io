@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Blossom Dude",
+            "url": "https://the-blossom-dude.itch.io"
+        }
+    ],
+    "id": 3753809,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "endless",
+        "no-ai",
+        "pixel-art",
+        "singleplayer",
+        "survival",
+        "top-down"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzQ4MzQ2LnBuZw==/315x250%23c/LzHe%2BS.png",
+    "links": {
+        "self": "https://the-blossom-dude.itch.io/a-long-long-road-trip",
+        "comments": "https://the-blossom-dude.itch.io/a-long-long-road-trip/comments"
+    },
+    "title": "A Long, Long Road Trip"
+}

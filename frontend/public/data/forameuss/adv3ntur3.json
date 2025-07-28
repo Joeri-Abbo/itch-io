@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "Croxel Studios",
+            "url": "https://croxel-studios.itch.io"
+        },
+        {
+            "name": "Astrophel Dev",
+            "url": "https://astropheldev.itch.io"
+        }
+    ],
+    "id": 1162360,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "adventure",
+        "atari",
+        "horror",
+        "retro",
+        "roguelike",
+        "roguelite",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzY5ODEwNzcuZ2lm/315x250%23c/aHf7qs.gif",
+    "links": {
+        "devlog": "https://croxel-studios.itch.io/adv3ntur3/devlog",
+        "self": "https://croxel-studios.itch.io/adv3ntur3",
+        "comments": "https://croxel-studios.itch.io/adv3ntur3/comments"
+    },
+    "title": "ADV3NTUR3"
+}

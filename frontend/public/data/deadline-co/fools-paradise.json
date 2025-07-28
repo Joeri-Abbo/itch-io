@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "DEADline Studios",
+            "url": "https://deadline-co.itch.io"
+        }
+    ],
+    "id": 2405068,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "dark-humor",
+        "first-person",
+        "horror",
+        "interactive-fiction",
+        "lgbt",
+        "narrative",
+        "no-ai",
+        "romance",
+        "singleplayer",
+        "story-rich",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE1MTExMTg2LnBuZw==/315x250%23c/fbg6R1.png",
+    "links": {
+        "devlog": "https://deadline-co.itch.io/fools-paradise/devlog",
+        "self": "https://deadline-co.itch.io/fools-paradise",
+        "comments": "https://deadline-co.itch.io/fools-paradise/comments"
+    },
+    "title": "FOOL'S PARADISE"
+}

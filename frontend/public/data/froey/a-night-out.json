@@ -1,0 +1,25 @@
+{
+    "price": "$0.00",
+    "id": 226939,
+    "title": "A Night Out",
+    "links": {
+        "self": "https://froey.itch.io/a-night-out",
+        "comments": "https://froey.itch.io/a-night-out/comments",
+        "devlog": "https://froey.itch.io/a-night-out/devlog"
+    },
+    "tags": [
+        "lgbt",
+        "no-ai",
+        "renpy",
+        "slice-of-life",
+        "transgender",
+        "visual-novel"
+    ],
+    "authors": [
+        {
+            "name": "Froey",
+            "url": "https://froey.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjI2OTM5LzEwODM1MjgucG5n/315x250%23c/RUshqc.png"
+}

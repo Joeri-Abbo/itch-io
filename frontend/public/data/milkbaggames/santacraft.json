@@ -1,0 +1,30 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzc1Njc5NjgucG5n/315x250%23c/C10zc%2F.png",
+    "id": 856096,
+    "tags": [
+        "adventure",
+        "christmas",
+        "claus",
+        "craft",
+        "crafting",
+        "holiday",
+        "reindeer",
+        "rudolph",
+        "santa",
+        "snow",
+        "snowman"
+    ],
+    "price": "$9.99",
+    "title": "SantaCraft",
+    "links": {
+        "devlog": "https://milkbaggames.itch.io/santacraft/devlog",
+        "self": "https://milkbaggames.itch.io/santacraft",
+        "comments": "https://milkbaggames.itch.io/santacraft/comments"
+    },
+    "authors": [
+        {
+            "name": "Milkbag Games",
+            "url": "https://milkbaggames.itch.io"
+        }
+    ]
+}

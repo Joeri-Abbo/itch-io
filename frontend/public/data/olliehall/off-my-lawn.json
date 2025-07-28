@@ -1,0 +1,36 @@
+{
+    "price": "$0.00",
+    "id": 2329648,
+    "cover_image": "https://img.itch.zone/aW1nLzE5NjgwNjE3LnBuZw==/315x250%23c/pBm0rW.png",
+    "tags": [
+        "funny",
+        "halloween",
+        "horror",
+        "shooter",
+        "singleplayer",
+        "survival"
+    ],
+    "links": {
+        "comments": "https://bragekh.itch.io/off-my-lawn/comments",
+        "self": "https://bragekh.itch.io/off-my-lawn"
+    },
+    "authors": [
+        {
+            "name": "BrageKh",
+            "url": "https://bragekh.itch.io"
+        },
+        {
+            "name": "BjornH",
+            "url": "https://bjornh.itch.io"
+        },
+        {
+            "name": "Ollie Hall",
+            "url": "https://olliehall.itch.io"
+        },
+        {
+            "name": "Andersbrynildsen",
+            "url": "https://andersbrynildsen.itch.io"
+        }
+    ],
+    "title": "OFF MY LAWN!"
+}

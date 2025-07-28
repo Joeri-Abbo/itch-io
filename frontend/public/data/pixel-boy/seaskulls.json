@@ -1,0 +1,34 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTY1MDY2Lzc2MTQ1NC5naWY=/315x250%23c/B7s1%2BX.gif",
+    "id": 165066,
+    "tags": [
+        "action",
+        "arcade",
+        "controller",
+        "fast-paced",
+        "gamemaker",
+        "local-multiplayer",
+        "multiplayer",
+        "pirates",
+        "pixel-art",
+        "sword-fight",
+        "versus"
+    ],
+    "price": "$0.00",
+    "title": "SeaSkulls",
+    "links": {
+        "devlog": "https://ranchogames.itch.io/seaskulls/devlog",
+        "self": "https://ranchogames.itch.io/seaskulls",
+        "comments": "https://ranchogames.itch.io/seaskulls/comments"
+    },
+    "authors": [
+        {
+            "name": "Rancho Games",
+            "url": "https://ranchogames.itch.io"
+        },
+        {
+            "name": "KRILLOUD",
+            "url": "https://krilloud.itch.io"
+        }
+    ]
+}

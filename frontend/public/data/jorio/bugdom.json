@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Iliyas Jorio",
+            "url": "https://jorio.itch.io"
+        }
+    ],
+    "id": 1568247,
+    "price": "$0.00",
+    "tags": [
+        "adventure",
+        "collectathon",
+        "colorful",
+        "cute",
+        "insects",
+        "nature",
+        "open-source",
+        "pangea-software",
+        "remake",
+        "source-port",
+        "third-person"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzkxNTY4MzYuanBn/315x250%23c/IaK3gP.jpg",
+    "links": {
+        "community": "https://jorio.itch.io/bugdom/community",
+        "devlog": "https://jorio.itch.io/bugdom/devlog",
+        "self": "https://jorio.itch.io/bugdom"
+    },
+    "title": "Bugdom"
+}

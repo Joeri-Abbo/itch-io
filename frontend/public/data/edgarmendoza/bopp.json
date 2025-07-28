@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "Edgar Mendoza",
+            "url": "https://edgarmendoza.itch.io"
+        }
+    ],
+    "id": 1876640,
+    "price": "$0.00",
+    "tags": [
+        "action"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzExMDI0MjcwLnBuZw==/315x250%23c/F11veg.png",
+    "links": {
+        "self": "https://edgarmendoza.itch.io/bopp",
+        "comments": "https://edgarmendoza.itch.io/bopp/comments"
+    },
+    "title": "bopp"
+}

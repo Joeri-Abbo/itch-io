@@ -1,0 +1,30 @@
+{
+    "links": {
+        "self": "https://ebihime.itch.io/snow",
+        "comments": "https://ebihime.itch.io/snow/comments",
+        "devlog": "https://ebihime.itch.io/snow/devlog"
+    },
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjEwMDY3Lzk4Njg3Ny5qcGc=/315x250%23c/wjMzeD.jpg",
+    "tags": [
+        "adult",
+        "anime",
+        "atmospheric",
+        "dark",
+        "historical",
+        "indie",
+        "male-protagonist",
+        "no-ai",
+        "romance",
+        "short",
+        "story-rich",
+        "visual-novel"
+    ],
+    "id": 210067,
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        }
+    ],
+    "title": "Six Days of Snow"
+}

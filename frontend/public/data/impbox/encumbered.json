@@ -1,0 +1,19 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjkyMzMzLzE0MjMzMTQucG5n/315x250%23c/DJu16%2B.png",
+    "id": 292333,
+    "links": {
+        "self": "https://impbox.itch.io/encumbered",
+        "comments": "https://impbox.itch.io/encumbered/comments"
+    },
+    "title": "Encumbered",
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "tags": [
+        "action",
+        "ludum-dare-42"
+    ]
+}

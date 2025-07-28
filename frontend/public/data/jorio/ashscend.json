@@ -1,0 +1,23 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzk3ODgyMDMuZ2lm/315x250%23c/hzCTWA.gif",
+    "id": 1657294,
+    "links": {
+        "self": "https://jorio.itch.io/ashscend",
+        "comments": "https://jorio.itch.io/ashscend/comments"
+    },
+    "title": "AshScend",
+    "price": "$0.00",
+    "authors": [
+        {
+            "name": "Iliyas Jorio",
+            "url": "https://jorio.itch.io"
+        }
+    ],
+    "tags": [
+        "action",
+        "arcade",
+        "fast-paced",
+        "lowrezjam",
+        "shoot-em-up"
+    ]
+}

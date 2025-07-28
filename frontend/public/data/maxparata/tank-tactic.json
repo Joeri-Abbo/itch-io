@@ -1,0 +1,30 @@
+{
+    "title": "Tank & War Tactic Assets",
+    "id": 727933,
+    "cover_image": "https://img.itch.zone/aW1nLzQwNDYwOTQucG5n/315x250%23c/8yCGD9.png",
+    "tags": [
+        "3d",
+        "advance-wars",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "tanks",
+        "unreal-engine",
+        "voxel",
+        "war"
+    ],
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/tank-tactic",
+        "devlog": "https://maxparata.itch.io/tank-tactic/devlog",
+        "comments": "https://maxparata.itch.io/tank-tactic/comments"
+    }
+}

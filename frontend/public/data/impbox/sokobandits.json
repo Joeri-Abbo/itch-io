@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzcwODAzNTguZ2lm/315x250%23c/BJXuVV.gif",
+    "id": 1213403,
+    "title": "Sokobandits",
+    "links": {
+        "self": "https://impbox.itch.io/sokobandits",
+        "comments": "https://impbox.itch.io/sokobandits/comments"
+    },
+    "tags": [
+        "gbjam",
+        "puzzle"
+    ]
+}

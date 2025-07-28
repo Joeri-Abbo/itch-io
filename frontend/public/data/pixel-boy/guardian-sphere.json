@@ -1,0 +1,30 @@
+{
+    "title": "Guardian Sphere",
+    "id": 414946,
+    "cover_image": "https://img.itch.zone/aW1nLzI0MTAwMzYuZ2lm/315x250%23c/syMHTn.gif",
+    "links": {
+        "devlog": "https://pixel-boy.itch.io/guardian-sphere/devlog",
+        "comments": "https://pixel-boy.itch.io/guardian-sphere/comments",
+        "self": "https://pixel-boy.itch.io/guardian-sphere"
+    },
+    "tags": [
+        "2d",
+        "arcade",
+        "co-op",
+        "html",
+        "local-multiplayer",
+        "ludum-dare-44",
+        "multiplayer",
+        "no-ai",
+        "pixel-art",
+        "shoot-em-up",
+        "shooter",
+        "singleplayer"
+    ],
+    "authors": [
+        {
+            "name": "pixel-boy",
+            "url": "https://pixel-boy.itch.io"
+        }
+    ]
+}

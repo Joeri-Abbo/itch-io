@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 854756,
+    "title": "Interminal",
+    "links": {
+        "self": "https://nothke.itch.io/interminal",
+        "comments": "https://nothke.itch.io/interminal/comments",
+        "devlog": "https://nothke.itch.io/interminal/devlog"
+    },
+    "tags": [
+        "7dfps",
+        "atmospheric",
+        "first-person-shopper",
+        "procedural",
+        "procjam",
+        "singleplayer",
+        "walking-simulator"
+    ],
+    "authors": [
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        },
+        {
+            "name": "Ferran Bertomeu",
+            "url": "https://fonserbc.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ3OTYyOTcucG5n/315x250%23c/Q1fYfC.png"
+}

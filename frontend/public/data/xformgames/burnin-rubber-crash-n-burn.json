@@ -1,0 +1,26 @@
+{
+    "price": "$2.99",
+    "links": {
+        "comments": "https://xformgames.itch.io/burnin-rubber-crash-n-burn/comments",
+        "self": "https://xformgames.itch.io/burnin-rubber-crash-n-burn"
+    },
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzc5MTM2MTYucG5n/315x250%23c/L1bccr.png",
+    "id": 776491,
+    "title": "Burnin' Rubber Crash n' Burn",
+    "tags": [
+        "3d",
+        "action",
+        "explosions",
+        "free-roam",
+        "racing",
+        "retro",
+        "rubber",
+        "sandbox"
+    ]
+}

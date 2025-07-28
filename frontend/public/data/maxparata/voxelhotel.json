@@ -1,0 +1,30 @@
+{
+    "title": "Voxel Hotel Lobby - monogon",
+    "id": 2463884,
+    "cover_image": "https://img.itch.zone/aW1nLzE0NjE2NDc4LnBuZw==/315x250%23c/GrbEsc.png",
+    "tags": [
+        "3d",
+        "city-builder",
+        "cozy",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "tileset",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ],
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/voxelhotel",
+        "devlog": "https://maxparata.itch.io/voxelhotel/devlog",
+        "comments": "https://maxparata.itch.io/voxelhotel/comments"
+    }
+}

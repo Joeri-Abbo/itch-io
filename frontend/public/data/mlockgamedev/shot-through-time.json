@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "mlockgamedev",
+            "url": "https://mlockgamedev.itch.io"
+        }
+    ],
+    "id": 822512,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "adventure",
+        "difficult",
+        "flappy-bird",
+        "mythology"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ2MDk3OTguanBn/315x250%23c/R2pzHI.jpg",
+    "links": {
+        "self": "https://mlockgamedev.itch.io/shot-through-time",
+        "comments": "https://mlockgamedev.itch.io/shot-through-time/comments"
+    },
+    "title": "Shot Through Time"
+}

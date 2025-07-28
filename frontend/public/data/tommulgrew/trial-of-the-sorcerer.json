@@ -1,0 +1,26 @@
+{
+    "title": "Trial of the Sorcerer",
+    "id": 1125929,
+    "cover_image": "https://img.itch.zone/aW1nLzc4Mzc5OTUucG5n/315x250%23c/nMVrky.png",
+    "tags": [
+        "3d",
+        "fps",
+        "pico-8",
+        "pixel-art",
+        "retro",
+        "shooter",
+        "singleplayer"
+    ],
+    "authors": [
+        {
+            "name": "Tom Mulgrew",
+            "url": "https://tommulgrew.itch.io"
+        }
+    ],
+    "price": "$0.00",
+    "links": {
+        "self": "https://tommulgrew.itch.io/trial-of-the-sorcerer",
+        "devlog": "https://tommulgrew.itch.io/trial-of-the-sorcerer/devlog",
+        "comments": "https://tommulgrew.itch.io/trial-of-the-sorcerer/comments"
+    }
+}

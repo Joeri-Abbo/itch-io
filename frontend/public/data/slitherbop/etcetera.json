@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Slitherbop",
+            "url": "https://slitherbop.itch.io"
+        }
+    ],
+    "id": 2114114,
+    "tags": [
+        "adventure",
+        "atmospheric",
+        "exploration",
+        "horror",
+        "lgbt",
+        "no-ai",
+        "rpgmaker",
+        "singleplayer",
+        "surreal",
+        "ynfg",
+        "yume-nikki-fangame"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxNzQzNzQ4LnBuZw==/315x250%23c/I6SJeD.png",
+    "links": {
+        "devlog": "https://slitherbop.itch.io/etcetera/devlog",
+        "self": "https://slitherbop.itch.io/etcetera",
+        "comments": "https://slitherbop.itch.io/etcetera/comments"
+    },
+    "title": "ETCETERA"
+}

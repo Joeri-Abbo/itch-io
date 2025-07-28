@@ -1,0 +1,30 @@
+{
+    "price": "$9.99",
+    "id": 60473,
+    "title": "FPV Freerider Recharged",
+    "links": {
+        "self": "https://fpv-freerider.itch.io/fpv-freerider-recharged",
+        "devlog": "https://fpv-freerider.itch.io/fpv-freerider-recharged/devlog"
+    },
+    "tags": [
+        "drone",
+        "flight",
+        "fpv",
+        "miniquad",
+        "multicopter",
+        "multirotor",
+        "quadcopter",
+        "quadrocopter",
+        "racing",
+        "rc",
+        "simulation",
+        "simulator"
+    ],
+    "authors": [
+        {
+            "name": "FPV Freerider",
+            "url": "https://fpv-freerider.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNjA0NzMvMjc0OTIxLmpwZw==/315x250%23c/lOJ%2FOt.jpg"
+}

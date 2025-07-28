@@ -1,0 +1,26 @@
+{
+    "price": "$0.00",
+    "id": 3666522,
+    "title": "Robo Gems",
+    "links": {
+        "self": "https://kdebczynski.itch.io/robo-gems",
+        "comments": "https://kdebczynski.itch.io/robo-gems/comments",
+        "devlog": "https://kdebczynski.itch.io/robo-gems/devlog"
+    },
+    "tags": [
+        "8-bit",
+        "action",
+        "commodore-64",
+        "no-ai",
+        "platformer",
+        "retro",
+        "two-player"
+    ],
+    "authors": [
+        {
+            "name": "KD Software",
+            "url": "https://kdebczynski.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMDAyMjQ1LnBuZw==/315x250%23c/MSBoof.png"
+}

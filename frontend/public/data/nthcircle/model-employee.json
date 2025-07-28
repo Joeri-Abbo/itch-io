@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Nth Circle",
+            "url": "https://nthcircle.itch.io"
+        }
+    ],
+    "id": 2280580,
+    "tags": [
+        "anime",
+        "dark-humor",
+        "horror",
+        "multiple-endings",
+        "no-ai",
+        "pixel-art",
+        "psychological-horror",
+        "retro",
+        "science-fiction",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEzNzM0ODMyLmdpZg==/315x250%23c/cbk%2FpV.gif",
+    "links": {
+        "devlog": "https://nthcircle.itch.io/model-employee/devlog",
+        "self": "https://nthcircle.itch.io/model-employee",
+        "comments": "https://nthcircle.itch.io/model-employee/comments"
+    },
+    "title": "Model Employee"
+}

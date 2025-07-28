@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 1202245,
+    "title": "Voxel Zombie Apocalypse - monogon",
+    "links": {
+        "self": "https://maxparata.itch.io/voxelzombieapocalypse",
+        "comments": "https://maxparata.itch.io/voxelzombieapocalypse/comments",
+        "devlog": "https://maxparata.itch.io/voxelzombieapocalypse/devlog"
+    },
+    "tags": [
+        "3d",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "post-apocalyptic",
+        "top-down",
+        "unreal-engine",
+        "voxel",
+        "zombies"
+    ],
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyNTg3ODY2LnBuZw==/315x250%23c/tKpm6%2F.png"
+}

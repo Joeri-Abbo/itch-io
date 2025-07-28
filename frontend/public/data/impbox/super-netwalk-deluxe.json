@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "id": 671514,
+    "price": "$0.00",
+    "tags": [
+        "brain-training",
+        "logic",
+        "puzzle"
+    ],
+    "links": {
+        "devlog": "https://impbox.itch.io/super-netwalk-deluxe/devlog",
+        "comments": "https://impbox.itch.io/super-netwalk-deluxe/comments",
+        "self": "https://impbox.itch.io/super-netwalk-deluxe"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzM2NjE2NDMucG5n/315x250%23c/5t%2BBhb.png",
+    "title": "Super Netwalk Deluxe"
+}

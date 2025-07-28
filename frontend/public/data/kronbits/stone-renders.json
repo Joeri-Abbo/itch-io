@@ -1,0 +1,33 @@
+{
+    "price": "$17.95",
+    "links": {
+        "self": "https://kronbits.itch.io/stone-renders"
+    },
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzMzNDAxMjgucG5n/315x250%23c/NXjkGH.png",
+    "tags": [
+        "16-bit",
+        "2d",
+        "3d",
+        "4k",
+        "cg",
+        "hd",
+        "no-ai",
+        "procedural",
+        "textures"
+    ],
+    "id": 624275,
+    "sale": {
+        "id": 86346,
+        "end_date": "2026-01-02 17:00:00",
+        "title": "Super Mega Gamedev Bundle v2",
+        "rate": 10
+    },
+    "title": "4K Textures - Stone",
+    "original_price": "$19.95"
+}

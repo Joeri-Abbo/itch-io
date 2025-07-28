@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "mlockgamedev",
+            "url": "https://mlockgamedev.itch.io"
+        }
+    ],
+    "id": 3566197,
+    "tags": [
+        "no-ai",
+        "puzzle"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxMjMyMzQ5LnBuZw==/315x250%23c/SEZO8P.png",
+    "links": {
+        "self": "https://mlockgamedev.itch.io/kobradie",
+        "comments": "https://mlockgamedev.itch.io/kobradie/comments"
+    },
+    "title": "KobraDie"
+}

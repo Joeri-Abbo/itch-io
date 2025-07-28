@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        }
+    ],
+    "id": 988635,
+    "price": "$4.99",
+    "tags": [
+        "anime",
+        "atmospheric",
+        "creepy",
+        "female-protagonist",
+        "interactive-fiction",
+        "mental-health",
+        "multiple-endings",
+        "no-ai",
+        "short",
+        "story-rich",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyNjIxMzc5LnBuZw==/315x250%23c/9tr9dg.png",
+    "links": {
+        "devlog": "https://ebihime.itch.io/mermaid/devlog",
+        "self": "https://ebihime.itch.io/mermaid",
+        "comments": "https://ebihime.itch.io/mermaid/comments"
+    },
+    "title": "The Mermaid of Zennor"
+}

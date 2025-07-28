@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "Fiendish Fiction",
+            "url": "https://fiendishfiction.itch.io"
+        }
+    ],
+    "id": 2006281,
+    "price": "$0.00",
+    "tags": [
+        "atmospheric",
+        "boys-love",
+        "dark-fantasy",
+        "gay",
+        "horror",
+        "interactive-fiction",
+        "lgbt",
+        "male-protagonist",
+        "no-ai",
+        "psychological-horror",
+        "short",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzExOTE2NTU5LnBuZw==/315x250%23c/0vNiPc.png",
+    "links": {
+        "devlog": "https://fiendishfiction.itch.io/reapersrite/devlog",
+        "self": "https://fiendishfiction.itch.io/reapersrite",
+        "comments": "https://fiendishfiction.itch.io/reapersrite/comments"
+    },
+    "title": "Reaper's Rite"
+}

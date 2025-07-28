@@ -1,0 +1,30 @@
+{
+    "title": "Voxel House Interior - monogon",
+    "id": 2232642,
+    "price": "$0.00",
+    "cover_image": "https://img.itch.zone/aW1nLzEzMjE5MTUxLmpwZw==/315x250%23c/NNLwOB.jpg",
+    "links": {
+        "devlog": "https://maxparata.itch.io/voxelinterior/devlog",
+        "comments": "https://maxparata.itch.io/voxelinterior/comments",
+        "self": "https://maxparata.itch.io/voxelinterior"
+    },
+    "tags": [
+        "3d",
+        "godot",
+        "isometric",
+        "low-poly",
+        "modern",
+        "modular",
+        "no-ai",
+        "pixel-art",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ],
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ]
+}

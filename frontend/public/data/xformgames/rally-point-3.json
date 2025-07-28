@@ -1,0 +1,26 @@
+{
+    "price": "$1.99",
+    "id": 320114,
+    "title": "Rally Point 3",
+    "links": {
+        "self": "https://xformgames.itch.io/rally-point-3",
+        "comments": "https://xformgames.itch.io/rally-point-3/comments",
+        "devlog": "https://xformgames.itch.io/rally-point-3/devlog"
+    },
+    "tags": [
+        "3d",
+        "action",
+        "cars",
+        "nitro",
+        "racing",
+        "retro",
+        "time-attack"
+    ],
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE1ODIwNTIucG5n/315x250%23c/iR%2Fg88.png"
+}

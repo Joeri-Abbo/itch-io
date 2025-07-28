@@ -1,0 +1,28 @@
+{
+    "price": "$0.00",
+    "id": 15541,
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTU1NDEvNTQ4MDEucG5n/315x250%23c/WSKqyk.png",
+    "tags": [
+        "action",
+        "bilou",
+        "elisee",
+        "entire-game-on-one-screen",
+        "hunt-the-yeti",
+        "ludum-dare-31",
+        "pixel-boy",
+        "schouillette",
+        "sparklin-labs",
+        "superpowers-html5"
+    ],
+    "links": {
+        "comments": "https://sparklinlabs.itch.io/hunt-the-yeti/comments",
+        "self": "https://sparklinlabs.itch.io/hunt-the-yeti"
+    },
+    "authors": [
+        {
+            "name": "Sparklin Labs",
+            "url": "https://sparklinlabs.itch.io"
+        }
+    ],
+    "title": "Hunt The Yeti"
+}

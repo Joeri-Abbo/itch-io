@@ -1,0 +1,29 @@
+{
+    "price": "$0.00",
+    "id": 847517,
+    "cover_image": "https://img.itch.zone/aW1nLzQ3NTU1NjguanBn/315x250%23c/ROfjuV.jpg",
+    "tags": [
+        "3d",
+        "blocks",
+        "creative",
+        "educational",
+        "procedural",
+        "sandbox",
+        "simulation",
+        "turn-based",
+        "visualization",
+        "voxel"
+    ],
+    "links": {
+        "self": "https://kodub.itch.io/game-of-life-3d",
+        "comments": "https://kodub.itch.io/game-of-life-3d/comments",
+        "devlog": "https://kodub.itch.io/game-of-life-3d/devlog"
+    },
+    "authors": [
+        {
+            "name": "Kodub",
+            "url": "https://kodub.itch.io"
+        }
+    ],
+    "title": "Game of Life 3D"
+}

@@ -1,0 +1,27 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTgzNTA0Lzg1Nzg5Ni5wbmc=/315x250%23c/iTq9jo.png",
+    "id": 183504,
+    "links": {
+        "self": "https://xformgames.itch.io/super-man-or-monster",
+        "comments": "https://xformgames.itch.io/super-man-or-monster/comments",
+        "devlog": "https://xformgames.itch.io/super-man-or-monster/devlog"
+    },
+    "title": "Super Man Or Monster",
+    "price": "$12.99",
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "action",
+        "action-adventure",
+        "arcade",
+        "retro",
+        "shooter",
+        "third-person",
+        "voxel"
+    ]
+}

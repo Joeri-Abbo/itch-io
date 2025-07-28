@@ -1,0 +1,27 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzEwMzE0MDQ0LnBuZw==/315x250%23c/%2BRXrHZ.png",
+    "id": 1528317,
+    "links": {
+        "self": "https://milkbaggames.itch.io/slots-and-sorcery",
+        "comments": "https://milkbaggames.itch.io/slots-and-sorcery/comments",
+        "devlog": "https://milkbaggames.itch.io/slots-and-sorcery/devlog"
+    },
+    "title": "Slots & Sorcery",
+    "authors": [
+        {
+            "name": "Milkbag Games",
+            "url": "https://milkbaggames.itch.io"
+        }
+    ],
+    "tags": [
+        "deckbuilder",
+        "deck-building",
+        "fantasy",
+        "roguelike",
+        "roguelite",
+        "slot-machine",
+        "slots",
+        "strategy",
+        "turn-based"
+    ]
+}

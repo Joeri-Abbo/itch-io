@@ -1,0 +1,35 @@
+{
+    "price": "$0.00",
+    "id": 3178176,
+    "title": "Mr. Magpie's Harmless Card Game",
+    "links": {
+        "self": "https://giantlight.itch.io/mr-magpies-harmless-card-game",
+        "comments": "https://giantlight.itch.io/mr-magpies-harmless-card-game/comments",
+        "devlog": "https://giantlight.itch.io/mr-magpies-harmless-card-game/devlog"
+    },
+    "tags": [
+        "3d",
+        "atmospheric",
+        "card-game",
+        "deck-building",
+        "first-person",
+        "horror",
+        "no-ai",
+        "psychological-horror",
+        "roguelike",
+        "singleplayer",
+        "strategy",
+        "suspense"
+    ],
+    "authors": [
+        {
+            "name": "Giant Light Studios",
+            "url": "https://giantlight.itch.io"
+        },
+        {
+            "name": "Ezra Szanton",
+            "url": "https://ezra-szanton.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwMjcyNzYwLmdpZg==/315x250%23c/dQa6QX.gif"
+}

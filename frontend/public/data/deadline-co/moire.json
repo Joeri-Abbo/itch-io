@@ -1,0 +1,25 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://dimikira.itch.io/moire",
+        "comments": "https://dimikira.itch.io/moire/comments",
+        "devlog": "https://dimikira.itch.io/moire/devlog"
+    },
+    "authors": [
+        {
+            "name": "dimikira",
+            "url": "https://dimikira.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODg0NzE1LnBuZw==/315x250%23c/RHo7YD.png",
+    "id": 1475921,
+    "title": "Moir\u00e9",
+    "tags": [
+        "dating-sim",
+        "mystery",
+        "no-ai",
+        "otome",
+        "romance",
+        "visual-novel"
+    ]
+}

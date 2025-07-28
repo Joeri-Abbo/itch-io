@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        }
+    ],
+    "id": 721092,
+    "price": "$9.99",
+    "tags": [
+        "anime",
+        "cozy",
+        "cute",
+        "fantasy",
+        "female-protagonist",
+        "gay",
+        "lesbian",
+        "no-ai",
+        "romance",
+        "visual-novel",
+        "wholesome",
+        "yuri"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM5OTgxNDMucG5n/315x250%23c/CwUlVD.png",
+    "links": {
+        "devlog": "https://ebihime.itch.io/fairysong/devlog",
+        "self": "https://ebihime.itch.io/fairysong",
+        "comments": "https://ebihime.itch.io/fairysong/comments"
+    },
+    "title": "The Fairy's Song"
+}

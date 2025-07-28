@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "id": 1826728,
+    "price": "$8.99",
+    "tags": [
+        "3d",
+        "action",
+        "arena",
+        "explosions",
+        "multiplayer",
+        "racing",
+        "shooter"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEwNzIyOTYxLnBuZw==/315x250%23c/hWk2Os.png",
+    "links": {
+        "devlog": "https://xformgames.itch.io/burnin-rubber-multiplayer/devlog",
+        "self": "https://xformgames.itch.io/burnin-rubber-multiplayer",
+        "comments": "https://xformgames.itch.io/burnin-rubber-multiplayer/comments"
+    },
+    "title": "Burnin' Rubber Multiplayer"
+}

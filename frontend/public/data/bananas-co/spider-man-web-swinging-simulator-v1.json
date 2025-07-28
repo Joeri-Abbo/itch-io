@@ -1,0 +1,21 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzE3MTMxNzgxLnBuZw==/315x250%23c/aU5gbE.png",
+    "id": 2865690,
+    "links": {
+        "self": "https://bananas-co.itch.io/spider-man-web-swinging-simulator-v1",
+        "comments": "https://bananas-co.itch.io/spider-man-web-swinging-simulator-v1/comments"
+    },
+    "title": "Spider-Man Web Swinging Simulator V1",
+    "authors": [
+        {
+            "name": "Bananas Co",
+            "url": "https://bananas-co.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "first-person",
+        "simulation",
+        "singleplayer"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Scarlet Games",
+            "url": "https://scarlet-games.itch.io"
+        }
+    ],
+    "id": 278737,
+    "price": "$5.99",
+    "tags": [
+        "ambience",
+        "audio",
+        "free",
+        "horror",
+        "music",
+        "no-ai",
+        "sample",
+        "sound-effects",
+        "survival-horror",
+        "tenome"
+    ],
+    "links": {
+        "devlog": "https://scarlet-games.itch.io/horror-game-ambience-1/devlog",
+        "comments": "https://scarlet-games.itch.io/horror-game-ambience-1/comments",
+        "self": "https://scarlet-games.itch.io/horror-game-ambience-1"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE3NTEyNTQuanBn/315x250%23c/Mj9XbL.jpg",
+    "title": "Horror Game Ambience Vol.1"
+}

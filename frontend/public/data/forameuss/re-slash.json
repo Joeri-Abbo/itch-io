@@ -1,0 +1,27 @@
+{
+    "authors": [
+        {
+            "name": "Croxel Studios",
+            "url": "https://croxel-studios.itch.io"
+        },
+        {
+            "name": "Astrophel Dev",
+            "url": "https://astropheldev.itch.io"
+        }
+    ],
+    "id": 775575,
+    "price": "$0.00",
+    "tags": [
+        "action",
+        "hack-and-slash",
+        "ludum-dare-47",
+        "puzzle"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQzNjMyMjEuZ2lm/315x250%23c/j8NYy1.gif",
+    "links": {
+        "devlog": "https://croxel-studios.itch.io/re-slash/devlog",
+        "self": "https://croxel-studios.itch.io/re-slash",
+        "comments": "https://croxel-studios.itch.io/re-slash/comments"
+    },
+    "title": "Re-Slash"
+}

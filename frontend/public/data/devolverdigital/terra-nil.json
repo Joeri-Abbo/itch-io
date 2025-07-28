@@ -1,0 +1,32 @@
+{
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "Free Lives",
+            "url": "https://freelivesgames.itch.io"
+        },
+        {
+            "name": "Clockwork Acorn",
+            "url": "https://clockworkacorn.itch.io"
+        }
+    ],
+    "id": 1971431,
+    "price": "$24.99",
+    "tags": [
+        "city-builder",
+        "isometric",
+        "nature",
+        "puzzle",
+        "relaxing",
+        "strategy"
+    ],
+    "links": {
+        "comments": "https://devolverdigital.itch.io/terra-nil/comments",
+        "self": "https://devolverdigital.itch.io/terra-nil"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE2NjcyNDI4LnBuZw==/315x250%23c/bw%2BzDN.png",
+    "title": "Terra Nil"
+}

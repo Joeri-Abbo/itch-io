@@ -1,0 +1,30 @@
+{
+    "price": "$19.00",
+    "id": 721008,
+    "title": "modular voxel female character",
+    "links": {
+        "self": "https://maxparata.itch.io/sexyvoxelgirls",
+        "comments": "https://maxparata.itch.io/sexyvoxelgirls/comments",
+        "devlog": "https://maxparata.itch.io/sexyvoxelgirls/devlog"
+    },
+    "tags": [
+        "3d",
+        "character-customization",
+        "characters",
+        "female",
+        "girl",
+        "godot",
+        "mobile",
+        "no-ai",
+        "pixel-art",
+        "unreal-engine",
+        "voxel"
+    ],
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQwMzU1NDEucG5n/315x250%23c/RwlCYA.png"
+}

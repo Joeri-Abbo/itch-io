@@ -1,0 +1,27 @@
+{
+    "authors": [
+        {
+            "name": "freds72",
+            "url": "https://freds72.itch.io"
+        },
+        {
+            "name": "Paranoid Cactus",
+            "url": "https://paranoidcactus.itch.io"
+        }
+    ],
+    "id": 796677,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "fps",
+        "pico-8",
+        "shooter"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ0NjA1MDUucG5n/315x250%23c/%2F9ypZ7.png",
+    "links": {
+        "devlog": "https://freds72.itch.io/poom/devlog",
+        "self": "https://freds72.itch.io/poom",
+        "comments": "https://freds72.itch.io/poom/comments"
+    },
+    "title": "POOM"
+}

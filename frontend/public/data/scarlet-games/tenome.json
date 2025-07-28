@@ -1,0 +1,26 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://scarlet-games.itch.io/tenome",
+        "comments": "https://scarlet-games.itch.io/tenome/comments",
+        "devlog": "https://scarlet-games.itch.io/tenome/devlog"
+    },
+    "authors": [
+        {
+            "name": "Scarlet Games",
+            "url": "https://scarlet-games.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTkzODM2LzkwNTg4My5wbmc=/315x250%23c/AjU7B9.png",
+    "id": 193836,
+    "title": "Tenome",
+    "tags": [
+        "action",
+        "difficult",
+        "folklore",
+        "horror",
+        "japan",
+        "school",
+        "survival-horror"
+    ]
+}

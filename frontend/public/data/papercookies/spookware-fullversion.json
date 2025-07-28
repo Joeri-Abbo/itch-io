@@ -1,0 +1,37 @@
+{
+    "title": "SPOOKWARE",
+    "id": 1200626,
+    "cover_image": "https://img.itch.zone/aW1nLzcwMDU2MDkuZ2lm/315x250%23c/3HqPIc.gif",
+    "tags": [
+        "adventure",
+        "arcade",
+        "horror",
+        "minigames",
+        "narrative",
+        "rpg"
+    ],
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        },
+        {
+            "name": "DreadXP",
+            "url": "https://dreadxp.itch.io"
+        },
+        {
+            "name": "Tibau vdb",
+            "url": "https://tibvdb.itch.io"
+        },
+        {
+            "name": "ViktorRKraus",
+            "url": "https://viktorrkraus.itch.io"
+        }
+    ],
+    "price": "$9.99",
+    "links": {
+        "self": "https://papercookies.itch.io/spookware-fullversion",
+        "devlog": "https://papercookies.itch.io/spookware-fullversion/devlog",
+        "comments": "https://papercookies.itch.io/spookware-fullversion/comments"
+    }
+}
