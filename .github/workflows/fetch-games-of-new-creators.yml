@@ -1,6 +1,7 @@
 name: Fetch Games for New Creators
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'python/creators.json'
