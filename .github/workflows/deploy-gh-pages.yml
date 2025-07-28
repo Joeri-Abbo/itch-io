@@ -24,8 +24,8 @@ jobs:
         run: npm ci
         working-directory: ./frontend
 
-      - name: Build Next.js static site
-        run: npm run build && npm run export
+      - name: Build Next.js site
+        run: npm run build
         working-directory: ./frontend
 
       - name: Copy out to root for deploy
