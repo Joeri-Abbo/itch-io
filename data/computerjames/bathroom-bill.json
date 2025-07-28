@@ -1,0 +1,30 @@
+{
+    "title": "Bathroom Bill!",
+    "id": 2548139,
+    "cover_image": "https://img.itch.zone/aW1nLzIxNDMxNDU0LnBuZw==/315x250%23c/IvwC1Z.png",
+    "tags": [
+        "action",
+        "procedural",
+        "runner"
+    ],
+    "authors": [
+        {
+            "name": "EMMY",
+            "url": "https://dipsas80.itch.io"
+        },
+        {
+            "name": "Videman",
+            "url": "https://videman.itch.io"
+        },
+        {
+            "name": "Neon Lasagna",
+            "url": "https://neonlasagna.itch.io"
+        }
+    ],
+    "price": "$0.00",
+    "links": {
+        "self": "https://dipsas80.itch.io/bathroom-bill",
+        "devlog": "https://dipsas80.itch.io/bathroom-bill/devlog",
+        "comments": "https://dipsas80.itch.io/bathroom-bill/comments"
+    }
+}

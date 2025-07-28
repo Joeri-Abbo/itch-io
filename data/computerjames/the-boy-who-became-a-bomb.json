@@ -1,0 +1,20 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://yoyodyne.itch.io/the-boy-who-became-a-bomb/comments",
+        "self": "https://yoyodyne.itch.io/the-boy-who-became-a-bomb"
+    },
+    "authors": [
+        {
+            "name": "yoyodyne entertainment systems",
+            "url": "https://yoyodyne.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyMDE4NzQ4LnBuZw==/315x250%23c/W3Q25b.png",
+    "id": 2043316,
+    "title": "The Boy Who Became A Bomb",
+    "tags": [
+        "pico-8",
+        "puzzle"
+    ]
+}

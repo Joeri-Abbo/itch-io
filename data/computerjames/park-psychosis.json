@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "AAYF",
+            "url": "https://aayf.itch.io"
+        },
+        {
+            "name": "BettyFlores",
+            "url": "https://bettyflores.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyMDIyNzU0LnBuZw==/315x250%23c/ahAL7h.png",
+    "id": 2044218,
+    "title": "Park Psychosis",
+    "links": {
+        "self": "https://aayf.itch.io/park-psychosis",
+        "comments": "https://aayf.itch.io/park-psychosis/comments"
+    },
+    "tags": [
+        "2d",
+        "physics",
+        "strategy",
+        "tower-defense"
+    ]
+}

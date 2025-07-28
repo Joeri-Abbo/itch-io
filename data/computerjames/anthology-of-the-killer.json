@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "thecatamites",
+            "url": "https://thecatamites.itch.io"
+        }
+    ],
+    "id": 1918997,
+    "price": "$6.00",
+    "tags": [
+        "adventure",
+        "cartoon",
+        "comedy",
+        "horror",
+        "mystery",
+        "walking-simulator"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzExMzI1MDY1LnBuZw==/315x250%23c/QSH1gf.png",
+    "links": {
+        "devlog": "https://thecatamites.itch.io/anthology-of-the-killer/devlog",
+        "self": "https://thecatamites.itch.io/anthology-of-the-killer",
+        "comments": "https://thecatamites.itch.io/anthology-of-the-killer/comments"
+    },
+    "title": "Anthology of the Killer"
+}

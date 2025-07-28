@@ -1,0 +1,33 @@
+{
+    "authors": [
+        {
+            "name": "pyrofoux",
+            "url": "https://pyrofoux.itch.io"
+        },
+        {
+            "name": "Playthroughline",
+            "url": "https://playthroughline.itch.io"
+        }
+    ],
+    "id": 2147550,
+    "price": "$12.00",
+    "tags": [
+        "experimental",
+        "interactive-fiction",
+        "mystery",
+        "narrative",
+        "no-ai",
+        "omnipedia",
+        "science-fiction",
+        "ttrpg",
+        "user-interface",
+        "wikipedia"
+    ],
+    "links": {
+        "devlog": "https://pyrofoux.itch.io/neurocracy/devlog",
+        "comments": "https://pyrofoux.itch.io/neurocracy/comments",
+        "self": "https://pyrofoux.itch.io/neurocracy"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIyMDQ5NTk3LnBuZw==/315x250%23c/4l2tL2.png",
+    "title": "NEUROCRACY"
+}

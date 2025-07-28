@@ -1,0 +1,21 @@
+{
+    "price": "$10.00",
+    "id": 244402,
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjQ0NDAyLzExNjcxMTEucG5n/315x250%23c/k8C9Sy.png",
+    "tags": [
+        "no-ai",
+        "roguelike",
+        "strategy"
+    ],
+    "links": {
+        "community": "https://smestorp.itch.io/cinco-paus/community",
+        "self": "https://smestorp.itch.io/cinco-paus"
+    },
+    "authors": [
+        {
+            "name": "Michael Brough",
+            "url": "https://smestorp.itch.io"
+        }
+    ],
+    "title": "Cinco Paus"
+}

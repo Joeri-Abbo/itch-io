@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Marek Kapolka",
+            "url": "https://mkapolka.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEwNjkwODk1LmdpZg==/315x250%23c/kSpXLY.gif",
+    "id": 1820905,
+    "links": {
+        "self": "https://mkapolka.itch.io/stomp-plonk",
+        "comments": "https://mkapolka.itch.io/stomp-plonk/comments"
+    },
+    "title": "Stomp Plonk",
+    "price": "$0.00",
+    "tags": [
+        "adventure",
+        "cartoon",
+        "casual",
+        "colorful",
+        "cute",
+        "music",
+        "singleplayer",
+        "walking-simulator"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Ritttsu",
+            "url": "https://ritttsu.itch.io"
+        }
+    ],
+    "id": 2193785,
+    "price": "$0.00",
+    "tags": [
+        "casual",
+        "cute",
+        "dog",
+        "dogs",
+        "puzzle"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyOTYxNjI4LnBuZw==/315x250%23c/ZNj3HU.png",
+    "links": {
+        "self": "https://ritttsu.itch.io/dogdogshow",
+        "comments": "https://ritttsu.itch.io/dogdogshow/comments"
+    },
+    "title": "Dog Dog Show"
+}

@@ -1,0 +1,33 @@
+{
+    "authors": [
+        {
+            "name": "BoschyBee",
+            "url": "https://boschybee.itch.io"
+        },
+        {
+            "name": "TheShoes",
+            "url": "https://theshoes.itch.io"
+        }
+    ],
+    "id": 2374266,
+    "tags": [
+        "1-bit",
+        "action",
+        "comedy",
+        "experimental",
+        "fantasy",
+        "funny",
+        "microgames",
+        "minigames",
+        "short",
+        "top-down",
+        "warioware"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE0MDYwMTc2LnBuZw==/315x250%23c/ZR3Lbv.png",
+    "links": {
+        "devlog": "https://boschybee.itch.io/firesale/devlog",
+        "self": "https://boschybee.itch.io/firesale",
+        "comments": "https://boschybee.itch.io/firesale/comments"
+    },
+    "title": "Firesale"
+}

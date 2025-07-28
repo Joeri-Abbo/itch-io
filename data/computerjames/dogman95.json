@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "ComputerJames",
+            "url": "https://computerjames.itch.io"
+        }
+    ],
+    "id": 2548129,
+    "tags": [
+        "comedy",
+        "dogs",
+        "dungeon-crawler",
+        "fantasy",
+        "first-person",
+        "rpg",
+        "short",
+        "turn-based-combat"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE1MTY3NTA5LmdpZg==/315x250%23c/rtroEB.gif",
+    "links": {
+        "devlog": "https://computerjames.itch.io/dogman95/devlog",
+        "self": "https://computerjames.itch.io/dogman95",
+        "comments": "https://computerjames.itch.io/dogman95/comments"
+    },
+    "title": "Dogman95"
+}

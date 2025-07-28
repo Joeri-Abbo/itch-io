@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "Moczan",
+            "url": "https://moczan.itch.io"
+        },
+        {
+            "name": "Little Chmura",
+            "url": "https://littlechmura.itch.io"
+        },
+        {
+            "name": "gargooletz",
+            "url": "https://gargooletz.itch.io"
+        },
+        {
+            "name": "willq",
+            "url": "https://willq.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE1MTY5MzI1LmpwZw==/315x250%23c/YoHshU.jpg",
+    "id": 2549345,
+    "title": "Gevont: The last Giant of Radio",
+    "links": {
+        "self": "https://moczan.itch.io/gevont-the-last-giant-of-radio",
+        "comments": "https://moczan.itch.io/gevont-the-last-giant-of-radio/comments"
+    },
+    "tags": [
+        "action",
+        "no-ai"
+    ]
+}
