@@ -1,0 +1,18 @@
+{
+    "guid": "https://pixel-boy.itch.io/quest-of-graal-dx",
+    "title": "Quest Of Graal DX [$9.99] [Racing] [Windows] [macOS] [Linux]",
+    "plainTitle": "Quest Of Graal DX",
+    "imageurl": "https://img.itch.zone/aW1nLzgxMjIwMTYuZ2lm/315x250%23c/E6soYk.gif",
+    "price": "$9.99",
+    "currency": "USD",
+    "link": "https://pixel-boy.itch.io/quest-of-graal-dx",
+    "description": "Racing platformer with splitscreen multiplayer\n<img src=\"https://img.itch.zone/aW1nLzgxMjIwMTYuZ2lm/315x250%23c/E6soYk.gif\" alt=\"Quest Of Graal DX\"/>",
+    "pubDate": "Thu, 03 Feb 2022 16:07:14 GMT",
+    "createDate": "Thu, 03 Feb 2022 16:07:14 GMT",
+    "updateDate": "Sun, 18 Jun 2023 15:36:54 GMT",
+    "platforms": {
+        "windows": "yes",
+        "osx": "yes",
+        "linux": "yes"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "guid": "https://fpv-freerider.itch.io/fpv-freerider",
+    "title": "FPV Freerider [$5.99] [Simulation] [Windows] [macOS] [Linux]",
+    "plainTitle": "FPV Freerider",
+    "imageurl": "https://img.itch.zone/aW1nLzE4MzA5MjcucG5n/315x250%23c/MwKtJT.png",
+    "price": "$5.99",
+    "currency": "USD",
+    "link": "https://fpv-freerider.itch.io/fpv-freerider",
+    "description": "RC Quadcopter Racing Simulator\n<img src=\"https://img.itch.zone/aW1nLzE4MzA5MjcucG5n/315x250%23c/MwKtJT.png\" alt=\"FPV Freerider\"/>",
+    "pubDate": "Wed, 06 May 2015 18:04:49 GMT",
+    "createDate": "Wed, 06 May 2015 18:04:49 GMT",
+    "updateDate": "Thu, 18 Apr 2024 07:03:41 GMT",
+    "platforms": {
+        "windows": "yes",
+        "osx": "yes",
+        "linux": "yes"
+    }
+}

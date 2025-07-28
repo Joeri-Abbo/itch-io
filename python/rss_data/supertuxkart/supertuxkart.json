@@ -1,0 +1,19 @@
+{
+    "guid": "https://supertuxkart.itch.io/supertuxkart",
+    "title": "SuperTuxKart [Free] [Action] [Windows] [macOS] [Linux] [Android]",
+    "plainTitle": "SuperTuxKart",
+    "imageurl": "https://img.itch.zone/aW1hZ2UvODM1MDIvMzkzNDQyLmpwZw==/315x250%23c/P%2F2%2BKM.jpg",
+    "price": "$0.00",
+    "currency": "USD",
+    "link": "https://supertuxkart.itch.io/supertuxkart",
+    "description": "A go kart racing game featuring Tux &amp; Friends\n<img src=\"https://img.itch.zone/aW1hZ2UvODM1MDIvMzkzNDQyLmpwZw==/315x250%23c/P%2F2%2BKM.jpg\" alt=\"SuperTuxKart\"/>",
+    "pubDate": "Sat, 03 Sep 2016 01:01:07 GMT",
+    "createDate": "Sat, 03 Sep 2016 01:01:07 GMT",
+    "updateDate": "Wed, 02 Nov 2022 03:30:14 GMT",
+    "platforms": {
+        "windows": "yes",
+        "osx": "yes",
+        "linux": "yes",
+        "android": "yes"
+    }
+}
