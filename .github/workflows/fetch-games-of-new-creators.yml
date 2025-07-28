@@ -1,0 +1,33 @@
+name: Fetch Games for New Creators
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'python/creators.json'
+
+jobs:
+  fetch-new-creators:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r python/requirements.txt
+
+      - name: Run fetch-games-of-new-creators.py
+        run: |
+          cd python
+          python fetch-games-of-new-creators.py
+      - uses: stefanzweifel/git-auto-commit-action@v6.0.1
+        with:
+          commit_message: "Added games for new creators"
