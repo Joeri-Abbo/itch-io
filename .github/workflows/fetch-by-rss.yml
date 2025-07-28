@@ -1,4 +1,4 @@
-name: Fetch Games by Creator
+name: Fetch Games by RSS
 
 on:
   workflow_dispatch:
