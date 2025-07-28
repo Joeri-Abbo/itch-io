@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Barndles",
+            "url": "https://barndles.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzU1OTI4MzAucG5n/315x250%23c/MLK4xe.png",
+    "id": 983701,
+    "links": {
+        "self": "https://barndles.itch.io/nc2o",
+        "comments": "https://barndles.itch.io/nc2o/comments"
+    },
+    "title": "NC2O",
+    "price": "$0.00",
+    "tags": [
+        "1-bit",
+        "one-button",
+        "platformer",
+        "puzzle",
+        "puzzle-platformer"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Harper Rhett",
+            "url": "https://harper-rhett.itch.io"
+        }
+    ],
+    "id": 3382581,
+    "price": "$0.00",
+    "tags": [
+        "compress",
+        "compressor",
+        "convert",
+        "converter",
+        "edit",
+        "editor",
+        "ffmpeg",
+        "format",
+        "free",
+        "no-ai",
+        "video"
+    ],
+    "links": {
+        "community": "https://harper-rhett.itch.io/convertophile/community",
+        "devlog": "https://harper-rhett.itch.io/convertophile/devlog",
+        "self": "https://harper-rhett.itch.io/convertophile"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIwNjM4NDUzLnBuZw==/315x250%23c/Hp3M1N.png",
+    "title": "Convertophile"
+}

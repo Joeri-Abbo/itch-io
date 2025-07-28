@@ -1,0 +1,27 @@
+{
+    "price": "$0.00",
+    "id": 3611955,
+    "cover_image": "https://img.itch.zone/aW1nLzIxNTAyMDEzLnBuZw==/315x250%23c/Kv6bcA.png",
+    "tags": [
+        "atmospheric",
+        "first-person",
+        "horror",
+        "manga",
+        "no-ai",
+        "singleplayer",
+        "slender",
+        "survival",
+        "unreal-engine"
+    ],
+    "links": {
+        "comments": "https://jardjared.itch.io/slender-remake/comments",
+        "self": "https://jardjared.itch.io/slender-remake"
+    },
+    "authors": [
+        {
+            "name": "JardJared",
+            "url": "https://jardjared.itch.io"
+        }
+    ],
+    "title": "Slender Remake"
+}

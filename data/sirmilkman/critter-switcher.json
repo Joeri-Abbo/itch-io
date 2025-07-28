@@ -1,0 +1,35 @@
+{
+    "authors": [
+        {
+            "name": "torcado",
+            "url": "https://torcado.itch.io"
+        },
+        {
+            "name": "keestak",
+            "url": "https://keestak.itch.io"
+        },
+        {
+            "name": "sirmilkman",
+            "url": "https://sirmilkman.itch.io"
+        }
+    ],
+    "id": 3024481,
+    "tags": [
+        "2d",
+        "broughlike",
+        "critter",
+        "cute",
+        "furry",
+        "high-score",
+        "ludum-dare-56",
+        "pixel-art",
+        "roguelike",
+        "strategy"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4MDg0MDIyLnBuZw==/315x250%23c/BqONva.png",
+    "links": {
+        "self": "https://torcado.itch.io/critter-switcher",
+        "comments": "https://torcado.itch.io/critter-switcher/comments"
+    },
+    "title": "Critter Switcher"
+}

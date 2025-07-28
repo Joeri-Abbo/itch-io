@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "Electroman Dynamix",
+            "url": "https://electroman-dynamix.itch.io"
+        }
+    ],
+    "id": 3758936,
+    "tags": [
+        "2d",
+        "ai-generated",
+        "ai-generated-code",
+        "cute",
+        "interactive-fiction",
+        "singleplayer",
+        "unity"
+    ],
+    "links": {
+        "comments": "https://electroman-dynamix.itch.io/yippee-clicker/comments",
+        "self": "https://electroman-dynamix.itch.io/yippee-clicker"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzc2NTU0LnBuZw==/315x250%23c/w5a71o.png",
+    "title": "Yippee Clicker"
+}

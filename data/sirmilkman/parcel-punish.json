@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "sirmilkman",
+            "url": "https://sirmilkman.itch.io"
+        }
+    ],
+    "id": 2048167,
+    "tags": [
+        "action",
+        "fast-paced",
+        "ludum-dare-53",
+        "top-down",
+        "top-down-adventure"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyMDQ2NjAyLmdpZg==/315x250%23c/SGwZLB.gif",
+    "links": {
+        "self": "https://sirmilkman.itch.io/parcel-punish",
+        "comments": "https://sirmilkman.itch.io/parcel-punish/comments"
+    },
+    "title": "PARCEL PUNISHER"
+}

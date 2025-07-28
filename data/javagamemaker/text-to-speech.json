@@ -1,0 +1,17 @@
+{
+    "authors": [
+        {
+            "name": "game beginner",
+            "url": "https://javagamemaker.itch.io"
+        }
+    ],
+    "id": 2202710,
+    "price": "$0.00",
+    "tags": [],
+    "cover_image": "https://img.itch.zone/aW1nLzEzMDIyNzA1LnBuZw==/315x250%23c/uOGypP.png",
+    "links": {
+        "self": "https://javagamemaker.itch.io/text-to-speech",
+        "comments": "https://javagamemaker.itch.io/text-to-speech/comments"
+    },
+    "title": "Text To Speech"
+}

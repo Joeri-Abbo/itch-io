@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "Electroman Dynamix",
+            "url": "https://electroman-dynamix.itch.io"
+        }
+    ],
+    "id": 3245773,
+    "tags": [
+        "2d",
+        "no-ai",
+        "simulation",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5MzgyNDQ1LnBuZw==/315x250%23c/aDB8vK.png",
+    "links": {
+        "devlog": "https://electroman-dynamix.itch.io/the-hello-world-game-performance-edition/devlog",
+        "self": "https://electroman-dynamix.itch.io/the-hello-world-game-performance-edition",
+        "comments": "https://electroman-dynamix.itch.io/the-hello-world-game-performance-edition/comments"
+    },
+    "title": "The Hello World Game Performance Edition"
+}

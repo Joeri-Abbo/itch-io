@@ -1,0 +1,21 @@
+{
+    "authors": [
+        {
+            "name": "Alyssa N. Vaughn",
+            "url": "https://alyssaenvy.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxNTkzNjY2LnBuZw==/315x250%23c/rJUlFq.png",
+    "id": 3628722,
+    "title": "Nobody's Home",
+    "links": {
+        "comments": "https://alyssaenvy.itch.io/nobodys-home/comments",
+        "devlog": "https://alyssaenvy.itch.io/nobodys-home/devlog",
+        "self": "https://alyssaenvy.itch.io/nobodys-home"
+    },
+    "tags": [
+        "puzzle",
+        "text-based",
+        "thriller"
+    ]
+}

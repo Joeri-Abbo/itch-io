@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "sirmilkman",
+            "url": "https://sirmilkman.itch.io"
+        }
+    ],
+    "id": 1729820,
+    "tags": [
+        "chaos",
+        "clockmachine",
+        "ludum-dare",
+        "ludum-dare-51",
+        "platformer",
+        "short"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEwMTg1NTYxLmdpZg==/315x250%23c/X56cgY.gif",
+    "links": {
+        "self": "https://sirmilkman.itch.io/clockmachine-chaos",
+        "comments": "https://sirmilkman.itch.io/clockmachine-chaos/comments"
+    },
+    "title": "Clockmachine Chaos"
+}

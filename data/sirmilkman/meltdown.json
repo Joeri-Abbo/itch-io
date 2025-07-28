@@ -1,0 +1,23 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzM4NjM3NzEucG5n/315x250%23c/Urs5o%2B.png",
+    "id": 701135,
+    "title": "Meltdown+",
+    "price": "$0.00",
+    "links": {
+        "self": "https://boombox5.itch.io/meltdown",
+        "comments": "https://boombox5.itch.io/meltdown/comments"
+    },
+    "authors": [
+        {
+            "name": "BoomBox5",
+            "url": "https://boombox5.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "cute",
+        "pixel-art",
+        "platformer",
+        "slime"
+    ]
+}

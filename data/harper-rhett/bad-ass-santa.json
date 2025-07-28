@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Harper Rhett",
+            "url": "https://harper-rhett.itch.io"
+        },
+        {
+            "name": "Giuliano De Pian",
+            "url": "https://giuliano-de-pian.itch.io"
+        },
+        {
+            "name": "Carlyyyi",
+            "url": "https://carlyyyi.itch.io"
+        }
+    ],
+    "id": 536032,
+    "tags": [
+        "2d",
+        "action",
+        "christmas",
+        "co-op"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI3ODc0MjIuZ2lm/315x250%23c/lRdjZw.gif",
+    "links": {
+        "devlog": "https://harper-rhett.itch.io/bad-ass-santa/devlog",
+        "self": "https://harper-rhett.itch.io/bad-ass-santa",
+        "comments": "https://harper-rhett.itch.io/bad-ass-santa/comments"
+    },
+    "title": "Badass Santa"
+}

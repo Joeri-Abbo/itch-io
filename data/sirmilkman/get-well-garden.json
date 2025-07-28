@@ -1,0 +1,32 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzc0ODkwOTguanBn/315x250%23c/SLUHzh.jpg",
+    "id": 1285365,
+    "links": {
+        "self": "https://pancelor.itch.io/get-well-garden",
+        "comments": "https://pancelor.itch.io/get-well-garden/comments"
+    },
+    "title": "Get Well Garden",
+    "authors": [
+        {
+            "name": "pancelor",
+            "url": "https://pancelor.itch.io"
+        },
+        {
+            "name": "droqen",
+            "url": "https://droqen.itch.io"
+        },
+        {
+            "name": "FrogStore",
+            "url": "https://stranger.itch.io"
+        },
+        {
+            "name": "Mer Grazzini",
+            "url": "https://mergrazzini.itch.io"
+        }
+    ],
+    "tags": [
+        "gardening",
+        "no-ai",
+        "simulation"
+    ]
+}

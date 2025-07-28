@@ -1,0 +1,41 @@
+{
+    "authors": [
+        {
+            "name": "halgendy",
+            "url": "https://halgendy.itch.io"
+        },
+        {
+            "name": "Lukas Tegge",
+            "url": "https://lukas-tegge.itch.io"
+        },
+        {
+            "name": "thereare21",
+            "url": "https://thereare21.itch.io"
+        },
+        {
+            "name": "ZeEpiq",
+            "url": "https://zeepiq.itch.io"
+        },
+        {
+            "name": "Rin",
+            "url": "https://rinpowers.itch.io"
+        }
+    ],
+    "id": 3022509,
+    "tags": [
+        "2d",
+        "cute",
+        "hamster",
+        "psychological-horror",
+        "shooter",
+        "short",
+        "singleplayer",
+        "twin-stick-shooter"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4MTA5NDk3LnBuZw==/315x250%23c/3J8x8h.png",
+    "links": {
+        "self": "https://halgendy.itch.io/happy-hamsters",
+        "comments": "https://halgendy.itch.io/happy-hamsters/comments"
+    },
+    "title": "Happy Hamsters?"
+}

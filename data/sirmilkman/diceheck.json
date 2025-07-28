@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "sirmilkman",
+            "url": "https://sirmilkman.itch.io"
+        }
+    ],
+    "id": 1619196,
+    "tags": [
+        "action",
+        "dice",
+        "endless",
+        "gmtkjam",
+        "heck",
+        "high-score"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzk0NzYwNDkuZ2lm/315x250%23c/bwAq4L.gif",
+    "links": {
+        "devlog": "https://sirmilkman.itch.io/diceheck/devlog",
+        "self": "https://sirmilkman.itch.io/diceheck",
+        "comments": "https://sirmilkman.itch.io/diceheck/comments"
+    },
+    "title": "DICEHECK"
+}

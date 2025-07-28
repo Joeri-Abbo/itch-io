@@ -1,0 +1,24 @@
+{
+    "links": {
+        "comments": "https://harper-rhett.itch.io/orbitank/comments",
+        "self": "https://harper-rhett.itch.io/orbitank"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzk0MzU5OTEucG5n/315x250%23c/fKAUcY.png",
+    "tags": [
+        "action",
+        "cartoon",
+        "gravity",
+        "local-multiplayer",
+        "physics",
+        "space",
+        "tanks"
+    ],
+    "id": 1611954,
+    "authors": [
+        {
+            "name": "Harper Rhett",
+            "url": "https://harper-rhett.itch.io"
+        }
+    ],
+    "title": "OrbiTank"
+}

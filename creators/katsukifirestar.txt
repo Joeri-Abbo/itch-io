@@ -1,0 +1,87 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+5:I[9665,[],"OutletBoundary"]
+7:I[4911,[],"AsyncMetadataOutlet"]
+9:I[9665,[],"ViewportBoundary"]
+b:I[9665,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[8393,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/713936164fda188d.css","style"]
+0:{"P":null,"b":"7C7qGryGzZitTBu_vJypy","p":"","c":["","creators","katsukifirestar"],"i":false,"f":[[["",{"children":["creators",{"children":[["creator","katsukifirestar","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/713936164fda188d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["creators",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["creator","katsukifirestar","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:T570,{
+  "links": {
+    "comments": "https://gamagora.itch.io/not-paid-enough/comments",
+    "self": "https://gamagora.itch.io/not-paid-enough"
+  },
+  "cover_image": "https://img.itch.zone/aW1nLzIwOTUzNTg5LnBuZw==/315x250%23c/HvDFN0.png",
+  "tags": [
+    "aliens",
+    "comedy",
+    "multiplayer",
+    "no-ai",
+    "other",
+    "party-game"
+  ],
+  "id": 3503042,
+  "authors": [
+    {
+      "name": "Gamagora",
+      "url": "https://gamagora.itch.io"
+    },
+    {
+      "name": "KaTSukiFireStar",
+      "url": "https://katsukifirestar.itch.io"
+    },
+    {
+      "name": "Gugusea",
+      "url": "https://gugusea.itch.io"
+    },
+    {
+      "name": "RaptorEliot",
+      "url": "https://raptoreliot.itch.io"
+    },
+    {
+      "name": "Bellaedris",
+      "url": "https://bellaedris.itch.io"
+    },
+    {
+      "name": "Axel-ii",
+      "url": "https://axel-ii.itch.io"
+    },
+    {
+      "name": "Ame",
+      "url": "https://ameiswhattodo.itch.io"
+    },
+    {
+      "name": "OthenTV",
+      "url": "https://othentv.itch.io"
+    },
+    {
+      "name": "PaintAuChocolat",
+      "url": "https://paintauchocolat.itch.io"
+    },
+    {
+      "name": "Renaud",
+      "url": "https://its-chocapic.itch.io"
+    },
+    {
+      "name": "enzo111001",
+      "url": "https://enzo111001.itch.io"
+    },
+    {
+      "name": "Lordan6",
+      "url": "https://lordan6.itch.io"
+    }
+  ],
+  "title": "Not Paid Enough!"
+}4:["$","div",null,{"children":[["$","h1",null,{"children":["Creator: ","katsukifirestar"]}],["$","ul",null,{"children":[["$","li","0",{"children":["$","pre",null,{"children":"{\n  \"id\": 3758814,\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzc1ODA4LnBuZw==/315x250%23c/WCJC9I.png\",\n  \"title\": \"Animal killing with banana\",\n  \"links\": {\n    \"self\": \"https://katsukifirestar.itch.io/animal-killing-with-banana\",\n    \"comments\": \"https://katsukifirestar.itch.io/animal-killing-with-banana/comments\"\n  },\n  \"authors\": [\n    {\n      \"name\": \"KaTSukiFireStar\",\n      \"url\": \"https://katsukifirestar.itch.io\"\n    }\n  ],\n  \"tags\": [\n    \"no-ai\",\n    \"shooter\"\n  ]\n}"}]}],["$","li","1",{"children":["$","pre",null,{"children":"{\n  \"authors\": [\n    {\n      \"name\": \"KaTSukiFireStar\",\n      \"url\": \"https://katsukifirestar.itch.io\"\n    },\n    {\n      \"name\": \"Woople74\",\n      \"url\": \"https://woople74.itch.io\"\n    }\n  ],\n  \"id\": 3758760,\n  \"tags\": [\n    \"adventure\",\n    \"no-ai\"\n  ],\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzc1NDg1LnBuZw==/315x250%23c/pFUacv.png\",\n  \"links\": {\n    \"self\": \"https://katsukifirestar.itch.io/deus-vult\",\n    \"comments\": \"https://katsukifirestar.itch.io/deus-vult/comments\"\n  },\n  \"title\": \"Deus Vult\"\n}"}]}],["$","li","2",{"children":["$","pre",null,{"children":"{\n  \"authors\": [\n    {\n      \"name\": \"KaTSukiFireStar\",\n      \"url\": \"https://katsukifirestar.itch.io\"\n    },\n    {\n      \"name\": \"Xoletis\",\n      \"url\": \"https://xoletis.itch.io\"\n    },\n    {\n      \"name\": \"MuGen01\",\n      \"url\": \"https://mugen01.itch.io\"\n    },\n    {\n      \"name\": \"AnNaNnq\",\n      \"url\": \"https://annannq.itch.io\"\n    },\n    {\n      \"name\": \"Woople74\",\n      \"url\": \"https://woople74.itch.io\"\n    },\n    {\n      \"name\": \"devalexxx\",\n      \"url\": \"https://devalexxx.itch.io\"\n    }\n  ],\n  \"id\": 3758916,\n  \"tags\": [\n    \"no-ai\",\n    \"simulation\"\n  ],\n  \"links\": {\n    \"comments\": \"https://katsukifirestar.itch.io/eco-garden/comments\",\n    \"self\": \"https://katsukifirestar.itch.io/eco-garden\"\n  },\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzc2MTMyLnBuZw==/315x250%23c/2X3Nlp.png\",\n  \"title\": \"Eco Garden VR\"\n}"}]}],["$","li","3",{"children":["$","pre",null,{"children":"{\n  \"authors\": [\n    {\n      \"name\": \"Rafael\",\n      \"url\": \"https://rafael-a.itch.io\"\n    },\n    {\n      \"name\": \"KaTSukiFireStar\",\n      \"url\": \"https://katsukifirestar.itch.io\"\n    },\n    {\n      \"name\": \"GeckoSouriant\",\n      \"url\": \"https://geckosouriant.itch.io\"\n    },\n    {\n      \"name\": \"Lordan6\",\n      \"url\": \"https://lordan6.itch.io\"\n    }\n  ],\n  \"id\": 3737474,\n  \"tags\": [\n    \"action\",\n    \"no-ai\"\n  ],\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMjQ0NTQyLnBuZw==/315x250%23c/OOH12l.png\",\n  \"links\": {\n    \"self\": \"https://rafael-a.itch.io/ghourlmet\",\n    \"comments\": \"https://rafael-a.itch.io/ghourlmet/comments\"\n  },\n  \"title\": \"Ghourlmet!\"\n}"}]}],["$","li","4",{"children":["$","pre",null,{"children":"$f"}]}],"$L10","$L11"]}]]}]
+10:["$","li","5",{"children":["$","pre",null,{"children":"{\n  \"authors\": [\n    {\n      \"name\": \"Lordan6\",\n      \"url\": \"https://lordan6.itch.io\"\n    },\n    {\n      \"name\": \"KaTSukiFireStar\",\n      \"url\": \"https://katsukifirestar.itch.io\"\n    },\n    {\n      \"name\": \"Vlvy\",\n      \"url\": \"https://vlvy.itch.io\"\n    },\n    {\n      \"name\": \"enzo111001\",\n      \"url\": \"https://enzo111001.itch.io\"\n    }\n  ],\n  \"id\": 3313123,\n  \"tags\": [\n    \"horror\",\n    \"no-ai\",\n    \"survival\",\n    \"survival-horror\"\n  ],\n  \"cover_image\": \"https://img.itch.zone/aW1nLzE5Nzg4Mzk4LnBuZw==/315x250%23c/9nin%2BD.png\",\n  \"links\": {\n    \"self\": \"https://lordan6.itch.io/onmyji\",\n    \"comments\": \"https://lordan6.itch.io/onmyji/comments\"\n  },\n  \"title\": \"Onmyōji\"\n}"}]}]
+11:["$","li","6",{"children":["$","pre",null,{"children":"{\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzc1MDI1LnBuZw==/315x250%23c/iKZSfe.png\",\n  \"id\": 3758715,\n  \"links\": {\n    \"self\": \"https://katsukifirestar.itch.io/pac-man\",\n    \"comments\": \"https://katsukifirestar.itch.io/pac-man/comments\"\n  },\n  \"title\": \"Pac-Man\",\n  \"authors\": [\n    {\n      \"name\": \"KaTSukiFireStar\",\n      \"url\": \"https://katsukifirestar.itch.io\"\n    }\n  ],\n  \"tags\": [\n    \"no-ai\"\n  ]\n}"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+12:I[8175,[],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L12","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,33 @@
+{
+    "authors": [
+        {
+            "name": "homsar47",
+            "url": "https://homsar47.itch.io"
+        },
+        {
+            "name": "CChap",
+            "url": "https://cchap.itch.io"
+        },
+        {
+            "name": "Harper Rhett",
+            "url": "https://harper-rhett.itch.io"
+        }
+    ],
+    "id": 1622140,
+    "tags": [
+        "action",
+        "casino",
+        "dice",
+        "fps",
+        "gmtkjam",
+        "luck",
+        "shooter",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEwMjA1NTc1LnBuZw==/315x250%23c/290rNQ.png",
+    "links": {
+        "self": "https://homsar47.itch.io/no-time-to-die",
+        "comments": "https://homsar47.itch.io/no-time-to-die/comments"
+    },
+    "title": "No Time to Die"
+}

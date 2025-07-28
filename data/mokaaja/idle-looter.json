@@ -1,0 +1,32 @@
+{
+    "authors": [
+        {
+            "name": "Mokaaja",
+            "url": "https://mokaaja.itch.io"
+        }
+    ],
+    "id": 3756070,
+    "price": "$2.99",
+    "tags": [
+        "2d",
+        "adventure",
+        "ai-generated",
+        "ai-generated-code",
+        "ai-generated-graphics",
+        "ai-generated-text",
+        "clicker",
+        "fantasy",
+        "idle",
+        "loot",
+        "management",
+        "rpg",
+        "singleplayer",
+        "strategy"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzU2ODkwLnBuZw==/315x250%23c/zWyHjU.png",
+    "links": {
+        "community": "https://mokaaja.itch.io/idle-looter/community",
+        "self": "https://mokaaja.itch.io/idle-looter"
+    },
+    "title": "Idle Looter"
+}

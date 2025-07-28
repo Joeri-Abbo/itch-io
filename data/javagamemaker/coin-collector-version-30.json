@@ -1,0 +1,24 @@
+{
+    "title": "Coin Collector version 3.0",
+    "id": 2445100,
+    "price": "$0.00",
+    "cover_image": "",
+    "links": {
+        "comments": "https://javagamemaker.itch.io/coin-collector-version-30/comments",
+        "self": "https://javagamemaker.itch.io/coin-collector-version-30"
+    },
+    "tags": [
+        "2d",
+        "builtwithunity",
+        "endless",
+        "simula",
+        "simulation",
+        "unity"
+    ],
+    "authors": [
+        {
+            "name": "game beginner",
+            "url": "https://javagamemaker.itch.io"
+        }
+    ]
+}

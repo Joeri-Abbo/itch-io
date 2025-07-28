@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "sirmilkman",
+            "url": "https://sirmilkman.itch.io"
+        }
+    ],
+    "id": 1850762,
+    "tags": [
+        "destruction",
+        "kid",
+        "laser",
+        "physics",
+        "platformer",
+        "puzzle"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEwODY0MzQ3LmdpZg==/315x250%23c/W8DEuj.gif",
+    "links": {
+        "self": "https://sirmilkman.itch.io/laserkid",
+        "comments": "https://sirmilkman.itch.io/laserkid/comments"
+    },
+    "title": "laserkid"
+}

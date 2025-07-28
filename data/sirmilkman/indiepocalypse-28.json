@@ -1,0 +1,46 @@
+{
+    "authors": [
+        {
+            "name": "PIZZAPRANKS",
+            "url": "https://pizzapranks.itch.io"
+        }
+    ],
+    "rewards": [
+        {
+            "available": false,
+            "price": "$0.00",
+            "amount": 5,
+            "amount_remaining": 0,
+            "id": 14187,
+            "title": "Community Copies"
+        },
+        {
+            "available": true,
+            "price": "$23.00",
+            "amount": 100,
+            "amount_remaining": 99,
+            "id": 15759,
+            "title": "Physical Copy of Indiepocalypse (US)"
+        },
+        {
+            "available": true,
+            "price": "$30.00",
+            "amount": 100,
+            "amount_remaining": 100,
+            "id": 15760,
+            "title": "Physical Copy of Indiepocalypse (Non-US)"
+        }
+    ],
+    "id": 1470972,
+    "price": "$15.00",
+    "tags": [
+        "no-ai"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzg4NTA1MzAuZ2lm/315x250%23c/s%2Fij9H.gif",
+    "links": {
+        "devlog": "https://pizzapranks.itch.io/indiepocalypse-28/devlog",
+        "self": "https://pizzapranks.itch.io/indiepocalypse-28",
+        "comments": "https://pizzapranks.itch.io/indiepocalypse-28/comments"
+    },
+    "title": "Indiepocalypse #28"
+}

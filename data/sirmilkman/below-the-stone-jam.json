@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "Gabe",
+            "url": "https://gabe3704.itch.io"
+        }
+    ],
+    "id": 596351,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "singleplayer",
+        "strategy",
+        "turn-based-strategy"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzMxNjY5NzEucG5n/315x250%23c/yrp9q9.png",
+    "links": {
+        "self": "https://gabe3704.itch.io/below-the-stone-jam",
+        "comments": "https://gabe3704.itch.io/below-the-stone-jam/comments"
+    },
+    "title": "Knights of Treasure"
+}

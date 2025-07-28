@@ -1,0 +1,17 @@
+{
+    "authors": [
+        {
+            "name": "game beginner",
+            "url": "https://javagamemaker.itch.io"
+        }
+    ],
+    "id": 2196127,
+    "price": "$0.00",
+    "tags": [],
+    "cover_image": "https://img.itch.zone/aW1nLzEyOTc2OTIyLnBuZw==/315x250%23c/iq5owr.png",
+    "links": {
+        "self": "https://javagamemaker.itch.io/number-guessing-game",
+        "comments": "https://javagamemaker.itch.io/number-guessing-game/comments"
+    },
+    "title": "Number guessing game"
+}

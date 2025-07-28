@@ -1,0 +1,17 @@
+{
+    "title": "A  color guessing game",
+    "id": 2444065,
+    "cover_image": "",
+    "tags": [],
+    "authors": [
+        {
+            "name": "game beginner",
+            "url": "https://javagamemaker.itch.io"
+        }
+    ],
+    "price": "$0.00",
+    "links": {
+        "self": "https://javagamemaker.itch.io/a-color-guessing-game",
+        "comments": "https://javagamemaker.itch.io/a-color-guessing-game/comments"
+    }
+}

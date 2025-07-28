@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Smart-Studiulation",
+            "url": "https://smart-studiulation.itch.io"
+        }
+    ],
+    "id": 3759102,
+    "tags": [
+        "3d",
+        "action",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "multiplayer",
+        "no-ai",
+        "platformer",
+        "puzzle",
+        "story-rich",
+        "survival"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzc3NzUzLmpwZw==/315x250%23c/0Q9X95.jpg",
+    "links": {
+        "self": "https://smart-studiulation.itch.io/squadle-game",
+        "comments": "https://smart-studiulation.itch.io/squadle-game/comments"
+    },
+    "title": "Squadle Game"
+}

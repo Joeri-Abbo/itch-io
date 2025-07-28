@@ -1,0 +1,23 @@
+{
+    "title": "The Hello World Game",
+    "id": 2517993,
+    "cover_image": "https://img.itch.zone/aW1nLzE0OTcwNjc0LnBuZw==/315x250%23c/5XyvWk.png",
+    "links": {
+        "comments": "https://electroman-dynamix.itch.io/the-hello-world-game/comments",
+        "self": "https://electroman-dynamix.itch.io/the-hello-world-game"
+    },
+    "tags": [
+        "2d",
+        "ai-generated",
+        "ai-generated-code",
+        "other",
+        "singleplayer",
+        "unity"
+    ],
+    "authors": [
+        {
+            "name": "Electroman Dynamix",
+            "url": "https://electroman-dynamix.itch.io"
+        }
+    ]
+}

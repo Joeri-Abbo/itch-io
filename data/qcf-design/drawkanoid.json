@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "dislekcia",
+            "url": "https://dislekcia.itch.io"
+        }
+    ],
+    "id": 553537,
+    "price": "$4.99",
+    "tags": [
+        "action",
+        "arcade",
+        "arkanoid",
+        "brick-breaker",
+        "bullet-time",
+        "explosions",
+        "fast-paced",
+        "hyperspeed",
+        "neon",
+        "no-ai"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI5MDAzMjIucG5n/315x250%23c/HvRCyB.png",
+    "links": {
+        "devlog": "https://dislekcia.itch.io/drawkanoid/devlog",
+        "self": "https://dislekcia.itch.io/drawkanoid",
+        "comments": "https://dislekcia.itch.io/drawkanoid/comments"
+    },
+    "title": "Drawkanoid"
+}

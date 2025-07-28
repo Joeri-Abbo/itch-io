@@ -1,0 +1,26 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzIxNzE4MzQ1LnBuZw==/315x250%23c/NfdKNX.png",
+    "id": 3649788,
+    "links": {
+        "self": "https://adamvian.itch.io/one-hit-kill",
+        "comments": "https://adamvian.itch.io/one-hit-kill/comments"
+    },
+    "title": "One Hit Kill",
+    "authors": [
+        {
+            "name": "Adam Vian SFB Games",
+            "url": "https://adamvian.itch.io"
+        }
+    ],
+    "tags": [
+        "action",
+        "dungeon-crawler",
+        "jrpg",
+        "no-ai",
+        "one-hit-kill",
+        "rpg",
+        "score-attack",
+        "simple",
+        "swords"
+    ]
+}
