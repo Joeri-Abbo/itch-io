@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        }
+    ],
+    "id": 520339,
+    "price": "$6.99",
+    "tags": [
+        "anime",
+        "atmospheric",
+        "creepy",
+        "dark",
+        "female-protagonist",
+        "gay",
+        "horror",
+        "no-ai",
+        "romance",
+        "short",
+        "visual-novel",
+        "yuri"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI3MDE5OTkucG5n/315x250%23c/GaCJhT.png",
+    "links": {
+        "devlog": "https://ebihime.itch.io/rituals/devlog",
+        "self": "https://ebihime.itch.io/rituals",
+        "comments": "https://ebihime.itch.io/rituals/comments"
+    },
+    "title": "Rituals in the Dark"
+}

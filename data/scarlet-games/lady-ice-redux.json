@@ -1,0 +1,27 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://scarlet-games.itch.io/lady-ice-redux",
+        "comments": "https://scarlet-games.itch.io/lady-ice-redux/comments",
+        "devlog": "https://scarlet-games.itch.io/lady-ice-redux/devlog"
+    },
+    "authors": [
+        {
+            "name": "Scarlet Games",
+            "url": "https://scarlet-games.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI2NDU1MTkucG5n/315x250%23c/8TDdvm.png",
+    "id": 508629,
+    "title": "Lady Ice REDUX",
+    "tags": [
+        "horror",
+        "psychological-horror",
+        "short",
+        "story-rich",
+        "survival",
+        "survival-horror",
+        "unity",
+        "western"
+    ]
+}

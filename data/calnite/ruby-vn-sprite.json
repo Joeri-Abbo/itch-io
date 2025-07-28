@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Cal",
+            "url": "https://calnite.itch.io"
+        }
+    ],
+    "id": 3326579,
+    "price": "$12.00",
+    "tags": [
+        "asset-pack",
+        "dark-fantasy",
+        "fantasy",
+        "gothic",
+        "no-ai",
+        "sprites",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODYyNzQwLmdpZg==/315x250%23c/v3JROp.gif",
+    "links": {
+        "self": "https://calnite.itch.io/ruby-vn-sprite",
+        "comments": "https://calnite.itch.io/ruby-vn-sprite/comments"
+    },
+    "title": "Gothic fantasy VN Sprite"
+}

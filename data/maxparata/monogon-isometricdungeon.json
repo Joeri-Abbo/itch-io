@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 1171235,
+    "price": "$0.00",
+    "tags": [
+        "dungeon-crawler",
+        "godot",
+        "isometric",
+        "no-ai",
+        "pixel-art",
+        "rpg",
+        "rpgmaker",
+        "sprites",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ],
+    "links": {
+        "devlog": "https://maxparata.itch.io/monogon-isometricdungeon/devlog",
+        "comments": "https://maxparata.itch.io/monogon-isometricdungeon/comments",
+        "self": "https://maxparata.itch.io/monogon-isometricdungeon"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzY4MTg1MzcucG5n/315x250%23c/KmFBmw.png",
+    "title": "Isometric Dungeon Crawler - monogon"
+}

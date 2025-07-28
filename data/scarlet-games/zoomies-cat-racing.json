@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Scarlet Games",
+            "url": "https://scarlet-games.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzk5NDg4OTYucG5n/315x250%23c/SqOP0H.png",
+    "id": 1689029,
+    "links": {
+        "comments": "https://scarlet-games.itch.io/zoomies-cat-racing/comments",
+        "devlog": "https://scarlet-games.itch.io/zoomies-cat-racing/devlog",
+        "self": "https://scarlet-games.itch.io/zoomies-cat-racing"
+    },
+    "title": "Zoomies! Cat Racing",
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "cartoon",
+        "cats",
+        "comedy",
+        "difficult",
+        "fast-paced",
+        "funny",
+        "multiplayer",
+        "racing",
+        "unity"
+    ]
+}

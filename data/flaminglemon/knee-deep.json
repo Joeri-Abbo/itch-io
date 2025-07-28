@@ -1,0 +1,28 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://flaminglemon.itch.io/knee-deep",
+        "comments": "https://flaminglemon.itch.io/knee-deep/comments",
+        "devlog": "https://flaminglemon.itch.io/knee-deep/devlog"
+    },
+    "authors": [
+        {
+            "name": "flaming hot lemon",
+            "url": "https://flaminglemon.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwMTA1NDE2LnBuZw==/315x250%23c/%2BWck%2Fp.png",
+    "id": 3367389,
+    "title": "Knee Deep! [DEMO]",
+    "tags": [
+        "amare",
+        "cute",
+        "dating-sim",
+        "no-ai",
+        "otome",
+        "romance",
+        "story-rich",
+        "visual-novel",
+        "yandere"
+    ]
+}

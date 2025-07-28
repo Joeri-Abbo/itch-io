@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "terriv",
+            "url": "https://terriv.itch.io"
+        }
+    ],
+    "id": 795378,
+    "price": "$14.99",
+    "tags": [
+        "2d",
+        "action",
+        "science-fiction",
+        "singleplayer",
+        "space"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ0NTI4ODAuZ2lm/315x250%23c/JIb4V%2F.gif",
+    "links": {
+        "self": "https://devolverdigital.itch.io/disc-room"
+    },
+    "title": "Disc Room"
+}

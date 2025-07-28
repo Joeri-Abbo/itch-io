@@ -1,0 +1,24 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzM3MzA5ODIucG5n/315x250%23c/1zOFyh.png",
+    "id": 679318,
+    "title": "RPS Stickman Fight",
+    "price": "$0.00",
+    "links": {
+        "self": "https://ookii-tsuki.itch.io/rps-stickman-fight",
+        "comments": "https://ookii-tsuki.itch.io/rps-stickman-fight/comments",
+        "devlog": "https://ookii-tsuki.itch.io/rps-stickman-fight/devlog"
+    },
+    "authors": [
+        {
+            "name": "Medo",
+            "url": "https://ookii-tsuki.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "casual",
+        "my-first-game-jam",
+        "shooter",
+        "unity"
+    ]
+}

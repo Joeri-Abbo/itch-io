@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "id": 79620,
+    "price": "$5.00",
+    "tags": [
+        "16-bit",
+        "8-bit",
+        "action",
+        "cyberpunk",
+        "futuristic",
+        "hotseat",
+        "racing"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNzk2MjAvMzc5Mjk4LmdpZg==/315x250%23c/thGwdc.gif",
+    "links": {
+        "community": "https://impbox.itch.io/vektor2089/community",
+        "devlog": "https://impbox.itch.io/vektor2089/devlog",
+        "self": "https://impbox.itch.io/vektor2089"
+    },
+    "title": "VEKTOR 2089"
+}

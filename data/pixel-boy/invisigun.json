@@ -1,0 +1,34 @@
+{
+    "authors": [
+        {
+            "name": "Sombr Studio",
+            "url": "https://sombr.itch.io"
+        },
+        {
+            "name": "shadiradio",
+            "url": "https://shadiradio.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI0MTcxMDUucG5n/315x250%23c/Xhcy9X.png",
+    "id": 25561,
+    "links": {
+        "self": "https://sombr.itch.io/invisigun",
+        "devlog": "https://sombr.itch.io/invisigun/devlog"
+    },
+    "title": "Invisigun Reloaded",
+    "price": "$4.99",
+    "tags": [
+        "action",
+        "arcade",
+        "casual",
+        "competitive",
+        "gamepad",
+        "local-multiplayer",
+        "multiplayer",
+        "no-ai",
+        "pixel-art",
+        "retro",
+        "stealth",
+        "top-down"
+    ]
+}

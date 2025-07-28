@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzE3MDY0NDE2LnBuZw==/315x250%23c/pTcmz3.png",
+    "id": 2665088,
+    "title": "Voxel Nuclear Bunker - monogon",
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/voxelnuclearbunker",
+        "comments": "https://maxparata.itch.io/voxelnuclearbunker/comments",
+        "devlog": "https://maxparata.itch.io/voxelnuclearbunker/devlog"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "post-apocalyptic",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ]
+}

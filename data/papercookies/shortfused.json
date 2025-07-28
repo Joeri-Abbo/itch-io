@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 449210,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "3d",
+        "pirates",
+        "puzzle",
+        "short",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyNzI0NjAuZ2lm/315x250%23c/xRUn%2Bw.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/shortfused",
+        "comments": "https://papercookies.itch.io/shortfused/comments"
+    },
+    "title": "ShortFused"
+}

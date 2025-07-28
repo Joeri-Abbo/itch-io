@@ -1,0 +1,21 @@
+{
+    "authors": [
+        {
+            "name": "mlockgamedev",
+            "url": "https://mlockgamedev.itch.io"
+        }
+    ],
+    "id": 3759283,
+    "tags": [
+        "ai-generated",
+        "ai-generated-code",
+        "platformer",
+        "puzzle"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzc4NzU4LnBuZw==/315x250%23c/5h27PN.png",
+    "links": {
+        "self": "https://mlockgamedev.itch.io/yumad",
+        "comments": "https://mlockgamedev.itch.io/yumad/comments"
+    },
+    "title": "YUMad?"
+}

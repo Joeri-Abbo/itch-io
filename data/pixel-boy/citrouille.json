@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Plug In Digital",
+            "url": "https://plugindigital.itch.io"
+        }
+    ],
+    "id": 283880,
+    "price": "$9.99",
+    "tags": [
+        "2d",
+        "anime",
+        "arcade",
+        "colorful",
+        "co-op",
+        "cute",
+        "difficult",
+        "halloween",
+        "platformer",
+        "retro",
+        "versus"
+    ],
+    "links": {
+        "community": "https://plugindigital.itch.io/citrouille/community",
+        "self": "https://plugindigital.itch.io/citrouille"
+    },
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjgzODgwLzEzODA1MTAucG5n/315x250%23c/uoa7t8.png",
+    "title": "Citrouille"
+}

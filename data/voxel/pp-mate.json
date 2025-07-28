@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "voxel",
+            "url": "https://voxel.itch.io"
+        }
+    ],
+    "id": 163576,
+    "tags": [
+        "action",
+        "ludum-dare-39"
+    ],
+    "cover_image": "",
+    "links": {
+        "self": "https://voxel.itch.io/pp-mate",
+        "comments": "https://voxel.itch.io/pp-mate/comments"
+    },
+    "title": "LD39: PP-Mate"
+}

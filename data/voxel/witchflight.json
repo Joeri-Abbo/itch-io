@@ -1,0 +1,21 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzEwMDA5MTAzLnBuZw==/315x250%23c/Hg%2BeOW.png",
+    "id": 1699075,
+    "links": {
+        "self": "https://voxel.itch.io/witchflight",
+        "comments": "https://voxel.itch.io/witchflight/comments"
+    },
+    "title": "Witchflight",
+    "authors": [
+        {
+            "name": "voxel",
+            "url": "https://voxel.itch.io"
+        }
+    ],
+    "tags": [
+        "broomstick",
+        "godot",
+        "other",
+        "witch"
+    ]
+}

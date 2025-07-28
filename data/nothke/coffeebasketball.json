@@ -1,0 +1,21 @@
+{
+    "authors": [
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        }
+    ],
+    "id": 269968,
+    "tags": [
+        "basketball",
+        "bowl",
+        "coffee",
+        "physical"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjY5OTY4LzEzMDM3OTEuanBn/315x250%23cb/fuAeY5.jpg",
+    "links": {
+        "self": "https://nothke.itch.io/coffeebasketball",
+        "comments": "https://nothke.itch.io/coffeebasketball/comments"
+    },
+    "title": "Coffeebasketball"
+}

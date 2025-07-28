@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "id": 45906,
+    "tags": [
+        "futuristic",
+        "pico-8",
+        "racing",
+        "retro",
+        "sports",
+        "wipeout"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNDU5MDYvMTk5NjI0LmdpZg==/315x250%23c/I2R%2BtG.gif",
+    "links": {
+        "self": "https://impbox.itch.io/picoracer2048",
+        "comments": "https://impbox.itch.io/picoracer2048/comments"
+    },
+    "title": "picoRacer 2048"
+}

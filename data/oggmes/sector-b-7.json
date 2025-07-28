@@ -1,0 +1,24 @@
+{
+    "price": "$0.00",
+    "id": 3757575,
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzY3NjYwLnBuZw==/315x250%23c/hM3QYe.png",
+    "tags": [
+        "creepy",
+        "horror",
+        "no-ai",
+        "singleplayer",
+        "survival",
+        "survival-horror"
+    ],
+    "links": {
+        "comments": "https://oggmes.itch.io/sector-b-7/comments",
+        "self": "https://oggmes.itch.io/sector-b-7"
+    },
+    "authors": [
+        {
+            "name": "OGgmes",
+            "url": "https://oggmes.itch.io"
+        }
+    ],
+    "title": "sector B-7 early access"
+}

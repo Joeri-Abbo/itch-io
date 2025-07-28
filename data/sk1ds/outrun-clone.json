@@ -1,0 +1,33 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzIwMTYzNzA5LnBuZw==/315x250%23c/M0MjzD.png",
+    "id": 1921840,
+    "links": {
+        "self": "https://sk1ds.itch.io/outrun-clone",
+        "community": "https://sk1ds.itch.io/outrun-clone/community",
+        "devlog": "https://sk1ds.itch.io/outrun-clone/devlog"
+    },
+    "title": "Turbo OutRun Reimagined v0.5.0 test",
+    "price": "$0.00",
+    "authors": [
+        {
+            "name": "Sk1ds",
+            "url": "https://sk1ds.itch.io"
+        }
+    ],
+    "tags": [
+        "ai-generated",
+        "ai-generated-code",
+        "ai-generated-graphics",
+        "ai-generated-text",
+        "arcade",
+        "driving",
+        "pixel-art",
+        "pseudo-3d",
+        "racing",
+        "retro",
+        "simulation",
+        "sprites",
+        "superscaler",
+        "unity"
+    ]
+}

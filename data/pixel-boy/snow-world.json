@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Sparklin Labs",
+            "url": "https://sparklinlabs.itch.io"
+        }
+    ],
+    "id": 47345,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "html5",
+        "local-multiplayer",
+        "ludum-dare",
+        "ludum-dare-34",
+        "multiplayer",
+        "no-ai",
+        "pixel-art",
+        "roguelike",
+        "rpg",
+        "superpowers-html5"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3NTcxNzcuZ2lm/315x250%23c/RfR5py.gif",
+    "links": {
+        "self": "https://sparklinlabs.itch.io/snow-world",
+        "comments": "https://sparklinlabs.itch.io/snow-world/comments"
+    },
+    "title": "Snow World"
+}

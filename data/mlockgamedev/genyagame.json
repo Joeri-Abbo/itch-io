@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "mlockgamedev",
+            "url": "https://mlockgamedev.itch.io"
+        }
+    ],
+    "id": 3402836,
+    "price": "$0.00",
+    "tags": [
+        "no-ai"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwMzExMzM5LnBuZw==/315x250%23c/Wv1elO.png",
+    "links": {
+        "self": "https://mlockgamedev.itch.io/genyagame",
+        "comments": "https://mlockgamedev.itch.io/genyagame/comments"
+    },
+    "title": "GenyaGame"
+}

@@ -1,0 +1,30 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzEyNTg3ODEwLnBuZw==/315x250%23c/TdhVlm.png",
+    "id": 2124809,
+    "title": "Voxel Medieval Town - monogon",
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/medievaltown-monogon",
+        "comments": "https://maxparata.itch.io/medievaltown-monogon/comments",
+        "devlog": "https://maxparata.itch.io/medievaltown-monogon/devlog"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "fantasy",
+        "godot",
+        "isometric",
+        "low-poly",
+        "medieval",
+        "no-ai",
+        "pixel-art",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ]
+}

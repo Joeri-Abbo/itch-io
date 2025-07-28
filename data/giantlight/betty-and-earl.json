@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Giant Light Studios",
+            "url": "https://giantlight.itch.io"
+        }
+    ],
+    "id": 1246564,
+    "price": "$9.99",
+    "tags": [
+        "2d",
+        "minimalist",
+        "multiple-endings",
+        "puzzle",
+        "secrets",
+        "turn-based",
+        "unity"
+    ],
+    "links": {
+        "comments": "https://giantlight.itch.io/betty-and-earl/comments",
+        "self": "https://giantlight.itch.io/betty-and-earl"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzcyNjUxMDYucG5n/315x250%23c/fycnGT.png",
+    "title": "Betty & Earl"
+}

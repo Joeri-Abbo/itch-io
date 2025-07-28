@@ -1,0 +1,24 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzc1OTM3NjEuZ2lm/315x250%23c/ZPhgqD.gif",
+    "id": 1300289,
+    "title": "Burst",
+    "price": "$0.00",
+    "links": {
+        "self": "https://edgarmendoza.itch.io/burst",
+        "comments": "https://edgarmendoza.itch.io/burst/comments"
+    },
+    "authors": [
+        {
+            "name": "Edgar Mendoza",
+            "url": "https://edgarmendoza.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "action",
+        "arcade",
+        "minimalist",
+        "pixel-art",
+        "singleplayer"
+    ]
+}

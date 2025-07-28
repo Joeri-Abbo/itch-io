@@ -1,0 +1,27 @@
+{
+    "price": "$0.00",
+    "id": 287104,
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjg3MTA0LzEzOTg5NTcucG5n/315x250%23c/%2BIgW8a.png",
+    "tags": [
+        "2d",
+        "action",
+        "fighting",
+        "local-multiplayer",
+        "multiplayer",
+        "online",
+        "online-multiplayer",
+        "pixel-art",
+        "platformer"
+    ],
+    "links": {
+        "community": "https://gutter-arcade.itch.io/knight-club/community",
+        "self": "https://gutter-arcade.itch.io/knight-club"
+    },
+    "authors": [
+        {
+            "name": "Gutter Arcade",
+            "url": "https://gutter-arcade.itch.io"
+        }
+    ],
+    "title": "Knight Club"
+}

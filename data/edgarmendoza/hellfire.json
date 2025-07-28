@@ -1,0 +1,19 @@
+{
+    "authors": [
+        {
+            "name": "Edgar Mendoza",
+            "url": "https://edgarmendoza.itch.io"
+        }
+    ],
+    "id": 2050642,
+    "price": "$0.00",
+    "tags": [
+        "platformer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyMDYwMjk4LnBuZw==/315x250%23c/i2rCqd.png",
+    "links": {
+        "self": "https://edgarmendoza.itch.io/hellfire",
+        "comments": "https://edgarmendoza.itch.io/hellfire/comments"
+    },
+    "title": "hellFIRE"
+}

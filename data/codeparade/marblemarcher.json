@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "CodeParade",
+            "url": "https://codeparade.itch.io"
+        }
+    ],
+    "id": 351631,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "experimental",
+        "fractal",
+        "open-source",
+        "psychedelic",
+        "racing",
+        "ray-tracing"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3NTA4NTIucG5n/315x250%23c/YPemck.png",
+    "links": {
+        "devlog": "https://codeparade.itch.io/marblemarcher/devlog",
+        "self": "https://codeparade.itch.io/marblemarcher",
+        "comments": "https://codeparade.itch.io/marblemarcher/comments"
+    },
+    "title": "Marble Marcher"
+}

@@ -1,0 +1,52 @@
+{
+    "authors": [
+        {
+            "name": "Hydra",
+            "url": "https://hydraxous.itch.io"
+        },
+        {
+            "name": "sfeldman",
+            "url": "https://sfeldman.itch.io"
+        },
+        {
+            "name": "TThoma12",
+            "url": "https://tthoma12.itch.io"
+        },
+        {
+            "name": "Medo",
+            "url": "https://ookii-tsuki.itch.io"
+        },
+        {
+            "name": "Tuckleberry Winn",
+            "url": "https://tuckleberry-winn.itch.io"
+        },
+        {
+            "name": "bmanten",
+            "url": "https://bmanten.itch.io"
+        },
+        {
+            "name": "wizzah2",
+            "url": "https://wizzah2.itch.io"
+        }
+    ],
+    "id": 1910703,
+    "tags": [
+        "3d",
+        "blender",
+        "casual",
+        "family-friendly",
+        "first-person",
+        "game-design",
+        "low-poly",
+        "simulation",
+        "singleplayer",
+        "survival",
+        "unity"
+    ],
+    "links": {
+        "comments": "https://hydraxous.itch.io/rents-due/comments",
+        "self": "https://hydraxous.itch.io/rents-due"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzExMjMwMjIwLnBuZw==/315x250%23c/XvQk77.png",
+    "title": "Rent's Due."
+}

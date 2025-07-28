@@ -1,0 +1,24 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNjM0MzkvMjg2MDczLnBuZw==/315x250%23c/Nsx%2F8Y.png",
+    "id": 63439,
+    "tags": [
+        "3d",
+        "adventure",
+        "html5",
+        "ludum-dare-35",
+        "superpowers-html5",
+        "webgl"
+    ],
+    "price": "$0.00",
+    "title": "Party at the Knightclub",
+    "links": {
+        "comments": "https://sparklinlabs.itch.io/knightclub/comments",
+        "self": "https://sparklinlabs.itch.io/knightclub"
+    },
+    "authors": [
+        {
+            "name": "Sparklin Labs",
+            "url": "https://sparklinlabs.itch.io"
+        }
+    ]
+}

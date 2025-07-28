@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Sparklin Labs",
+            "url": "https://sparklinlabs.itch.io"
+        }
+    ],
+    "id": 17960,
+    "price": "$0.00",
+    "tags": [
+        "adventure",
+        "foul-mouthed",
+        "ggj15",
+        "global-game-jam",
+        "humor",
+        "point-and-click",
+        "residence-gudul",
+        "superpowers-html5"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTc5NjAvNjc2NjgucG5n/315x250%23c/tOj2jC.png",
+    "links": {
+        "self": "https://sparklinlabs.itch.io/gudul",
+        "comments": "https://sparklinlabs.itch.io/gudul/comments"
+    },
+    "title": "Murder at the Residence Gudul"
+}

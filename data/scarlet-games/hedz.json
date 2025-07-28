@@ -1,0 +1,28 @@
+{
+    "price": "$0.00",
+    "id": 1325892,
+    "cover_image": "https://img.itch.zone/aW1nLzgzMjM1MTguZ2lm/315x250%23c/QEkrBH.gif",
+    "tags": [
+        "2d",
+        "funny",
+        "multiplayer",
+        "pixel-art",
+        "platformer",
+        "retro",
+        "shooter",
+        "sprites",
+        "unity"
+    ],
+    "links": {
+        "self": "https://scarlet-games.itch.io/hedz",
+        "comments": "https://scarlet-games.itch.io/hedz/comments",
+        "devlog": "https://scarlet-games.itch.io/hedz/devlog"
+    },
+    "authors": [
+        {
+            "name": "Scarlet Games",
+            "url": "https://scarlet-games.itch.io"
+        }
+    ],
+    "title": "Hedz.io"
+}

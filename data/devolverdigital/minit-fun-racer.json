@@ -1,0 +1,26 @@
+{
+    "price": "$2.99",
+    "id": 924132,
+    "title": "Minit Fun Racer",
+    "links": {
+        "self": "https://devolverdigital.itch.io/minit-fun-racer",
+        "comments": "https://devolverdigital.itch.io/minit-fun-racer/comments"
+    },
+    "tags": [
+        "2d",
+        "action",
+        "adventure",
+        "arcade",
+        "casual",
+        "racer",
+        "racing",
+        "runner"
+    ],
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzUyMjg5MDEuanBn/315x250%23c/mAnRsg.jpg"
+}

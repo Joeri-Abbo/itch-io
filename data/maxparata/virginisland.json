@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzE0NjA0MzMzLnBuZw==/315x250%23c/BVW%2B7N.png",
+    "id": 2461122,
+    "title": "Voxel Virgin Island - monogon",
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/virginisland",
+        "comments": "https://maxparata.itch.io/virginisland/comments",
+        "devlog": "https://maxparata.itch.io/virginisland/devlog"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "isometric",
+        "low-poly",
+        "nature",
+        "no-ai",
+        "pixel-art",
+        "tileset",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ]
+}

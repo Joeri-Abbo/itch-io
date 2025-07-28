@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://deadline-co.itch.io/telluricene",
+        "comments": "https://deadline-co.itch.io/telluricene/comments",
+        "devlog": "https://deadline-co.itch.io/telluricene/devlog"
+    },
+    "authors": [
+        {
+            "name": "DEADline Studios",
+            "url": "https://deadline-co.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxNzE2MTc1LnBuZw==/315x250%23c/uv%2BAB%2B.png",
+    "id": 3522624,
+    "title": "TELLURICENE",
+    "tags": [
+        "2d",
+        "first-person",
+        "interactive-fiction",
+        "narrative",
+        "no-ai",
+        "otome",
+        "romance",
+        "science-fiction",
+        "singleplayer",
+        "story-rich",
+        "visual-novel"
+    ]
+}

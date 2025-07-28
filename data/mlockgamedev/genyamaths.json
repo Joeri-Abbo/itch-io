@@ -1,0 +1,17 @@
+{
+    "title": "GenyaMaths",
+    "id": 2626426,
+    "cover_image": "",
+    "tags": [],
+    "authors": [
+        {
+            "name": "mlockgamedev",
+            "url": "https://mlockgamedev.itch.io"
+        }
+    ],
+    "price": "$0.00",
+    "links": {
+        "self": "https://mlockgamedev.itch.io/genyamaths",
+        "comments": "https://mlockgamedev.itch.io/genyamaths/comments"
+    }
+}

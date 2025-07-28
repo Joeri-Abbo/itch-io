@@ -1,0 +1,30 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzE1NzI0NzU3LmpwZw==/315x250%23c/EcgvNR.jpg",
+    "id": 2638643,
+    "title": "Voxel Boxing Gym - monogon",
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/voxelboxinggym",
+        "comments": "https://maxparata.itch.io/voxelboxinggym/comments",
+        "devlog": "https://maxparata.itch.io/voxelboxinggym/devlog"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "boxing",
+        "fighting",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "tileset",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ]
+}

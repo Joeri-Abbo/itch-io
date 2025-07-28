@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "echochvmber",
+            "url": "https://echochvmber.itch.io"
+        }
+    ],
+    "id": 943135,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "other",
+        "science-fiction"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzUzNDU1NjkuZ2lm/315x250%23c/24vCBi.gif",
+    "links": {
+        "devlog": "https://echochvmber.itch.io/darkest-blue/devlog",
+        "self": "https://echochvmber.itch.io/darkest-blue",
+        "comments": "https://echochvmber.itch.io/darkest-blue/comments"
+    },
+    "title": "Darkest Blue (Demo)"
+}

@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "id": 57413,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "8-bit",
+        "cars",
+        "drift",
+        "racer",
+        "racing",
+        "retro",
+        "sports"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNTc0MTMvNDM4NzIwLmdpZg==/315x250%23c/aDmZUy.gif",
+    "links": {
+        "self": "https://kronbits.itch.io/crt-racer",
+        "comments": "https://kronbits.itch.io/crt-racer/comments"
+    },
+    "title": "CRT Racer"
+}

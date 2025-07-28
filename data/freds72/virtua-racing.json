@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "freds72",
+            "url": "https://freds72.itch.io"
+        }
+    ],
+    "id": 483548,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "pico-8",
+        "racing"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI0OTQxNzcucG5n/315x250%23c/JosD83.png",
+    "links": {
+        "devlog": "https://freds72.itch.io/virtua-racing/devlog",
+        "self": "https://freds72.itch.io/virtua-racing",
+        "comments": "https://freds72.itch.io/virtua-racing/comments"
+    },
+    "title": "Virtua Racing Demake"
+}

@@ -1,0 +1,27 @@
+{
+    "authors": [
+        {
+            "name": "Croxel Studios",
+            "url": "https://croxel-studios.itch.io"
+        },
+        {
+            "name": "Astrophel Dev",
+            "url": "https://astropheldev.itch.io"
+        }
+    ],
+    "id": 702387,
+    "price": "$0.00",
+    "tags": [
+        "dark",
+        "music",
+        "puzzle",
+        "stealth",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM4NzY5NTUucG5n/315x250%23c/95Ug9V.png",
+    "links": {
+        "self": "https://croxel-studios.itch.io/lucent-pjv",
+        "comments": "https://croxel-studios.itch.io/lucent-pjv/comments"
+    },
+    "title": "Lucent"
+}

@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 2665060,
+    "title": "Voxel Zombie Characters - monogon",
+    "links": {
+        "self": "https://maxparata.itch.io/voxelzombiecharacters",
+        "comments": "https://maxparata.itch.io/voxelzombiecharacters/comments",
+        "devlog": "https://maxparata.itch.io/voxelzombiecharacters/devlog"
+    },
+    "tags": [
+        "3d",
+        "animation",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "post-apocalyptic",
+        "top-down",
+        "voxel",
+        "zombies"
+    ],
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4MzA0MTMxLmpwZw==/315x250%23c/LhfiBQ.jpg"
+}

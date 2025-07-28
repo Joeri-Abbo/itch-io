@@ -1,0 +1,23 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://papercookies.itch.io/tomochesti/comments",
+        "self": "https://papercookies.itch.io/tomochesti"
+    },
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTI4NDcwLzU5MTE0OS5naWY=/315x250%23c/XY5QNd.gif",
+    "id": 128470,
+    "title": "Tomochesti",
+    "tags": [
+        "chest",
+        "paint",
+        "paint-jam",
+        "simulation",
+        "tomodachi-like"
+    ]
+}

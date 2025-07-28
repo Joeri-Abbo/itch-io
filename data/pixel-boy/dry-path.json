@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "pixel-boy",
+            "url": "https://pixel-boy.itch.io"
+        }
+    ],
+    "id": 674237,
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "exploration",
+        "fantasy",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "platformer",
+        "short",
+        "survival",
+        "third-person"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM2OTEzMDAuZ2lm/315x250%23c/PUInIJ.gif",
+    "links": {
+        "self": "https://pixel-boy.itch.io/dry-path",
+        "comments": "https://pixel-boy.itch.io/dry-path/comments"
+    },
+    "title": "Dry Path"
+}

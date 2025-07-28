@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "id": 1026502,
+    "price": "$2.99",
+    "tags": [
+        "3d",
+        "animals",
+        "arcade",
+        "funny",
+        "kart",
+        "racing"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzc2MTI0MjkucG5n/315x250%23c/Z7NIC7.png",
+    "links": {
+        "devlog": "https://xformgames.itch.io/gokartgo-nitro/devlog",
+        "self": "https://xformgames.itch.io/gokartgo-nitro",
+        "comments": "https://xformgames.itch.io/gokartgo-nitro/comments"
+    },
+    "title": "Go Kart Go! Nitro!"
+}

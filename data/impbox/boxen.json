@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "id": 12726,
+    "price": "$0.00",
+    "tags": [
+        "blocks",
+        "boxen",
+        "drop",
+        "funny",
+        "grumpy",
+        "monkey",
+        "physics",
+        "puzzle",
+        "retro",
+        "tetris"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTI3MjYvMTMyNjExLnBuZw==/315x250%23c/Iqck%2FG.png",
+    "links": {
+        "devlog": "https://impbox.itch.io/boxen/devlog",
+        "self": "https://impbox.itch.io/boxen",
+        "comments": "https://impbox.itch.io/boxen/comments"
+    },
+    "title": "Boxen"
+}

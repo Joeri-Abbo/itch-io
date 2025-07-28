@@ -1,0 +1,23 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzE4Nzg5OTY1LnBuZw==/315x250%23c/Yd5nE0.png",
+    "id": 3145388,
+    "tags": [
+        "3d",
+        "no-ai",
+        "pico-8",
+        "platformer"
+    ],
+    "price": "$0.00",
+    "title": "Frozen Islands",
+    "links": {
+        "devlog": "https://freds72.itch.io/frozen-islands/devlog",
+        "self": "https://freds72.itch.io/frozen-islands",
+        "comments": "https://freds72.itch.io/frozen-islands/comments"
+    },
+    "authors": [
+        {
+            "name": "freds72",
+            "url": "https://freds72.itch.io"
+        }
+    ]
+}

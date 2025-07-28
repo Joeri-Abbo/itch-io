@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Burning Eye",
+            "url": "https://reynthestrange.itch.io"
+        }
+    ],
+    "id": 2219995,
+    "price": "$0.00",
+    "tags": [
+        "atmospheric",
+        "burningeye",
+        "creepy",
+        "difficult",
+        "horror",
+        "laywod",
+        "retro",
+        "singleplayer",
+        "survival"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEzMTM2NzM2LnBuZw==/315x250%23c/r2cplQ.png",
+    "links": {
+        "devlog": "https://reynthestrange.itch.io/dawn-at-laywood/devlog",
+        "self": "https://reynthestrange.itch.io/dawn-at-laywood",
+        "comments": "https://reynthestrange.itch.io/dawn-at-laywood/comments"
+    },
+    "title": "Dawn at Laywood"
+}

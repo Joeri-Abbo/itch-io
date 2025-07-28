@@ -1,0 +1,31 @@
+{
+    "price": "$5.99",
+    "id": 25491,
+    "title": "FPV Freerider",
+    "links": {
+        "self": "https://fpv-freerider.itch.io/fpv-freerider",
+        "community": "https://fpv-freerider.itch.io/fpv-freerider/community",
+        "devlog": "https://fpv-freerider.itch.io/fpv-freerider/devlog"
+    },
+    "tags": [
+        "3d",
+        "drone",
+        "fpv",
+        "miniquad",
+        "multiplayer",
+        "multirotor",
+        "quadcopter",
+        "quadrocopter",
+        "racing",
+        "rc",
+        "simulation",
+        "simulator"
+    ],
+    "authors": [
+        {
+            "name": "FPV Freerider",
+            "url": "https://fpv-freerider.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4MzA5MjcucG5n/315x250%23c/MwKtJT.png"
+}

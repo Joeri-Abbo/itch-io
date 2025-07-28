@@ -1,0 +1,34 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        },
+        {
+            "name": "Ana_Zilmia",
+            "url": "https://ana-zilmia.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEyNTI5Njc1LnBuZw==/315x250%23c/AJnxXH.png",
+    "id": 1161198,
+    "links": {
+        "comments": "https://maxparata.itch.io/monogon-dungeon/comments",
+        "devlog": "https://maxparata.itch.io/monogon-dungeon/devlog",
+        "self": "https://maxparata.itch.io/monogon-dungeon"
+    },
+    "title": "Voxel Dungeon Crawler - monogon",
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "characters",
+        "dungeon-crawler",
+        "fantasy",
+        "godot",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ]
+}

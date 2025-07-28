@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjUxMzEwLzEyMDM0MTkucG5n/315x250%23c/YWWDXQ.png",
+    "id": 251310,
+    "links": {
+        "devlog": "https://maxparata.itch.io/nobrainerz/devlog",
+        "self": "https://maxparata.itch.io/nobrainerz",
+        "community": "https://maxparata.itch.io/nobrainerz/community"
+    },
+    "title": "No Brainerz [Delayed]",
+    "price": "$0.00",
+    "tags": [
+        "action-strategy",
+        "brainz",
+        "embuscade",
+        "horde",
+        "horror",
+        "no-brainerz",
+        "pixel-art",
+        "strategy",
+        "voxel",
+        "zombies"
+    ]
+}

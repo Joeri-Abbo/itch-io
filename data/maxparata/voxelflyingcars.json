@@ -1,0 +1,30 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzEzMDkzOTgzLnBuZw==/315x250%23c/RgkuTe.png",
+    "id": 2213692,
+    "title": "Voxel Flying Cars",
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/voxelflyingcars",
+        "comments": "https://maxparata.itch.io/voxelflyingcars/comments",
+        "devlog": "https://maxparata.itch.io/voxelflyingcars/devlog"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "cyberpunk",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "space",
+        "top-down",
+        "vehicles",
+        "voxel"
+    ]
+}

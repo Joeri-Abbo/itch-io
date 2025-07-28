@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 823272,
+    "price": "$0.00",
+    "tags": [
+        "godot",
+        "horror",
+        "mobile",
+        "no-ai",
+        "pixel-art",
+        "rpgmaker",
+        "sprites",
+        "unreal-engine",
+        "user-interface",
+        "voxel",
+        "zombies"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ2MjYyNjUucG5n/315x250%23c/%2F1o70y.png",
+    "links": {
+        "devlog": "https://maxparata.itch.io/goreui/devlog",
+        "self": "https://maxparata.itch.io/goreui",
+        "comments": "https://maxparata.itch.io/goreui/comments"
+    },
+    "title": "Pixel Gore UI"
+}

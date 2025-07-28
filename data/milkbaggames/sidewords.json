@@ -1,0 +1,30 @@
+{
+    "price": "$4.99",
+    "id": 173528,
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTczNTI4LzgwODU1NC5wbmc=/315x250%23c/YHFTcm.png",
+    "tags": [
+        "anagram",
+        "coffee",
+        "crossword",
+        "jumble",
+        "puzzle",
+        "relaxing",
+        "side",
+        "spelling",
+        "sudoku",
+        "word",
+        "words"
+    ],
+    "links": {
+        "community": "https://milkbaggames.itch.io/sidewords/community",
+        "self": "https://milkbaggames.itch.io/sidewords",
+        "devlog": "https://milkbaggames.itch.io/sidewords/devlog"
+    },
+    "authors": [
+        {
+            "name": "Milkbag Games",
+            "url": "https://milkbaggames.itch.io"
+        }
+    ],
+    "title": "Sidewords"
+}

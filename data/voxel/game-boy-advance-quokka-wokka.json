@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "voxel",
+            "url": "https://voxel.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3MTk5NDkwLnBuZw==/315x250%23c/msnQ4i.png",
+    "id": 2876396,
+    "links": {
+        "self": "https://voxel.itch.io/game-boy-advance-quokka-wokka",
+        "comments": "https://voxel.itch.io/game-boy-advance-quokka-wokka/comments"
+    },
+    "title": "(Game Boy Advance) Quokka Wokka",
+    "price": "$0.00",
+    "tags": [
+        "arcade",
+        "cute",
+        "gameboy-advance",
+        "gameboy-rom",
+        "platformer",
+        "retro",
+        "simple"
+    ]
+}

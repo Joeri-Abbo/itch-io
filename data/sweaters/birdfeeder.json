@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Sweaters",
+            "url": "https://sweaters.itch.io"
+        }
+    ],
+    "id": 638356,
+    "price": "$0.00",
+    "tags": [
+        "1-bit",
+        "cute",
+        "funny",
+        "nes",
+        "pixel-art",
+        "relaxing",
+        "retro",
+        "simulation"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM0MTU3MjAucG5n/315x250%23c/OW521x.png",
+    "links": {
+        "self": "https://sweaters.itch.io/birdfeeder",
+        "comments": "https://sweaters.itch.io/birdfeeder/comments"
+    },
+    "title": "Bird Feeder"
+}

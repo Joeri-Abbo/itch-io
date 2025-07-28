@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "Free Lives",
+            "url": "https://freelivesgames.itch.io"
+        }
+    ],
+    "id": 161482,
+    "price": "$0.00",
+    "tags": [
+        "multiplayer",
+        "other",
+        "party-game"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTYxNDgyLzc0MjU0My5qcGc=/315x250%23c/2SiLa1.jpg",
+    "links": {
+        "self": "https://devolverdigital.itch.io/genital-jousting",
+        "devlog": "https://devolverdigital.itch.io/genital-jousting/devlog"
+    },
+    "title": "Genital Jousting"
+}

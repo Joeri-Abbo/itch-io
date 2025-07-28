@@ -1,0 +1,25 @@
+{
+    "title": "wonShot",
+    "id": 468473,
+    "cover_image": "https://img.itch.zone/aW1nLzI5NzAyNzIucG5n/315x250%23c/NfmNrE.png",
+    "tags": [
+        "game-jam",
+        "jam",
+        "laser",
+        "lazer",
+        "shooter",
+        "unreal"
+    ],
+    "authors": [
+        {
+            "name": "Didactricks",
+            "url": "https://didactricks.itch.io"
+        }
+    ],
+    "price": "$1.00",
+    "links": {
+        "self": "https://didactricks.itch.io/wonshot",
+        "devlog": "https://didactricks.itch.io/wonshot/devlog",
+        "comments": "https://didactricks.itch.io/wonshot/comments"
+    }
+}

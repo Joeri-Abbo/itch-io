@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "fx",
+        "no-ai",
+        "pixel-art",
+        "retro",
+        "sprites"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMzA5NTQ4LzE1MjIyNjkuZ2lm/315x250%23c/2eCKtZ.gif",
+    "id": 309548,
+    "original_price": "$14.99",
+    "price": "$13.49",
+    "links": {
+        "self": "https://kronbits.itch.io/fxpack"
+    },
+    "sale": {
+        "title": "Super Mega Gamedev Bundle v2",
+        "end_date": "2026-01-02 17:00:00",
+        "id": 86346,
+        "rate": 10
+    },
+    "title": "Pixel-Art FX Pack"
+}

@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 707863,
+    "price": "$3.00",
+    "tags": [
+        "3d",
+        "animations",
+        "godot",
+        "mobile",
+        "no-ai",
+        "pixel-art",
+        "rig",
+        "robots",
+        "science-fiction",
+        "unreal-engine",
+        "voxel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM5MTYzNjEuZ2lm/315x250%23c/Q%2B6Wby.gif",
+    "links": {
+        "self": "https://maxparata.itch.io/voxel-mecha-deluxe",
+        "comments": "https://maxparata.itch.io/voxel-mecha-deluxe/comments"
+    },
+    "title": "Skinned Voxel Robot - Mixamo compatible"
+}

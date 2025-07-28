@@ -1,0 +1,24 @@
+{
+    "price": "$0.00",
+    "id": 415790,
+    "cover_image": "https://img.itch.zone/aW1nLzIwNzY1MzAuZ2lm/315x250%23c/fiM8s3.gif",
+    "tags": [
+        "ludum-dare-44",
+        "survival"
+    ],
+    "links": {
+        "comments": "https://nothke.itch.io/jamsterdam/comments",
+        "self": "https://nothke.itch.io/jamsterdam"
+    },
+    "authors": [
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        },
+        {
+            "name": "Ferran Bertomeu",
+            "url": "https://fonserbc.itch.io"
+        }
+    ],
+    "title": "Jamsterdam"
+}

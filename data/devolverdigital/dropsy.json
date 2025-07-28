@@ -1,0 +1,29 @@
+{
+    "price": "$9.99",
+    "id": 36160,
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMzYxNjAvMTU3NDI1LnBuZw==/315x250%23c/YqQfSw.png",
+    "tags": [
+        "2d",
+        "adventure",
+        "atmospheric",
+        "casual",
+        "cult-classic",
+        "funny",
+        "pixel-art",
+        "point-and-click",
+        "puzzle",
+        "retro",
+        "singleplayer"
+    ],
+    "links": {
+        "comments": "https://devolverdigital.itch.io/dropsy/comments",
+        "self": "https://devolverdigital.itch.io/dropsy"
+    },
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        }
+    ],
+    "title": "Dropsy"
+}

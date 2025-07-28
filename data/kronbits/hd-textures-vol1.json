@@ -1,0 +1,32 @@
+{
+    "title": "500 HD Textures Vol.1",
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjI0MTA1LzEwNjQyODUucG5n/315x250%23c/%2FL30kr.png",
+    "tags": [
+        "2d",
+        "3d",
+        "cgtextures",
+        "no-ai",
+        "noise",
+        "procedural",
+        "textures"
+    ],
+    "id": 224105,
+    "price": "$8.95",
+    "sale": {
+        "end_date": "2026-01-02 17:00:00",
+        "title": "Super Mega Gamedev Bundle v2",
+        "id": 86346,
+        "rate": 10
+    },
+    "links": {
+        "self": "https://kronbits.itch.io/hd-textures-vol1",
+        "devlog": "https://kronbits.itch.io/hd-textures-vol1/devlog"
+    },
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "original_price": "$9.95"
+}

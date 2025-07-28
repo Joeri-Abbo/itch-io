@@ -1,0 +1,33 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTc3NDEzLzgyODY4OC5wbmc=/315x250%23c/Oy%2F%2Fga.png",
+    "title": "Kubyx",
+    "tags": [
+        "arcade",
+        "minigames",
+        "minimalist",
+        "platformer",
+        "puzzle-platformer",
+        "retro",
+        "skills",
+        "super-meat-boy"
+    ],
+    "id": 177413,
+    "price": "$8.95",
+    "links": {
+        "devlog": "https://kronbits.itch.io/kubyx/devlog",
+        "self": "https://kronbits.itch.io/kubyx"
+    },
+    "original_price": "$9.95",
+    "sale": {
+        "rate": 10,
+        "title": "Super Mega Gamedev Bundle v2",
+        "id": 86346,
+        "end_date": "2026-01-02 17:00:00"
+    },
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ]
+}

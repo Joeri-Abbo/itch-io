@@ -1,0 +1,29 @@
+{
+    "title": "Lynne",
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTg4NDQzLzg4MTUxNi5qcGc=/315x250%23c/WC0yjO.jpg",
+    "tags": [
+        "atmospheric",
+        "creepy",
+        "dark",
+        "female-protagonist",
+        "horror",
+        "mental-health",
+        "pixel-art",
+        "psychological-horror",
+        "short",
+        "spooky",
+        "visual-novel"
+    ],
+    "id": 188443,
+    "links": {
+        "self": "https://ebihime.itch.io/lynne",
+        "devlog": "https://ebihime.itch.io/lynne/devlog",
+        "comments": "https://ebihime.itch.io/lynne/comments"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 54092,
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNTQwOTIvMjQxMjY1LnBuZw==/315x250%23c/36zDFk.png",
+    "tags": [
+        "3d",
+        "action",
+        "driving",
+        "open-world",
+        "racing",
+        "remake",
+        "retro",
+        "runner",
+        "singleplayer",
+        "survival",
+        "third-person"
+    ],
+    "links": {
+        "self": "https://ffx.itch.io/ffx-runner-hd",
+        "comments": "https://ffx.itch.io/ffx-runner-hd/comments",
+        "devlog": "https://ffx.itch.io/ffx-runner-hd/devlog"
+    },
+    "authors": [
+        {
+            "name": "ffx",
+            "url": "https://ffx.itch.io"
+        }
+    ],
+    "title": "FFX Runner HD"
+}

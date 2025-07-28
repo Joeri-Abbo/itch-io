@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Moge Games",
+            "url": "https://mogegames.itch.io"
+        }
+    ],
+    "id": 1991685,
+    "price": "$0.00",
+    "tags": [
+        "adventure",
+        "creepy",
+        "horrible",
+        "horror",
+        "pixel-art",
+        "psychological-horror",
+        "rpgmaker",
+        "short",
+        "singleplayer",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzExNzA5Mjc5LnBuZw==/315x250%23c/lZfbJn.png",
+    "links": {
+        "self": "https://mogegames.itch.io/solrakepisode1demo",
+        "comments": "https://mogegames.itch.io/solrakepisode1demo/comments"
+    },
+    "title": "Solrak - Episodio 1 ( Demo )"
+}

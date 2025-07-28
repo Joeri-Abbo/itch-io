@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "FPV Freerider",
+            "url": "https://fpv-freerider.itch.io"
+        }
+    ],
+    "id": 246464,
+    "price": "$2.99",
+    "tags": [
+        "extra",
+        "fpv",
+        "freerider",
+        "levels",
+        "no-ai",
+        "recharged"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjQ2NDY0LzExNzc1NjcucG5n/315x250%23c/A2PsTx.png",
+    "links": {
+        "self": "https://fpv-freerider.itch.io/fpv-freerider-recharged-custom-level-pack"
+    },
+    "title": "FPV Freerider Recharged Custom Level Pack"
+}

@@ -1,0 +1,22 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTM3MjgwLzYyODY5NS5naWY=/315x250%23c/x18NVf.gif",
+    "id": 137280,
+    "links": {
+        "self": "https://papercookies.itch.io/house",
+        "comments": "https://papercookies.itch.io/house/comments"
+    },
+    "title": "House",
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "tags": [
+        "ludum-dare-38",
+        "minimalist",
+        "puzzle",
+        "puzzle-platformer",
+        "short"
+    ]
+}

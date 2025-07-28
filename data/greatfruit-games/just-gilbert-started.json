@@ -1,0 +1,24 @@
+{
+    "id": 3738417,
+    "cover_image": "https://img.itch.zone/aW1nLzIyMjQ5MDU1LnBuZw==/315x250%23c/5aRoiQ.png",
+    "title": "Just Gilbert Started!",
+    "links": {
+        "self": "https://greatfruit-games.itch.io/just-gilbert-started",
+        "comments": "https://greatfruit-games.itch.io/just-gilbert-started/comments"
+    },
+    "authors": [
+        {
+            "name": "Greatfruit Games",
+            "url": "https://greatfruit-games.itch.io"
+        }
+    ],
+    "tags": [
+        "godot",
+        "indie",
+        "no-ai",
+        "pixel-art",
+        "puzzle",
+        "short",
+        "singleplayer"
+    ]
+}

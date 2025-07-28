@@ -1,0 +1,30 @@
+{
+    "title": "Voxel Roads and Cars - monogon",
+    "id": 2211385,
+    "price": "$0.00",
+    "cover_image": "https://img.itch.zone/aW1nLzEzMjAwMzQxLmpwZw==/315x250%23c/tKspSd.jpg",
+    "links": {
+        "devlog": "https://maxparata.itch.io/voxelroads/devlog",
+        "comments": "https://maxparata.itch.io/voxelroads/comments",
+        "self": "https://maxparata.itch.io/voxelroads"
+    },
+    "tags": [
+        "3d",
+        "car",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "road",
+        "top-down",
+        "vehicles",
+        "voxel"
+    ],
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ]
+}

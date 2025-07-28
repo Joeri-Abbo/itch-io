@@ -1,0 +1,25 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://papercookies.itch.io/turnip/comments",
+        "self": "https://papercookies.itch.io/turnip"
+    },
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjk5MzE1LzE0NjQ1NzQuZ2lm/315x250%23c/pL0iTk.gif",
+    "id": 299315,
+    "title": "Turnip",
+    "tags": [
+        "3d",
+        "3d-platformer",
+        "exploration",
+        "platformer",
+        "third-person",
+        "unity",
+        "walking-simulator"
+    ]
+}

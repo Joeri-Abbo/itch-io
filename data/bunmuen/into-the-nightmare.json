@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "bun muen",
+            "url": "https://bunmuen.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzU3Nzc4ODEucG5n/315x250%23c/t2W2Ze.png",
+    "id": 1014428,
+    "title": "Into The Nightmare",
+    "links": {
+        "self": "https://bunmuen.itch.io/into-the-nightmare",
+        "comments": "https://bunmuen.itch.io/into-the-nightmare/comments"
+    },
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "first-person",
+        "horror",
+        "ludum-dare",
+        "unity"
+    ]
+}

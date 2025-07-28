@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Iliyas Jorio",
+            "url": "https://jorio.itch.io"
+        }
+    ],
+    "id": 1568287,
+    "price": "$0.00",
+    "tags": [
+        "90s",
+        "action",
+        "dinosaurs",
+        "open-source",
+        "pangea-software",
+        "remake",
+        "retro",
+        "science-fiction",
+        "source-port",
+        "third-person-shooter"
+    ],
+    "links": {
+        "community": "https://jorio.itch.io/nanosaur/community",
+        "devlog": "https://jorio.itch.io/nanosaur/devlog",
+        "self": "https://jorio.itch.io/nanosaur"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzkxNTcxNDcucG5n/315x250%23c/8qj8Na.png",
+    "title": "Nanosaur"
+}

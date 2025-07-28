@@ -1,0 +1,31 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzEzNTcxMzgzLnBuZw==/315x250%23c/%2BPLic0.png",
+    "id": 2284802,
+    "title": "Daimu",
+    "price": "$0.00",
+    "links": {
+        "self": "https://fiendishfiction.itch.io/daimu",
+        "comments": "https://fiendishfiction.itch.io/daimu/comments",
+        "devlog": "https://fiendishfiction.itch.io/daimu/devlog"
+    },
+    "authors": [
+        {
+            "name": "Fiendish Fiction",
+            "url": "https://fiendishfiction.itch.io"
+        }
+    ],
+    "tags": [
+        "atmospheric",
+        "dark-fantasy",
+        "fantasy",
+        "furry",
+        "interactive-fiction",
+        "multiple-endings",
+        "narrative",
+        "no-ai",
+        "romance",
+        "short",
+        "surreal",
+        "visual-novel"
+    ]
+}

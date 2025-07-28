@@ -1,0 +1,30 @@
+{
+    "title": "5000 Game SFX - Asset Pack",
+    "cover_image": "https://img.itch.zone/aW1nLzI1MTU4ODUucG5n/315x250%23c/2E9osY.png",
+    "tags": [
+        "8-bit",
+        "audio",
+        "no-ai",
+        "retro",
+        "sound",
+        "sound-effects"
+    ],
+    "id": 486524,
+    "price": "$23.97",
+    "sale": {
+        "end_date": "2027-12-31 00:00:00",
+        "title": "Retro SFX",
+        "id": 20749,
+        "rate": 40
+    },
+    "links": {
+        "self": "https://kronbits.itch.io/retrosfx"
+    },
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "original_price": "$39.95"
+}

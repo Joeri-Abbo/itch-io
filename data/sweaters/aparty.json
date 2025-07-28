@@ -1,0 +1,26 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzgxODUyOTAucG5n/315x250%23c/DwHIZi.png",
+    "id": 688202,
+    "links": {
+        "self": "https://sweaters.itch.io/aparty",
+        "comments": "https://sweaters.itch.io/aparty/comments"
+    },
+    "title": "a_party",
+    "price": "$0.00",
+    "authors": [
+        {
+            "name": "Sweaters",
+            "url": "https://sweaters.itch.io"
+        }
+    ],
+    "tags": [
+        "1-bit",
+        "bitsy",
+        "cats",
+        "interactive-fiction",
+        "multiple-endings",
+        "pixel-art",
+        "puzzle",
+        "short"
+    ]
+}

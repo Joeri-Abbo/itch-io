@@ -1,0 +1,33 @@
+{
+    "authors": [
+        {
+            "name": "Milkbag Games",
+            "url": "https://milkbaggames.itch.io"
+        },
+        {
+            "name": "Owen Goss",
+            "url": "https://otrain13.itch.io"
+        }
+    ],
+    "id": 13804,
+    "price": "$0.00",
+    "tags": [
+        "7dfps",
+        "bomb",
+        "detective",
+        "fps",
+        "investigation",
+        "ludum-dare-35",
+        "mystery",
+        "photo",
+        "procjam",
+        "shooter",
+        "social-media"
+    ],
+    "links": {
+        "community": "https://milkbaggames.itch.io/photobomb/community",
+        "self": "https://milkbaggames.itch.io/photobomb"
+    },
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTM4MDQvNDgwMDkuZ2lm/315x250%23c/ZOf3WX.gif",
+    "title": "Photobomb"
+}

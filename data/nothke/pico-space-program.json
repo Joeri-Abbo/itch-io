@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        }
+    ],
+    "id": 296922,
+    "price": "$0.00",
+    "tags": [
+        "build",
+        "construction",
+        "demake",
+        "rocket",
+        "space",
+        "space-sim"
+    ],
+    "links": {
+        "comments": "https://nothke.itch.io/pico-space-program/comments",
+        "self": "https://nothke.itch.io/pico-space-program"
+    },
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjk2OTIyLzE0NTAyNDcuZ2lm/315x250%23c/vPZyJ8.gif",
+    "title": "Pico Space Program"
+}

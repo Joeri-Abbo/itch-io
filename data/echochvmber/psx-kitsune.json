@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "echochvmber",
+            "url": "https://echochvmber.itch.io"
+        }
+    ],
+    "id": 3649057,
+    "price": "$1.35",
+    "tags": [
+        "3d",
+        "asset-pack",
+        "kitsune",
+        "no-ai",
+        "psx",
+        "retro",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxNzEzOTA3LmdpZg==/315x250%23c/C8z0%2Bw.gif",
+    "links": {
+        "self": "https://echochvmber.itch.io/psx-kitsune",
+        "comments": "https://echochvmber.itch.io/psx-kitsune/comments"
+    },
+    "title": "PSX Kitsune"
+}

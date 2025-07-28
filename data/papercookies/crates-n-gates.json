@@ -1,0 +1,21 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 52369,
+    "tags": [
+        "2d",
+        "arcade",
+        "one-button",
+        "other"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNTIzNjkvMjMyNDM0LnBuZw==/315x250%23c/nTaX3L.png",
+    "links": {
+        "self": "https://papercookies.itch.io/crates-n-gates",
+        "comments": "https://papercookies.itch.io/crates-n-gates/comments"
+    },
+    "title": "Crates n Gates"
+}

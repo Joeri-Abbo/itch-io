@@ -1,0 +1,22 @@
+{
+    "price": "$0.00",
+    "id": 6673,
+    "cover_image": "https://img.itch.zone/aW1nLzQwNTQyMjQuZ2lm/315x250%23c/RgQsyM.gif",
+    "tags": [
+        "action",
+        "local-multiplayer",
+        "space",
+        "versus",
+        "zero-gravity"
+    ],
+    "links": {
+        "self": "https://teknopants.itch.io/0space"
+    },
+    "authors": [
+        {
+            "name": "Teknopants",
+            "url": "https://teknopants.itch.io"
+        }
+    ],
+    "title": "0SPACE"
+}

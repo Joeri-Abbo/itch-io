@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "id": 338448,
+    "tags": [
+        "ludum-dare-43",
+        "management",
+        "strategy",
+        "turn-based",
+        "turn-based-strategy"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE2NzkxODUucG5n/315x250%23c/8k3wy4.png",
+    "links": {
+        "self": "https://impbox.itch.io/serpents-souls",
+        "comments": "https://impbox.itch.io/serpents-souls/comments"
+    },
+    "title": "Serpent's Souls"
+}

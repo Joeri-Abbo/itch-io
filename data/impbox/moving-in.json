@@ -1,0 +1,21 @@
+{
+    "links": {
+        "comments": "https://impbox.itch.io/moving-in/comments",
+        "self": "https://impbox.itch.io/moving-in"
+    },
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTA0MTgwLzQ4NDQ0OS5naWY=/315x250%23c/TJ%2BEdf.gif",
+    "tags": [
+        "ludum-dare-37",
+        "puzzle",
+        "sokoban",
+        "sudoku"
+    ],
+    "id": 104180,
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "title": "Moving In"
+}

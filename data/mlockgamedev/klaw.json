@@ -1,0 +1,18 @@
+{
+    "links": {
+        "comments": "https://mlockgamedev.itch.io/klaw/comments",
+        "self": "https://mlockgamedev.itch.io/klaw"
+    },
+    "cover_image": "",
+    "tags": [
+        "no-ai"
+    ],
+    "id": 3502625,
+    "authors": [
+        {
+            "name": "mlockgamedev",
+            "url": "https://mlockgamedev.itch.io"
+        }
+    ],
+    "title": "Klaw"
+}

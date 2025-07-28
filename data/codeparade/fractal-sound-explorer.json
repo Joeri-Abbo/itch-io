@@ -1,0 +1,26 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzUzMTg5MzIucG5n/315x250%23c/Tt0AjW.png",
+    "id": 935733,
+    "tags": [
+        "2d",
+        "experimental",
+        "fractal",
+        "music-production",
+        "open-source",
+        "psychedelic",
+        "sfml",
+        "sound-effects"
+    ],
+    "price": "$0.00",
+    "title": "Fractal Sound Explorer",
+    "links": {
+        "comments": "https://codeparade.itch.io/fractal-sound-explorer/comments",
+        "self": "https://codeparade.itch.io/fractal-sound-explorer"
+    },
+    "authors": [
+        {
+            "name": "CodeParade",
+            "url": "https://codeparade.itch.io"
+        }
+    ]
+}

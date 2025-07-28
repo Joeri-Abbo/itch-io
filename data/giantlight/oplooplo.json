@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Giant Light Studios",
+            "url": "https://giantlight.itch.io"
+        }
+    ],
+    "id": 2845034,
+    "price": "$0.00",
+    "tags": [
+        "adventure",
+        "artgame",
+        "atmospheric",
+        "experimental",
+        "minimalist",
+        "multiplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3NjgxMzEwLmdpZg==/315x250%23c/2e6Lp6.gif",
+    "links": {
+        "devlog": "https://giantlight.itch.io/oplooplo/devlog",
+        "self": "https://giantlight.itch.io/oplooplo",
+        "comments": "https://giantlight.itch.io/oplooplo/comments"
+    },
+    "title": "oplooplo"
+}

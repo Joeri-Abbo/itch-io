@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        },
+        {
+            "name": "Joseph Ferrari",
+            "url": "https://joseph-ferrari.itch.io"
+        }
+    ],
+    "id": 337646,
+    "price": "$0.00",
+    "tags": [
+        "adventure",
+        "rpg",
+        "turn-based-combat"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE2NzUwNDUuZ2lm/315x250%23c/hbKZu7.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/dungeon-schmucks",
+        "comments": "https://papercookies.itch.io/dungeon-schmucks/comments"
+    },
+    "title": "Dungeon Schmucks"
+}

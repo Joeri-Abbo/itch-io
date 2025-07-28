@@ -1,0 +1,30 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzQxNzc3NjYucG5n/315x250%23c/GZBuL7.png",
+    "id": 548989,
+    "links": {
+        "self": "https://maxparata.itch.io/voxel-mechas",
+        "comments": "https://maxparata.itch.io/voxel-mechas/comments",
+        "devlog": "https://maxparata.itch.io/voxel-mechas/devlog"
+    },
+    "title": "Voxel Robot assets for free",
+    "price": "$0.00",
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "characters",
+        "cyberpunk",
+        "godot",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "platformer",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Medo",
+            "url": "https://ookii-tsuki.itch.io"
+        }
+    ],
+    "id": 697210,
+    "tags": [
+        "2d",
+        "gmtkjam",
+        "pixel-art",
+        "shooter",
+        "singleplayer",
+        "space"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM4NDAxOTMucG5n/315x250%23c/Ki1GPN.png",
+    "links": {
+        "self": "https://ookii-tsuki.itch.io/meteor-shower",
+        "comments": "https://ookii-tsuki.itch.io/meteor-shower/comments"
+    },
+    "title": "Meteor Shower"
+}

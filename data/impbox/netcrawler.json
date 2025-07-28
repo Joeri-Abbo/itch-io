@@ -1,0 +1,23 @@
+{
+    "id": 248159,
+    "title": "netcrawler",
+    "links": {
+        "self": "https://impbox.itch.io/netcrawler",
+        "comments": "https://impbox.itch.io/netcrawler/comments"
+    },
+    "tags": [
+        "8-bit",
+        "deck-building",
+        "hacking",
+        "ludum-dare-41",
+        "strategy",
+        "tower-defense"
+    ],
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjQ4MTU5LzExODY0NDkucG5n/315x250%23c/mi7k5T.png"
+}

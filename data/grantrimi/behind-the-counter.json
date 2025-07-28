@@ -1,0 +1,25 @@
+{
+    "title": "Behind The Counter",
+    "authors": [
+        {
+            "name": "GrantRimi",
+            "url": "https://grantrimi.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwNjA1OTQ3LnBuZw==/315x250%23c/7Zo19h.png",
+    "tags": [
+        "3d",
+        "adventure",
+        "ai-generated",
+        "ai-generated-code",
+        "ai-generated-text",
+        "first-person",
+        "horror"
+    ],
+    "id": 3454369,
+    "links": {
+        "self": "https://grantrimi.itch.io/behind-the-counter",
+        "devlog": "https://grantrimi.itch.io/behind-the-counter/devlog",
+        "comments": "https://grantrimi.itch.io/behind-the-counter/comments"
+    }
+}

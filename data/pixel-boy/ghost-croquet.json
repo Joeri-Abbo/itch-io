@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "ampersandbear",
+            "url": "https://ampersandbear.itch.io"
+        },
+        {
+            "name": "YellowAfterlife",
+            "url": "https://yellowafterlife.itch.io"
+        }
+    ],
+    "id": 58296,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "8-bit",
+        "difficult",
+        "gamemaker",
+        "nes",
+        "online-multiplayer",
+        "pixel-art",
+        "platformer",
+        "retro",
+        "versus"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNTgyOTYvMjk3NjkxLmdpZg==/315x250%23c/fYBLQb.gif",
+    "links": {
+        "self": "https://ampersandbear.itch.io/ghost-croquet"
+    },
+    "title": "Ghost Croquet"
+}

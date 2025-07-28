@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Bryce Bucher",
+            "url": "https://bryce-bucher.itch.io"
+        }
+    ],
+    "id": 609809,
+    "price": "$0.00",
+    "tags": [
+        "horror",
+        "low-poly",
+        "psx",
+        "walking-simulator"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzMyNDA4ODIucG5n/315x250%23c/ibEeGQ.png",
+    "links": {
+        "devlog": "https://bryce-bucher.itch.io/remember-places/devlog",
+        "self": "https://bryce-bucher.itch.io/remember-places",
+        "comments": "https://bryce-bucher.itch.io/remember-places/comments"
+    },
+    "title": "Remember Places?"
+}

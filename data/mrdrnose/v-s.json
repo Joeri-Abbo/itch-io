@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "mrdrnose",
+            "url": "https://mrdrnose.itch.io"
+        }
+    ],
+    "id": 266707,
+    "price": "$0.00",
+    "tags": [
+        "abstract",
+        "atmospheric",
+        "educational",
+        "first-person",
+        "horror",
+        "puzzle",
+        "surreal",
+        "survival",
+        "survival-horror",
+        "third-person-shooter",
+        "violent"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzMwMTMzNDQucG5n/315x250%23c/GNGSyw.png",
+    "links": {
+        "devlog": "https://mrdrnose.itch.io/v-s/devlog",
+        "self": "https://mrdrnose.itch.io/v-s",
+        "comments": "https://mrdrnose.itch.io/v-s/comments"
+    },
+    "title": "Advanced Education with Viktor Strobovski"
+}

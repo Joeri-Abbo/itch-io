@@ -1,0 +1,26 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://soapyman.itch.io/driversyndicate",
+        "comments": "https://soapyman.itch.io/driversyndicate/comments",
+        "devlog": "https://soapyman.itch.io/driversyndicate/devlog"
+    },
+    "authors": [
+        {
+            "name": "SoapyMan",
+            "url": "https://soapyman.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE3Mjg3MTQ4LmpwZw==/315x250%23c/k2N9Ur.jpg",
+    "id": 589828,
+    "title": "The Driver Syndicate",
+    "tags": [
+        "action",
+        "chase",
+        "cinematic",
+        "moddable",
+        "no-ai",
+        "open-world",
+        "racing"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Chaos64",
+    "id": 59842,
+    "price": "$0.00",
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNTk4NDIvMjc2NzM3LmdpZg==/315x250%23c/jLcq8A.gif",
+    "links": {
+        "self": "https://kronbits.itch.io/chaos64"
+    },
+    "tags": [
+        "2d",
+        "lowrezjam",
+        "minimalist",
+        "platformer",
+        "retro",
+        "retrogame",
+        "shooter"
+    ],
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://nothke.itch.io/pikoralli",
+        "comments": "https://nothke.itch.io/pikoralli/comments",
+        "devlog": "https://nothke.itch.io/pikoralli/devlog"
+    },
+    "authors": [
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjg5NDcyLzE0MTIyNTQuZ2lm/315x250%23c/O0l3Pu.gif",
+    "id": 289472,
+    "title": "pikoralli",
+    "tags": [
+        "8-bit",
+        "lowrezjam",
+        "pico-8",
+        "pixel-art",
+        "racing",
+        "rally",
+        "real-time",
+        "singleplayer"
+    ]
+}

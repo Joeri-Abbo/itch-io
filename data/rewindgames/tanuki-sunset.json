@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Rewind Games",
+            "url": "https://rewindgames.itch.io"
+        }
+    ],
+    "id": 500035,
+    "price": "$0.00",
+    "tags": [
+        "arcade",
+        "casual",
+        "high-score",
+        "infinite-runner",
+        "racing",
+        "relaxing",
+        "score-attack",
+        "skating",
+        "synthwave"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzI1ODYzNjEucG5n/315x250%23c/62dU0i.png",
+    "links": {
+        "devlog": "https://rewindgames.itch.io/tanuki-sunset/devlog",
+        "self": "https://rewindgames.itch.io/tanuki-sunset",
+        "comments": "https://rewindgames.itch.io/tanuki-sunset/comments"
+    },
+    "title": "Tanuki Sunset Classic"
+}

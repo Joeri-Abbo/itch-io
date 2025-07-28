@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "id": 234790,
+    "price": "$2.99",
+    "tags": [
+        "3d",
+        "action",
+        "arcade",
+        "challenges",
+        "daily",
+        "explosions",
+        "racing",
+        "retro",
+        "shockwave"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjM0NzkwLzExMjc3NjMucG5n/315x250%23c/OLEESs.png",
+    "links": {
+        "devlog": "https://xformgames.itch.io/burnin-rubber-3/devlog",
+        "self": "https://xformgames.itch.io/burnin-rubber-3",
+        "comments": "https://xformgames.itch.io/burnin-rubber-3/comments"
+    },
+    "title": "Burnin' Rubber 3"
+}

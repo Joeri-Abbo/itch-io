@@ -1,0 +1,32 @@
+{
+    "price": "$0.00",
+    "id": 734999,
+    "title": "Serfs Galore",
+    "links": {
+        "self": "https://croxel-studios.itch.io/serfs-galore",
+        "comments": "https://croxel-studios.itch.io/serfs-galore/comments",
+        "devlog": "https://croxel-studios.itch.io/serfs-galore/devlog"
+    },
+    "tags": [
+        "1-bit",
+        "fantasy",
+        "funny",
+        "medieval",
+        "pixel-art",
+        "real-time-strategy",
+        "short",
+        "strategy",
+        "unity"
+    ],
+    "authors": [
+        {
+            "name": "Croxel Studios",
+            "url": "https://croxel-studios.itch.io"
+        },
+        {
+            "name": "Astrophel Dev",
+            "url": "https://astropheldev.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQxMDY2MjcucG5n/315x250%23c/qEYksU.png"
+}

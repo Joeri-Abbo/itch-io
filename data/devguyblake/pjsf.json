@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Dev Guy Blake",
+            "url": "https://devguyblake.itch.io"
+        }
+    ],
+    "id": 1833443,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "action",
+        "cars",
+        "low-poly",
+        "nintendo64",
+        "physics",
+        "racing",
+        "remake",
+        "retro",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEwODUzODY1LnBuZw==/315x250%23c/aQUH3b.png",
+    "links": {
+        "devlog": "https://devguyblake.itch.io/pjsf/devlog",
+        "self": "https://devguyblake.itch.io/pjsf",
+        "comments": "https://devguyblake.itch.io/pjsf/comments"
+    },
+    "title": "Project San Francisco"
+}

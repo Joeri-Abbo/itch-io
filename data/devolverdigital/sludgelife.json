@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "terriv",
+            "url": "https://terriv.itch.io"
+        }
+    ],
+    "id": 1021353,
+    "price": "$14.99",
+    "tags": [
+        "adventure",
+        "comedy",
+        "drugs",
+        "first-person",
+        "open-world",
+        "vandalism"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzU4MjI3NDkucG5n/315x250%23c/a2IfLb.png",
+    "links": {
+        "community": "https://devolverdigital.itch.io/sludgelife/community",
+        "self": "https://devolverdigital.itch.io/sludgelife"
+    },
+    "title": "SLUDGE LIFE"
+}

@@ -1,0 +1,23 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzk5MDE0MjMucG5n/315x250%23c/6MOYse.png",
+    "id": 1681415,
+    "tags": [
+        "action",
+        "minigames",
+        "open-source",
+        "pangea-software"
+    ],
+    "price": "$0.00",
+    "title": "Billy Frontier",
+    "links": {
+        "devlog": "https://jorio.itch.io/billyfrontier/devlog",
+        "self": "https://jorio.itch.io/billyfrontier",
+        "community": "https://jorio.itch.io/billyfrontier/community"
+    },
+    "authors": [
+        {
+            "name": "Iliyas Jorio",
+            "url": "https://jorio.itch.io"
+        }
+    ]
+}

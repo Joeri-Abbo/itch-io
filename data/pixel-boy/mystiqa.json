@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Juice",
+            "url": "https://julcreutz.itch.io"
+        }
+    ],
+    "id": 209314,
+    "price": "$0.00",
+    "tags": [
+        "action",
+        "action-adventure",
+        "action-rpg",
+        "adventure",
+        "local-multiplayer",
+        "multiplayer",
+        "procedural",
+        "retro",
+        "roguelite",
+        "rpg",
+        "zelda"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzg4MTk1NTEucG5n/315x250%23c/tSbdNk.png",
+    "links": {
+        "devlog": "https://julcreutz.itch.io/mystiqa/devlog",
+        "self": "https://julcreutz.itch.io/mystiqa",
+        "comments": "https://julcreutz.itch.io/mystiqa/comments"
+    },
+    "title": "Mystiqa"
+}

@@ -1,0 +1,28 @@
+{
+    "price": "$0.00",
+    "id": 873539,
+    "title": "Historically Accurate Space Race",
+    "links": {
+        "self": "https://ookii-tsuki.itch.io/historically-accurate-space-race",
+        "comments": "https://ookii-tsuki.itch.io/historically-accurate-space-race/comments",
+        "devlog": "https://ookii-tsuki.itch.io/historically-accurate-space-race/devlog"
+    },
+    "tags": [
+        "2d",
+        "flat-shading",
+        "historical",
+        "local-multiplayer",
+        "multiplayer",
+        "racing",
+        "shooter",
+        "space",
+        "unity"
+    ],
+    "authors": [
+        {
+            "name": "Medo",
+            "url": "https://ookii-tsuki.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ5MTIyMjEucG5n/315x250%23c/5Ij1kU.png"
+}

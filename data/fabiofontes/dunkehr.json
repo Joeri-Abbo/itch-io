@@ -1,0 +1,30 @@
+{
+    "title": "Dunkehr - DEMO",
+    "id": 726728,
+    "price": "$0.00",
+    "cover_image": "https://img.itch.zone/aW1nLzQ0MDgwMDkucG5n/315x250%23c/jF2ghF.png",
+    "links": {
+        "devlog": "https://fabiofontes.itch.io/dunkehr/devlog",
+        "comments": "https://fabiofontes.itch.io/dunkehr/comments",
+        "self": "https://fabiofontes.itch.io/dunkehr"
+    },
+    "tags": [
+        "2d",
+        "action",
+        "beat-em-up",
+        "fantasy",
+        "fighting",
+        "furry",
+        "medieval",
+        "pixel-art",
+        "platformer",
+        "side-scroller",
+        "singleplayer"
+    ],
+    "authors": [
+        {
+            "name": "F\u00e1bio Fontes",
+            "url": "https://fabiofontes.itch.io"
+        }
+    ]
+}

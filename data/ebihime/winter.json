@@ -1,0 +1,31 @@
+{
+    "title": "A Winter's Daydream",
+    "id": 317343,
+    "cover_image": "https://img.itch.zone/aW1nLzE1NjMxOTQucG5n/315x250%23c/AwDM0e.png",
+    "tags": [
+        "anime",
+        "christmas",
+        "comedy",
+        "cozy",
+        "cute",
+        "magic",
+        "male-protagonist",
+        "moe",
+        "no-ai",
+        "relaxing",
+        "slice-of-life",
+        "visual-novel"
+    ],
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        }
+    ],
+    "price": "$5.99",
+    "links": {
+        "self": "https://ebihime.itch.io/winter",
+        "devlog": "https://ebihime.itch.io/winter/devlog",
+        "comments": "https://ebihime.itch.io/winter/comments"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Auralis Creations",
+            "url": "https://auralis-creations.itch.io"
+        }
+    ],
+    "id": 723644,
+    "price": "$0.00",
+    "tags": [
+        "adventure",
+        "alien",
+        "horror",
+        "indie",
+        "monsters",
+        "scary",
+        "science-fiction",
+        "short",
+        "singleplayer",
+        "space",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQwMTM0MzAucG5n/315x250%23c/nP8sZx.png",
+    "links": {
+        "self": "https://auralis-creations.itch.io/contact-horizon",
+        "comments": "https://auralis-creations.itch.io/contact-horizon/comments"
+    },
+    "title": "Contact - Horizon"
+}

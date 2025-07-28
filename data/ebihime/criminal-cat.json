@@ -1,0 +1,35 @@
+{
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        },
+        {
+            "name": "Ekkoberry",
+            "url": "https://ekkoberry.itch.io"
+        }
+    ],
+    "id": 3061062,
+    "price": "$6.99",
+    "tags": [
+        "anime",
+        "boys-love",
+        "cats",
+        "cozy",
+        "cute",
+        "fantasy",
+        "gay",
+        "lgbt",
+        "no-ai",
+        "short",
+        "visual-novel",
+        "yaoi"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4MzA2NjIxLnBuZw==/315x250%23c/kVroD2.png",
+    "links": {
+        "devlog": "https://ebihime.itch.io/criminal-cat/devlog",
+        "self": "https://ebihime.itch.io/criminal-cat",
+        "comments": "https://ebihime.itch.io/criminal-cat/comments"
+    },
+    "title": "My Confounding Cat is Criminally Cute"
+}

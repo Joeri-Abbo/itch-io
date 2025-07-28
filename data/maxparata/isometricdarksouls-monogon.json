@@ -1,0 +1,30 @@
+{
+    "title": "Isometric Dark Souls Gothic - monogon",
+    "id": 1983219,
+    "price": "$0.00",
+    "cover_image": "https://img.itch.zone/aW1nLzExNjkxODAzLnBuZw==/315x250%23c/eK4bbK.png",
+    "links": {
+        "devlog": "https://maxparata.itch.io/isometricdarksouls-monogon/devlog",
+        "comments": "https://maxparata.itch.io/isometricdarksouls-monogon/comments",
+        "self": "https://maxparata.itch.io/isometricdarksouls-monogon"
+    },
+    "tags": [
+        "dark-fantasy",
+        "dungeon-crawler",
+        "godot",
+        "isometric",
+        "no-ai",
+        "pixel-art",
+        "rpgmaker",
+        "sprites",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ],
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ]
+}

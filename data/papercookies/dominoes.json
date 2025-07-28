@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "id": 245549,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "domino",
+        "puzzle",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjQ1NTQ5LzExNzI3NjcuZ2lm/315x250%23c/wv4RZN.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/dominoes",
+        "comments": "https://papercookies.itch.io/dominoes/comments"
+    },
+    "title": "Dominoes"
+}

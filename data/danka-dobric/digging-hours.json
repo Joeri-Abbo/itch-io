@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Vuk Dobric",
+            "url": "https://danka-dobric.itch.io"
+        }
+    ],
+    "id": 3511044,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "first-person",
+        "gothic",
+        "horror",
+        "no-ai",
+        "psx",
+        "retro",
+        "short",
+        "voice-acting"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwOTIzNzY4LnBuZw==/315x250%23c/9uU0je.png",
+    "links": {
+        "self": "https://danka-dobric.itch.io/digging-hours",
+        "comments": "https://danka-dobric.itch.io/digging-hours/comments"
+    },
+    "title": "Digging Hours"
+}

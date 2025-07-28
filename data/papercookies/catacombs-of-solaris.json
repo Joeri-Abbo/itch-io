@@ -1,0 +1,24 @@
+{
+    "price": "$12.00",
+    "links": {
+        "devlog": "https://ianmaclarty.itch.io/catacombs-of-solaris/devlog",
+        "self": "https://ianmaclarty.itch.io/catacombs-of-solaris"
+    },
+    "authors": [
+        {
+            "name": "Ian MacLarty",
+            "url": "https://ianmaclarty.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzUyMzM1OTQucG5n/315x250%23c/UBvGvL.png",
+    "id": 91655,
+    "title": "The Catacombs of Solaris Revisited",
+    "tags": [
+        "3d",
+        "artgame",
+        "controller",
+        "first-person",
+        "mind-bending",
+        "perspective"
+    ]
+}

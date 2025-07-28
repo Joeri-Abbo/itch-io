@@ -1,0 +1,24 @@
+{
+    "links": {
+        "self": "https://ardek66.itch.io/door-o-bot",
+        "comments": "https://ardek66.itch.io/door-o-bot/comments",
+        "devlog": "https://ardek66.itch.io/door-o-bot/devlog"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzM5Mjc5ODQucG5n/315x250%23c/%2BviKCY.png",
+    "tags": [
+        "2d",
+        "8-bit",
+        "minimalist",
+        "pixel-art",
+        "puzzle",
+        "retro"
+    ],
+    "id": 688396,
+    "authors": [
+        {
+            "name": "ardek66",
+            "url": "https://ardek66.itch.io"
+        }
+    ],
+    "title": "Door-O-Bot"
+}

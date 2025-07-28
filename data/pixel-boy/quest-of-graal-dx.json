@@ -1,0 +1,30 @@
+{
+    "title": "Quest Of Graal DX",
+    "id": 1383799,
+    "cover_image": "https://img.itch.zone/aW1nLzgxMjIwMTYuZ2lm/315x250%23c/E6soYk.gif",
+    "tags": [
+        "2d",
+        "action",
+        "fantasy",
+        "local-multiplayer",
+        "multiplayer",
+        "no-ai",
+        "pixel-art",
+        "platformer",
+        "racing",
+        "split-screen",
+        "sports"
+    ],
+    "authors": [
+        {
+            "name": "pixel-boy",
+            "url": "https://pixel-boy.itch.io"
+        }
+    ],
+    "price": "$9.99",
+    "links": {
+        "self": "https://pixel-boy.itch.io/quest-of-graal-dx",
+        "devlog": "https://pixel-boy.itch.io/quest-of-graal-dx/devlog",
+        "comments": "https://pixel-boy.itch.io/quest-of-graal-dx/comments"
+    }
+}

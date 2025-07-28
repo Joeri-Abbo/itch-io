@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "ffx",
+            "url": "https://ffx.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQzNDI2MzMuanBn/315x250%23c/mRbehu.jpg",
+    "id": 774912,
+    "title": "FFX Runner Undead Rods",
+    "links": {
+        "comments": "https://ffx.itch.io/ffx-runner-undead-rods/comments",
+        "devlog": "https://ffx.itch.io/ffx-runner-undead-rods/devlog",
+        "self": "https://ffx.itch.io/ffx-runner-undead-rods"
+    },
+    "tags": [
+        "3d",
+        "action",
+        "driving",
+        "gamepad",
+        "maze",
+        "monsters",
+        "racing",
+        "singleplayer",
+        "survival",
+        "zombies"
+    ]
+}

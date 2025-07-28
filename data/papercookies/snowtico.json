@@ -1,0 +1,23 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTMzNTg5LzYxMjg4My5naWY=/315x250%23c/b3JjSX.gif",
+    "id": 133589,
+    "links": {
+        "self": "https://papercookies.itch.io/snowtico",
+        "comments": "https://papercookies.itch.io/snowtico/comments"
+    },
+    "title": "Snowtico",
+    "price": "$0.00",
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        }
+    ],
+    "tags": [
+        "action",
+        "atmospheric",
+        "infinite-runner",
+        "runner",
+        "short"
+    ]
+}

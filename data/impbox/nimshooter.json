@@ -1,0 +1,24 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://badlychosenname.itch.io/nimshooter/comments",
+        "self": "https://badlychosenname.itch.io/nimshooter"
+    },
+    "authors": [
+        {
+            "name": "badlychosenname",
+            "url": "https://badlychosenname.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjQxMzY1LzExNTA3NzUucG5n/315x250%23c/Bww4QO.png",
+    "id": 241365,
+    "title": "Nim Shooter",
+    "tags": [
+        "2d",
+        "8-bit",
+        "action",
+        "cga",
+        "shooter",
+        "space"
+    ]
+}

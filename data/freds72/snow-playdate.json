@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "freds72",
+            "url": "https://freds72.itch.io"
+        }
+    ],
+    "id": 2659116,
+    "price": "$5.00",
+    "tags": [
+        "3d",
+        "no-ai",
+        "playdate",
+        "racing"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODA4NTk1LnBuZw==/315x250%23c/eXfZEv.png",
+    "links": {
+        "devlog": "https://freds72.itch.io/snow-playdate/devlog",
+        "self": "https://freds72.itch.io/snow-playdate",
+        "comments": "https://freds72.itch.io/snow-playdate/comments"
+    },
+    "title": "snow! Playdate Edition"
+}

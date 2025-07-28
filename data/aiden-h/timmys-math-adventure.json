@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "Aiden H",
+            "url": "https://aiden-h.itch.io"
+        }
+    ],
+    "id": 3759115,
+    "tags": [
+        "2d",
+        "educational",
+        "math",
+        "no-ai",
+        "rpg"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzc3ODQxLnBuZw==/315x250%23c/thZiDj.png",
+    "links": {
+        "self": "https://aiden-h.itch.io/timmys-math-adventure",
+        "comments": "https://aiden-h.itch.io/timmys-math-adventure/comments"
+    },
+    "title": "Timmy's Math Adventure"
+}

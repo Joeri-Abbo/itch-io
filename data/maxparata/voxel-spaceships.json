@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 520746,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "godot",
+        "isometric",
+        "low-poly",
+        "mobile",
+        "no-ai",
+        "pixel-art",
+        "space",
+        "spaceship",
+        "unreal-engine",
+        "voxel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM5OTczMjkuanBn/315x250%23c/WjN7C9.jpg",
+    "links": {
+        "community": "https://maxparata.itch.io/voxel-spaceships/community",
+        "devlog": "https://maxparata.itch.io/voxel-spaceships/devlog",
+        "self": "https://maxparata.itch.io/voxel-spaceships"
+    },
+    "title": "10+ Voxel Spaceships assets for free"
+}

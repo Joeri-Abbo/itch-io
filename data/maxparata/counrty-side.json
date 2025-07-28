@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 949137,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "godot",
+        "horror",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "post-apocalyptic",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzUzODI4NjAucG5n/315x250%23c/elRnxe.png",
+    "links": {
+        "devlog": "https://maxparata.itch.io/counrty-side/devlog",
+        "self": "https://maxparata.itch.io/counrty-side",
+        "comments": "https://maxparata.itch.io/counrty-side/comments"
+    },
+    "title": "Voxel Environment : Counrty Side"
+}

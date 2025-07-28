@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzI0MjIzMDAucG5n/315x250%23c/ICLOhN.png",
+    "price": "$12.96",
+    "sale": {
+        "rate": 35,
+        "id": 5518,
+        "end_date": "2027-01-30 23:00:00",
+        "title": "Foley SFX - Audio  Assets"
+    },
+    "id": 472533,
+    "title": "Foley SFX",
+    "original_price": "$19.95",
+    "links": {
+        "self": "https://kronbits.itch.io/foleysfx"
+    },
+    "tags": [
+        "audio",
+        "foley",
+        "no-ai",
+        "sound",
+        "sound-effects"
+    ],
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ]
+}

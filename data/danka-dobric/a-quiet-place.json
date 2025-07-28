@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Vuk Dobric",
+            "url": "https://danka-dobric.itch.io"
+        }
+    ],
+    "id": 3543464,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "first-person",
+        "horror",
+        "indie",
+        "low-poly",
+        "no-ai",
+        "psychological-horror",
+        "short",
+        "story-rich"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxMTk0MTQwLnBuZw==/315x250%23c/3iWYAu.png",
+    "links": {
+        "self": "https://danka-dobric.itch.io/a-quiet-place",
+        "comments": "https://danka-dobric.itch.io/a-quiet-place/comments"
+    },
+    "title": "A Quiet Place"
+}

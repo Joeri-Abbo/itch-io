@@ -1,0 +1,25 @@
+{
+    "links": {
+        "comments": "https://impbox.itch.io/burger-stack/comments",
+        "self": "https://impbox.itch.io/burger-stack"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzY3MzcxMjQuZ2lm/315x250%23c/wqjrsa.gif",
+    "tags": [
+        "action",
+        "cooking",
+        "co-op",
+        "local-co-op",
+        "local-multiplayer",
+        "nico",
+        "pixel-art",
+        "platformer"
+    ],
+    "id": 1158813,
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "title": "Burger Stack"
+}

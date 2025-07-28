@@ -1,0 +1,27 @@
+{
+    "price": "$9.99",
+    "id": 184532,
+    "title": "High Hell",
+    "links": {
+        "self": "https://devolverdigital.itch.io/highhell"
+    },
+    "tags": [
+        "fast-paced",
+        "first-person",
+        "fps",
+        "goats",
+        "satan",
+        "shooter"
+    ],
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "terriv",
+            "url": "https://terriv.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTg0NTMyLzg2MzQzMC5qcGc=/315x250%23c/CJ8yv4.jpg"
+}

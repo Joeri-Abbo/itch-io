@@ -1,0 +1,36 @@
+{
+    "authors": [
+        {
+            "name": "Greatfruit Games",
+            "url": "https://greatfruit-games.itch.io"
+        }
+    ],
+    "tags": [
+        "16x16",
+        "2d",
+        "fantasy",
+        "godot",
+        "indie",
+        "no-ai",
+        "pixel-art",
+        "platformer",
+        "short",
+        "singleplayer",
+        "slime"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMDM5MjA1LnBuZw==/315x250%23c/5CQFl%2B.png",
+    "id": 3657650,
+    "price": "$4.49",
+    "links": {
+        "self": "https://greatfruit-games.itch.io/picis-little-adventure",
+        "comments": "https://greatfruit-games.itch.io/picis-little-adventure/comments"
+    },
+    "sale": {
+        "end_date": "2026-01-01 05:00:00",
+        "id": 157761,
+        "rate": 25,
+        "title": "PiCi's Launch Sale!"
+    },
+    "original_price": "$5.99",
+    "title": "PiCi's Little Adventure"
+}

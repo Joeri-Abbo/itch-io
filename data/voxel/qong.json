@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "voxel",
+            "url": "https://voxel.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjExMTUvODM1NzUuZ2lm/315x250%23c/Ew%2FgmZ.gif",
+    "id": 21115,
+    "links": {
+        "self": "https://voxel.itch.io/qong"
+    },
+    "title": "MiniLD: Qong",
+    "price": "$0.00",
+    "tags": [
+        "arcade",
+        "casual",
+        "ludum-dare",
+        "multiplayer",
+        "retro",
+        "short",
+        "sports",
+        "versus"
+    ]
+}

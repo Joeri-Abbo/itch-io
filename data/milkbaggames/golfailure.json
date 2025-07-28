@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "Milkbag Games",
+            "url": "https://milkbaggames.itch.io"
+        }
+    ],
+    "id": 142298,
+    "tags": [
+        "colorful",
+        "comedy",
+        "funny",
+        "golf",
+        "minigolf",
+        "putt",
+        "puzzle",
+        "silly",
+        "singleplayer",
+        "sports",
+        "tojam"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMTQyMjk4LzY1MTcyMS5wbmc=/315x250%23c/7dzZeY.png",
+    "links": {
+        "self": "https://milkbaggames.itch.io/golfailure",
+        "comments": "https://milkbaggames.itch.io/golfailure/comments"
+    },
+    "title": "Golfailure"
+}

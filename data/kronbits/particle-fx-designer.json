@@ -1,0 +1,36 @@
+{
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjc3OTQ2LzEzNzM2OTkuZ2lm/315x250%23c/TNlglK.gif",
+    "price": "$14.96",
+    "sale": {
+        "rate": 25,
+        "id": 156441,
+        "end_date": "2025-08-05 10:20:00",
+        "title": "Pixel FX Designer \u2014 Sale"
+    },
+    "id": 277946,
+    "title": "Pixel Fx Designer",
+    "original_price": "$19.95",
+    "links": {
+        "self": "https://codemanu.itch.io/particle-fx-designer",
+        "community": "https://codemanu.itch.io/particle-fx-designer/community",
+        "devlog": "https://codemanu.itch.io/particle-fx-designer/devlog"
+    },
+    "tags": [
+        "2d",
+        "creator",
+        "design",
+        "editor",
+        "effects",
+        "fx",
+        "pixel",
+        "pixel-art",
+        "retro",
+        "sprites"
+    ],
+    "authors": [
+        {
+            "name": "CodeManu",
+            "url": "https://codemanu.itch.io"
+        }
+    ]
+}

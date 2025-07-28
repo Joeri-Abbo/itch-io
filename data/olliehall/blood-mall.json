@@ -1,0 +1,31 @@
+{
+    "price": "$0.00",
+    "id": 3517782,
+    "title": "BLOOD MALL",
+    "links": {
+        "self": "https://olliehall.itch.io/blood-mall",
+        "comments": "https://olliehall.itch.io/blood-mall/comments",
+        "devlog": "https://olliehall.itch.io/blood-mall/devlog"
+    },
+    "tags": [
+        "action",
+        "creepy",
+        "dinosaurs",
+        "first-person",
+        "horror",
+        "monsters",
+        "no-ai",
+        "psx",
+        "retro",
+        "short",
+        "slasher",
+        "voice-acting"
+    ],
+    "authors": [
+        {
+            "name": "Ollie Hall",
+            "url": "https://olliehall.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxMTc2MzQ2LnBuZw==/315x250%23c/iRjqAI.png"
+}

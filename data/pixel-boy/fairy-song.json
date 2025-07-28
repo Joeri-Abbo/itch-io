@@ -1,0 +1,31 @@
+{
+    "id": 134651,
+    "cover_image": "https://img.itch.zone/aW1nLzE2Mjg5MjQuZ2lm/315x250%23c/xWB4ty.gif",
+    "title": "Fairy Song",
+    "links": {
+        "self": "https://pixel-boy.itch.io/fairy-song",
+        "comments": "https://pixel-boy.itch.io/fairy-song/comments",
+        "devlog": "https://pixel-boy.itch.io/fairy-song/devlog"
+    },
+    "authors": [
+        {
+            "name": "pixel-boy",
+            "url": "https://pixel-boy.itch.io"
+        }
+    ],
+    "tags": [
+        "1-bit",
+        "2d",
+        "adventure",
+        "atmospheric",
+        "exploration",
+        "grayscale",
+        "local-co-op",
+        "local-multiplayer",
+        "multiplayer",
+        "no-ai",
+        "pixel-art",
+        "relaxing",
+        "split-screen"
+    ]
+}

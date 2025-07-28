@@ -1,0 +1,20 @@
+{
+    "authors": [
+        {
+            "name": "car mahdi",
+            "url": "https://car-mahdi.itch.io"
+        }
+    ],
+    "id": 3739693,
+    "price": "$1.00",
+    "tags": [
+        "action",
+        "no-ai"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMjU2NjcwLnBuZw==/315x250%23c/VO4JC%2B.png",
+    "links": {
+        "self": "https://car-mahdi.itch.io/fire-game",
+        "comments": "https://car-mahdi.itch.io/fire-game/comments"
+    },
+    "title": "fire game"
+}

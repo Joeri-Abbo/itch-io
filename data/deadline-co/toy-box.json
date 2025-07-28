@@ -1,0 +1,28 @@
+{
+    "title": "TOY BOX",
+    "id": 2960072,
+    "cover_image": "https://img.itch.zone/aW1nLzE3OTI0OTkyLmdpZg==/315x250%23c/t2pm8r.gif",
+    "links": {
+        "devlog": "https://deadline-co.itch.io/toy-box/devlog",
+        "comments": "https://deadline-co.itch.io/toy-box/comments",
+        "self": "https://deadline-co.itch.io/toy-box"
+    },
+    "tags": [
+        "2d",
+        "creepy",
+        "first-person",
+        "horror",
+        "interactive-fiction",
+        "multiple-endings",
+        "no-ai",
+        "point-and-click",
+        "singleplayer",
+        "visual-novel"
+    ],
+    "authors": [
+        {
+            "name": "DEADline Studios",
+            "url": "https://deadline-co.itch.io"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzMzMTAwOTUuZ2lm/315x250%23c/W8VNGU.gif",
+    "id": 620023,
+    "links": {
+        "self": "https://dario-zubovic.itch.io/opsnd",
+        "comments": "https://dario-zubovic.itch.io/opsnd/comments",
+        "devlog": "https://dario-zubovic.itch.io/opsnd/devlog"
+    },
+    "title": "TITAN, OPSND",
+    "authors": [
+        {
+            "name": "dario-zubovic",
+            "url": "https://dario-zubovic.itch.io"
+        },
+        {
+            "name": "nothke",
+            "url": "https://nothke.itch.io"
+        }
+    ],
+    "tags": [
+        "ludum-dare-46",
+        "programming",
+        "puzzle",
+        "robots",
+        "simulation",
+        "space",
+        "zach-like"
+    ]
+}

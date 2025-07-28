@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "supertuxkart",
+            "url": "https://supertuxkart.itch.io"
+        }
+    ],
+    "id": 83502,
+    "price": "$0.00",
+    "tags": [
+        "action",
+        "casual",
+        "cult-classic",
+        "open-source",
+        "race",
+        "racing"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvODM1MDIvMzkzNDQyLmpwZw==/315x250%23c/P%2F2%2BKM.jpg",
+    "links": {
+        "devlog": "https://supertuxkart.itch.io/supertuxkart/devlog",
+        "self": "https://supertuxkart.itch.io/supertuxkart",
+        "comments": "https://supertuxkart.itch.io/supertuxkart/comments"
+    },
+    "title": "SuperTuxKart"
+}

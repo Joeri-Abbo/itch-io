@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Milkbag Games",
+            "url": "https://milkbaggames.itch.io"
+        }
+    ],
+    "id": 73750,
+    "tags": [
+        "bank",
+        "control",
+        "htc",
+        "robot",
+        "simulation",
+        "thiefbot",
+        "vault",
+        "virtual-reality",
+        "vive"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNzM3NTAvMzQxMzE0LnBuZw==/315x250%23c/PWmiE9.png",
+    "links": {
+        "self": "https://milkbaggames.itch.io/operation-operator"
+    },
+    "title": "Operation: Operator"
+}

@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Edgar Mendoza",
+            "url": "https://edgarmendoza.itch.io"
+        }
+    ],
+    "id": 1582221,
+    "price": "$0.00",
+    "tags": [
+        "action",
+        "arcade",
+        "high-score",
+        "short",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzk0NjUzMDMuZ2lm/315x250%23c/qq7TIT.gif",
+    "links": {
+        "self": "https://edgarmendoza.itch.io/hyper-jump",
+        "comments": "https://edgarmendoza.itch.io/hyper-jump/comments"
+    },
+    "title": "HYPER JUMP"
+}

@@ -1,0 +1,88 @@
+{
+    "authors": [
+        {
+            "name": "adam pype",
+            "url": "https://papercookies.itch.io"
+        },
+        {
+            "name": "Neurobew",
+            "url": "https://neurobew.itch.io"
+        },
+        {
+            "name": "davidrodmad",
+            "url": "https://davidrodmad.itch.io"
+        },
+        {
+            "name": "justadude1",
+            "url": "https://justadude1.itch.io"
+        },
+        {
+            "name": "queenjazz",
+            "url": "https://queenjazz.itch.io"
+        },
+        {
+            "name": "fragile seraph",
+            "url": "https://tipsheda.itch.io"
+        },
+        {
+            "name": "Headware Games",
+            "url": "https://headwaregames.itch.io"
+        },
+        {
+            "name": "corpsepile",
+            "url": "https://corpsepile.itch.io"
+        },
+        {
+            "name": "Variant Tombstones",
+            "url": "https://varianttombstones.itch.io"
+        },
+        {
+            "name": "Negative Entities",
+            "url": "https://negative-entities.itch.io"
+        },
+        {
+            "name": "\u9744Moya Horror",
+            "url": "https://moyahorror.itch.io"
+        },
+        {
+            "name": "colter",
+            "url": "https://culture.itch.io"
+        },
+        {
+            "name": "NeitherNathan",
+            "url": "https://neithernathan.itch.io"
+        },
+        {
+            "name": "pastasfuture",
+            "url": "https://pastasfuture.itch.io"
+        },
+        {
+            "name": "USERLANDS",
+            "url": "https://userlands.itch.io"
+        },
+        {
+            "name": "kurethedead",
+            "url": "https://kurethedead.itch.io"
+        },
+        {
+            "name": "The Haunted PS1",
+            "url": "https://hauntedps1.itch.io"
+        }
+    ],
+    "id": 783611,
+    "tags": [
+        "adventure",
+        "atmospheric",
+        "horror",
+        "mystery",
+        "no-ai",
+        "retro",
+        "walking-simulator"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ1MTE5NjIuZ2lm/315x250%23c/ElawM3.gif",
+    "links": {
+        "self": "https://papercookies.itch.io/chain",
+        "comments": "https://papercookies.itch.io/chain/comments"
+    },
+    "title": "C.H.A.I.N."
+}

@@ -1,0 +1,30 @@
+{
+    "links": {
+        "comments": "https://devguyblake.itch.io/ultimateforkoff/comments",
+        "self": "https://devguyblake.itch.io/ultimateforkoff"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE3MzcxNDk3LnBuZw==/315x250%23c/3veZ2g.png",
+    "tags": [
+        "action"
+    ],
+    "id": 2903977,
+    "authors": [
+        {
+            "name": "Dev Guy Blake",
+            "url": "https://devguyblake.itch.io"
+        },
+        {
+            "name": "Emi_nominee",
+            "url": "https://emi-nominee.itch.io"
+        },
+        {
+            "name": "Kogey",
+            "url": "https://kogey.itch.io"
+        },
+        {
+            "name": "TeffyD",
+            "url": "https://teffyd.itch.io"
+        }
+    ],
+    "title": "Ultimate Fork-Off! (2024 Game Jam Version)"
+}

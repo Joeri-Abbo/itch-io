@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "HonkyHood",
+            "url": "https://honkyhood11.itch.io"
+        }
+    ],
+    "id": 1395607,
+    "price": "$0.00",
+    "tags": [
+        "fangame",
+        "fumo",
+        "kart",
+        "local-multiplayer",
+        "racing",
+        "touhou"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzg0MDU2MzcuanBn/315x250%23c/qBv6gK.jpg",
+    "links": {
+        "devlog": "https://honkyhood11.itch.io/touhou-fumo-racing/devlog",
+        "self": "https://honkyhood11.itch.io/touhou-fumo-racing",
+        "comments": "https://honkyhood11.itch.io/touhou-fumo-racing/comments"
+    },
+    "title": "Touhou Fumo Racing"
+}

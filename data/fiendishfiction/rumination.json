@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "Fiendish Fiction",
+            "url": "https://fiendishfiction.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzcwNzkxNDIuZ2lm/315x250%23c/xK8gzL.gif",
+    "id": 1213245,
+    "links": {
+        "comments": "https://fiendishfiction.itch.io/rumination/comments",
+        "devlog": "https://fiendishfiction.itch.io/rumination/devlog",
+        "self": "https://fiendishfiction.itch.io/rumination"
+    },
+    "title": "Up All Night: Rumination",
+    "price": "$0.00",
+    "tags": [
+        "dark",
+        "horror",
+        "interactive-fiction",
+        "monsters",
+        "multiple-endings",
+        "narrative",
+        "no-ai",
+        "psychological-horror",
+        "story-rich",
+        "suspense",
+        "visual-novel"
+    ]
+}

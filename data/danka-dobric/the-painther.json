@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 3363381,
+    "title": "The_painther",
+    "links": {
+        "self": "https://danka-dobric.itch.io/the-painther",
+        "comments": "https://danka-dobric.itch.io/the-painther/comments"
+    },
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "first-person",
+        "horror",
+        "no-ai",
+        "psx",
+        "retro",
+        "short",
+        "singleplayer",
+        "story-rich"
+    ],
+    "authors": [
+        {
+            "name": "Vuk Dobric",
+            "url": "https://danka-dobric.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwMDk3OTgxLnBuZw==/315x250%23c/KWIe2F.png"
+}

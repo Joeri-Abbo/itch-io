@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "A. V. Dossow",
+            "url": "https://avdossow.itch.io"
+        }
+    ],
+    "id": 1963994,
+    "price": "$0.00",
+    "tags": [
+        "8-bit",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "horror",
+        "monsters",
+        "pixel-art",
+        "post-apocalyptic",
+        "retro",
+        "robots",
+        "rpgmaker"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzExNTQ3MzAwLnBuZw==/315x250%23c/LZfW2E.png",
+    "links": {
+        "self": "https://avdossow.itch.io/automagoria-definitive-edition",
+        "comments": "https://avdossow.itch.io/automagoria-definitive-edition/comments"
+    },
+    "title": "Automagoria - Definitive Edition"
+}

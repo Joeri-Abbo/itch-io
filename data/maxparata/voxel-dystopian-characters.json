@@ -1,0 +1,30 @@
+{
+    "cover_image": "https://img.itch.zone/aW1nLzM5OTcyMDkuanBn/315x250%23c/07J5%2Bj.jpg",
+    "id": 708469,
+    "title": "Free Voxel Dystopian Characters",
+    "price": "$0.00",
+    "links": {
+        "self": "https://maxparata.itch.io/voxel-dystopian-characters",
+        "comments": "https://maxparata.itch.io/voxel-dystopian-characters/comments",
+        "devlog": "https://maxparata.itch.io/voxel-dystopian-characters/devlog"
+    },
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "characters",
+        "dystopian",
+        "godot",
+        "low-poly",
+        "mobile",
+        "no-ai",
+        "pixel-art",
+        "post-apocalyptic",
+        "unreal-engine",
+        "voxel"
+    ]
+}

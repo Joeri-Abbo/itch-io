@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "F\u00e1bio Fontes",
+            "url": "https://fabiofontes.itch.io"
+        }
+    ],
+    "id": 788403,
+    "price": "$7.99",
+    "tags": [
+        "3d",
+        "action",
+        "arcade",
+        "beat-em-up",
+        "driving",
+        "endless",
+        "fighting",
+        "gamemaker",
+        "procedural",
+        "racing"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzY0NTc5NzkucG5n/315x250%23c/kdPPtz.png",
+    "links": {
+        "devlog": "https://fabiofontes.itch.io/buck-up-and-drive/devlog",
+        "self": "https://fabiofontes.itch.io/buck-up-and-drive",
+        "comments": "https://fabiofontes.itch.io/buck-up-and-drive/comments"
+    },
+    "title": "Buck Up And Drive!"
+}

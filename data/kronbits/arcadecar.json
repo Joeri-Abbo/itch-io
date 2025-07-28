@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "id": 844228,
+    "tags": [
+        "3d",
+        "arcade",
+        "driving",
+        "racing",
+        "sports"
+    ],
+    "links": {
+        "community": "https://kronbits.itch.io/arcadecar/community",
+        "devlog": "https://kronbits.itch.io/arcadecar/devlog",
+        "self": "https://kronbits.itch.io/arcadecar"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzQ3MzI5MDIucG5n/315x250%23c/0cNSAG.png",
+    "title": "ArcadeCar"
+}

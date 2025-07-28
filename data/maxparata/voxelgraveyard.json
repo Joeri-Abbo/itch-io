@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 800255,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "horror",
+        "low-poly",
+        "mobile",
+        "no-ai",
+        "pixel-art",
+        "third-person",
+        "unreal-engine",
+        "voxel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ0ODE3NTIucG5n/315x250%23c/9cwmkd.png",
+    "links": {
+        "devlog": "https://maxparata.itch.io/voxelgraveyard/devlog",
+        "self": "https://maxparata.itch.io/voxelgraveyard",
+        "comments": "https://maxparata.itch.io/voxelgraveyard/comments"
+    },
+    "title": "Free Voxel Graveyard Asset"
+}

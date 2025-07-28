@@ -1,0 +1,31 @@
+{
+    "authors": [
+        {
+            "name": "Fiendish Fiction",
+            "url": "https://fiendishfiction.itch.io"
+        }
+    ],
+    "id": 2829343,
+    "price": "$0.00",
+    "tags": [
+        "amare",
+        "atmospheric",
+        "dating-sim",
+        "fantasy",
+        "gay",
+        "interactive-fiction",
+        "lgbt",
+        "no-ai",
+        "otome",
+        "queer",
+        "romance",
+        "visual-novel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE2OTI1ODcwLnBuZw==/315x250%23c/f5oAZ8.png",
+    "links": {
+        "devlog": "https://fiendishfiction.itch.io/between-stars/devlog",
+        "self": "https://fiendishfiction.itch.io/between-stars",
+        "comments": "https://fiendishfiction.itch.io/between-stars/comments"
+    },
+    "title": "The Space Between Stars"
+}

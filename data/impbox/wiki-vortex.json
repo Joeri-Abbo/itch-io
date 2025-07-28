@@ -1,0 +1,21 @@
+{
+    "authors": [
+        {
+            "name": "Impbox Games",
+            "url": "https://impbox.itch.io"
+        }
+    ],
+    "id": 1011888,
+    "tags": [
+        "educational",
+        "ludum-dare-48",
+        "wiki",
+        "wikipedia"
+    ],
+    "links": {
+        "comments": "https://impbox.itch.io/wiki-vortex/comments",
+        "self": "https://impbox.itch.io/wiki-vortex"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzU3NjUzMDQucG5n/315x250%23c/gjWoGg.png",
+    "title": "Wiki Vortex"
+}

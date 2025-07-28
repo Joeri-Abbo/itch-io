@@ -1,0 +1,31 @@
+{
+    "title": "SlipSpeed",
+    "id": 517571,
+    "cover_image": "https://img.itch.zone/aW1nLzI3MzM0MjIuZ2lm/315x250%23c/wXo10K.gif",
+    "tags": [
+        "dos",
+        "msdos",
+        "racing",
+        "retro",
+        "shareware",
+        "singleplayer",
+        "win95",
+        "windows-95"
+    ],
+    "authors": [
+        {
+            "name": "voxel",
+            "url": "https://voxel.itch.io"
+        },
+        {
+            "name": "tijn",
+            "url": "https://tijn.itch.io"
+        }
+    ],
+    "price": "$7.00",
+    "links": {
+        "self": "https://voxel.itch.io/slipspeed",
+        "devlog": "https://voxel.itch.io/slipspeed/devlog",
+        "comments": "https://voxel.itch.io/slipspeed/comments"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "LWMedia",
+            "url": "https://b0tster.itch.io"
+        }
+    ],
+    "id": 782625,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "action",
+        "anime",
+        "fantasy",
+        "mobile",
+        "no-ai",
+        "shooter",
+        "story-focused",
+        "story-rich",
+        "third-person",
+        "third-person-shooter"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQzNzkxMjEucG5n/315x250%23c/dMXZQs.png",
+    "links": {
+        "devlog": "https://b0tster.itch.io/arcus/devlog",
+        "self": "https://b0tster.itch.io/arcus",
+        "comments": "https://b0tster.itch.io/arcus/comments"
+    },
+    "title": "Arcus"
+}

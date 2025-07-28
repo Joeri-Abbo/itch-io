@@ -1,0 +1,23 @@
+{
+    "price": "$0.00",
+    "links": {
+        "comments": "https://tommulgrew.itch.io/rampshtml/comments",
+        "self": "https://tommulgrew.itch.io/rampshtml"
+    },
+    "authors": [
+        {
+            "name": "Tom Mulgrew",
+            "url": "https://tommulgrew.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzU4MjU4ODkucG5n/315x250%23c/fmxnAD.png",
+    "id": 1008859,
+    "title": "Ramps+",
+    "tags": [
+        "3d",
+        "arcade",
+        "pseudo-3d",
+        "racing",
+        "retro"
+    ]
+}

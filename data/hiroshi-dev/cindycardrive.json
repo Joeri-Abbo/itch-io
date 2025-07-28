@@ -1,0 +1,25 @@
+{
+    "id": 2043965,
+    "cover_image": "https://img.itch.zone/aW1nLzEyMDIyNzMzLmpwZw==/315x250%23c/585mbv.jpg",
+    "title": "CindyCar.Drive",
+    "links": {
+        "self": "https://hiroshi-dev.itch.io/cindycardrive",
+        "devlog": "https://hiroshi-dev.itch.io/cindycardrive/devlog",
+        "community": "https://hiroshi-dev.itch.io/cindycardrive/community"
+    },
+    "authors": [
+        {
+            "name": "Hiroshi_Dev",
+            "url": "https://hiroshi-dev.itch.io"
+        }
+    ],
+    "tags": [
+        "indie",
+        "racing",
+        "simulation",
+        "singleplayer",
+        "softbody",
+        "unity",
+        "vehicle_simulator"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "ebi-hime",
+            "url": "https://ebihime.itch.io"
+        }
+    ],
+    "id": 50300,
+    "price": "$9.99",
+    "tags": [
+        "anime",
+        "cozy",
+        "cute",
+        "female-protagonist",
+        "food",
+        "lgbt",
+        "meaningful-choices",
+        "moe",
+        "multiple-endings",
+        "no-ai",
+        "visual-novel",
+        "yuri"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNTAzMDAvMjIxMDY2LmpwZw==/315x250%23c/tfBH%2FL.jpg",
+    "links": {
+        "self": "https://ebihime.itch.io/strawberry-vinegar",
+        "comments": "https://ebihime.itch.io/strawberry-vinegar/comments"
+    },
+    "title": "Strawberry Vinegar"
+}

@@ -1,0 +1,30 @@
+{
+    "price": "$0.00",
+    "id": 3394389,
+    "title": "Reverend",
+    "links": {
+        "self": "https://danka-dobric.itch.io/rever",
+        "comments": "https://danka-dobric.itch.io/rever/comments"
+    },
+    "tags": [
+        "3d",
+        "adventure",
+        "atmospheric",
+        "creepy",
+        "first-person",
+        "horror",
+        "mystery",
+        "no-ai",
+        "psx",
+        "retro",
+        "western",
+        "wild-west"
+    ],
+    "authors": [
+        {
+            "name": "Vuk Dobric",
+            "url": "https://danka-dobric.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwMjY5OTkwLnBuZw==/315x250%23c/SGKK5c.png"
+}

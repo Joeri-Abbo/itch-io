@@ -1,0 +1,31 @@
+{
+    "price": "$0.00",
+    "links": {
+        "self": "https://twoandahalfstudios.itch.io/a-date-with-death",
+        "comments": "https://twoandahalfstudios.itch.io/a-date-with-death/comments",
+        "devlog": "https://twoandahalfstudios.itch.io/a-date-with-death/devlog"
+    },
+    "id": 2077106,
+    "cover_image": "https://img.itch.zone/aW1nLzEzMjI3MDAyLnBuZw==/315x250%23c/kVaU3H.png",
+    "tags": [
+        "amare",
+        "chat-sim",
+        "chat-simulator",
+        "gay",
+        "lgbt",
+        "lgbtqia",
+        "message-simulator",
+        "otome",
+        "queer",
+        "romance",
+        "visual-novel"
+    ],
+    "title": "A Date with Death",
+    "authors": [
+        {
+            "name": "Two and a Half Studios",
+            "url": "https://twoandahalfstudios.itch.io"
+        }
+    ],
+    "rewards": {}
+}

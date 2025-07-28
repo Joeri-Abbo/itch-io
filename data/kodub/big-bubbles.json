@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Kodub",
+            "url": "https://kodub.itch.io"
+        }
+    ],
+    "id": 631266,
+    "price": "$0.00",
+    "tags": [
+        "2d",
+        "abstract",
+        "atmospheric",
+        "endless",
+        "high-score",
+        "mouse-only",
+        "music",
+        "relaxing",
+        "singleplayer",
+        "survival",
+        "touch-friendly"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzM0MTc1NDYuanBn/315x250%23c/NWBD3v.jpg",
+    "links": {
+        "self": "https://kodub.itch.io/big-bubbles",
+        "comments": "https://kodub.itch.io/big-bubbles/comments"
+    },
+    "title": "Big Bubbles"
+}

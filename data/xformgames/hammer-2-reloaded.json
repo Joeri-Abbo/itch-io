@@ -1,0 +1,24 @@
+{
+    "price": "$2.99",
+    "links": {
+        "comments": "https://xformgames.itch.io/hammer-2-reloaded/comments",
+        "self": "https://xformgames.itch.io/hammer-2-reloaded"
+    },
+    "authors": [
+        {
+            "name": "XformGames",
+            "url": "https://xformgames.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzQ0NDIyMDAucG5n/315x250%23c/3hJcJH.png",
+    "id": 321325,
+    "title": "Hammer 2 - Reloaded",
+    "tags": [
+        "3d",
+        "action",
+        "drm-free",
+        "explosions",
+        "shooter",
+        "third-person-shooter"
+    ]
+}

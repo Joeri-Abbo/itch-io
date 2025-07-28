@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Kronbits",
+            "url": "https://kronbits.itch.io"
+        }
+    ],
+    "id": 214807,
+    "price": "$0.00",
+    "tags": [
+        "16-bit",
+        "2d",
+        "8-bit",
+        "assets",
+        "cgtextures",
+        "game-assets",
+        "procedural",
+        "textures"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvMjE0ODA3LzEwNTM1MTEucG5n/315x250%23c/9h04xT.png",
+    "links": {
+        "self": "https://kronbits.itch.io/texatool"
+    },
+    "title": "TexaTool"
+}

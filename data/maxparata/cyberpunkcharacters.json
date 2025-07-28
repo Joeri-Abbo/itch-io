@@ -1,0 +1,30 @@
+{
+    "authors": [
+        {
+            "name": "maxparata",
+            "url": "https://maxparata.itch.io"
+        }
+    ],
+    "id": 2250406,
+    "price": "$0.00",
+    "tags": [
+        "3d",
+        "characters",
+        "cyberpunk",
+        "godot",
+        "isometric",
+        "low-poly",
+        "no-ai",
+        "pixel-art",
+        "top-down",
+        "unreal-engine",
+        "voxel"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEzMzQwODcyLnBuZw==/315x250%23c/DCzFAS.png",
+    "links": {
+        "devlog": "https://maxparata.itch.io/cyberpunkcharacters/devlog",
+        "self": "https://maxparata.itch.io/cyberpunkcharacters",
+        "comments": "https://maxparata.itch.io/cyberpunkcharacters/comments"
+    },
+    "title": "Voxel Cyberpunk Characters - monogon"
+}
