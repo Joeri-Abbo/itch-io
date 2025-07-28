@@ -2,6 +2,17 @@ import requests
 import xml.etree.ElementTree as ET
 import json
 from helper import get_creators, add_creator
+import argparse
+# https://itch.io/games/free.xml
+# http://itch.io/feed/new.xml
+
+
+parser = argparse.ArgumentParser(description="Example script")
+parser.add_argument("feed", help="The RSS feed URL to fetch")
+args = parser.parse_args()
+feed = args.feed
+
+
 def fetch_xml(url):
     try:
         response = requests.get(url)
@@ -48,7 +59,7 @@ if __name__ == "__main__":
     creators = get_creators()
 
     print("fetch.py module loaded successfully.")
-    xml_data = fetch_xml("https://itch.io/feed/new.xml")
+    xml_data = fetch_xml(feed)
     if xml_data:
         print("XML data fetched successfully.")
         try:
