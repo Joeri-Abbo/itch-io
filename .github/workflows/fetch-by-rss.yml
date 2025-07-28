@@ -1,0 +1,36 @@
+name: Fetch Games by Creator
+
+on:
+  workflow_dispatch:
+    inputs:
+      feed:
+        description: "The feed URL to fetch games from"
+        required: true
+        type: string
+        default: "http://itch.io/feed/new.xml"  
+      
+jobs:
+  fetch-games:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r python/requirements.txt
+
+      - name: Run fetch-by-creator.py
+        run: |
+          cd python
+          python fetch-rss.py "${{ github.event.inputs.feed }}"
+
+      - uses: stefanzweifel/git-auto-commit-action@v6.0.1
+        with:
+          commit_message: "Added games from feed ${{ github.event.inputs.feed }}"
