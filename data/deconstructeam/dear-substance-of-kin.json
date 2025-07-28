@@ -1,0 +1,31 @@
+{
+    "title": "Dear Substance of Kin",
+    "id": 415135,
+    "cover_image": "https://img.itch.zone/aW1nLzIwNjY4MjQuZ2lm/315x250%23c/gSpizK.gif",
+    "links": {
+        "devlog": "https://deconstructeam.itch.io/dear-substance-of-kin/devlog",
+        "comments": "https://deconstructeam.itch.io/dear-substance-of-kin/comments",
+        "self": "https://deconstructeam.itch.io/dear-substance-of-kin"
+    },
+    "tags": [
+        "adventure",
+        "dark-fantasy",
+        "exploration",
+        "horror",
+        "ludum-dare-44",
+        "narrative",
+        "non-linear",
+        "pixel-art",
+        "point-and-click"
+    ],
+    "authors": [
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        },
+        {
+            "name": "Ivan Papiol",
+            "url": "https://ivanpapiol.itch.io"
+        }
+    ]
+}

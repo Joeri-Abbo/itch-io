@@ -1,0 +1,36 @@
+{
+    "price": "$17.99",
+    "links": {
+        "comments": "https://devolverdigital.itch.io/the-cosmic-wheel-sisterhood/comments",
+        "self": "https://devolverdigital.itch.io/the-cosmic-wheel-sisterhood"
+    },
+    "authors": [
+        {
+            "name": "Devolver Digital",
+            "url": "https://devolverdigital.itch.io"
+        },
+        {
+            "name": "Ivan Papiol",
+            "url": "https://ivanpapiol.itch.io"
+        },
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEzNzQ5NzQ4LmpwZw==/315x250%23c/XW%2FvLn.jpg",
+    "id": 2321152,
+    "title": "The Cosmic Wheel Sisterhood",
+    "tags": [
+        "adventure",
+        "female-protagonist",
+        "fortune-telling",
+        "interactive-fiction",
+        "lgbt",
+        "pixel-art",
+        "story-rich",
+        "tarot",
+        "visual-novel",
+        "witch"
+    ]
+}

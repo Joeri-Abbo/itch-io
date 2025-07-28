@@ -1,0 +1,32 @@
+{
+    "authors": [
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        },
+        {
+            "name": "Ivan Papiol",
+            "url": "https://ivanpapiol.itch.io"
+        }
+    ],
+    "id": 571912,
+    "tags": [
+        "atmospheric",
+        "comics",
+        "interactive-fiction",
+        "lgbt",
+        "lgbtqia",
+        "narrative",
+        "point-and-click",
+        "short",
+        "simple",
+        "slice-of-life"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzMwMDk3OTYucG5n/315x250%23c/dmkAlv.png",
+    "links": {
+        "devlog": "https://deconstructeam.itch.io/the-bookshelf-limbo/devlog",
+        "self": "https://deconstructeam.itch.io/the-bookshelf-limbo",
+        "comments": "https://deconstructeam.itch.io/the-bookshelf-limbo/comments"
+    },
+    "title": "The Bookshelf Limbo"
+}

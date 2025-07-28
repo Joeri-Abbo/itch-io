@@ -1,0 +1,23 @@
+{
+    "links": {
+        "community": "https://jordidepaco.itch.io/reactivesoftware/community",
+        "self": "https://jordidepaco.itch.io/reactivesoftware"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE2MzEzNjYyLmpwZw==/315x250%23c/wRMXnW.jpg",
+    "tags": [
+        "boring",
+        "experimental",
+        "psychedelic",
+        "simple",
+        "visualization",
+        "weird"
+    ],
+    "id": 2734790,
+    "authors": [
+        {
+            "name": "Jordi de Paco",
+            "url": "https://jordidepaco.itch.io"
+        }
+    ],
+    "title": "ReactiveSoftware"
+}

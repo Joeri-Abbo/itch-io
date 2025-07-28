@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "Deconstructeam",
+            "url": "https://deconstructeam.itch.io"
+        }
+    ],
+    "id": 63800,
+    "tags": [
+        "cyberpunk",
+        "ludum-dare-35",
+        "other",
+        "pixel-art",
+        "pottery",
+        "transhumanism"
+    ],
+    "cover_image": "https://img.itch.zone/aW1hZ2UvNjM4MDAvMjg3OTI4LmdpZg==/315x250%23c/imBx9G.gif",
+    "links": {
+        "self": "https://deconstructeam.itch.io/zen-and-the-art-of-transhumanism",
+        "comments": "https://deconstructeam.itch.io/zen-and-the-art-of-transhumanism/comments"
+    },
+    "title": "Zen and the Art of Transhumanism"
+}
