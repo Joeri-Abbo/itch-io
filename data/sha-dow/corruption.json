@@ -1,0 +1,28 @@
+{
+    "authors": [
+        {
+            "name": "SHADOW",
+            "url": "https://sha-dow.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://sha-dow.itch.io/corruption",
+        "comments": "https://sha-dow.itch.io/corruption/comments"
+    },
+    "tags": [
+        "3d",
+        "3d-platformer",
+        "action",
+        "adventure",
+        "atmospheric",
+        "dark",
+        "no-ai",
+        "platformer",
+        "short",
+        "singleplayer",
+        "unreal-engine"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5NzM5ODg4LnBuZw==/315x250%23c/6o2xMI.png",
+    "title": "Corruption",
+    "id": 3280179
+}

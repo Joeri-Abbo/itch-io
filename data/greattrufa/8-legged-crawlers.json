@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Great Trufa",
+            "url": "https://greattrufa.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://greattrufa.itch.io/8-legged-crawlers",
+        "comments": "https://greattrufa.itch.io/8-legged-crawlers/comments"
+    },
+    "tags": [
+        "2d",
+        "arcade",
+        "godot",
+        "indie",
+        "no-ai",
+        "pixel-art",
+        "simple",
+        "singleplayer",
+        "survival"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzg2NjQ1LnBuZw==/315x250%23c/MMb6pz.png",
+    "title": "8 legged crawlers",
+    "id": 3759126
+}

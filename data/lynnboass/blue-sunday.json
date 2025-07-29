@@ -1,0 +1,38 @@
+{
+    "price": "$0.00",
+    "id": 854468,
+    "authors": [
+        {
+            "name": "Dukebot",
+            "url": "https://dukebot.itch.io"
+        },
+        {
+            "name": "LynnBoass",
+            "url": "https://lynnboass.itch.io"
+        },
+        {
+            "name": "GeistBlack",
+            "url": "https://geistblack.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "adventure",
+        "horror",
+        "mystery",
+        "other",
+        "pixel-art",
+        "psychological-horror",
+        "puzzle",
+        "retro",
+        "short",
+        "top-down"
+    ],
+    "links": {
+        "comments": "https://dukebot.itch.io/blue-sunday/comments",
+        "devlog": "https://dukebot.itch.io/blue-sunday/devlog",
+        "self": "https://dukebot.itch.io/blue-sunday"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzUxMzY0MjcucG5n/315x250%23c/ra42Q3.png",
+    "title": "Blue Sunday"
+}

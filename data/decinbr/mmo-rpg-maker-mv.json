@@ -1,0 +1,24 @@
+{
+    "price": "$45.00",
+    "id": 3361218,
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "tags": [
+        "mmorpg",
+        "no-ai",
+        "plugin",
+        "rpgmaker",
+        "rpgmakermv"
+    ],
+    "links": {
+        "comments": "https://decinbr.itch.io/mmo-rpg-maker-mv/comments",
+        "devlog": "https://decinbr.itch.io/mmo-rpg-maker-mv/devlog",
+        "self": "https://decinbr.itch.io/mmo-rpg-maker-mv"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIwMjQ2MjM1LmpwZw==/315x250%23c/is%2FH4O.jpg",
+    "title": "MMO - RPG Maker MV"
+}

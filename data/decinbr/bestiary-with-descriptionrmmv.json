@@ -1,0 +1,22 @@
+{
+    "price": "$5.00",
+    "id": 3346673,
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "tags": [
+        "no-ai",
+        "plugin",
+        "rpgmaker",
+        "rpgmakermv"
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/bestiary-with-descriptionrmmv",
+        "community": "https://decinbr.itch.io/bestiary-with-descriptionrmmv/community"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE5OTc3MjYzLmpwZw==/315x250%23c/zudDij.jpg",
+    "title": "Bestiary with Description(RMMV)"
+}

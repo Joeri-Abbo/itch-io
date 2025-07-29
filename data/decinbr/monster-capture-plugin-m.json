@@ -1,0 +1,25 @@
+{
+    "price": "$9.00",
+    "id": 3609534,
+    "title": "Monster Capture Plugin MZ-MV",
+    "cover_image": "https://img.itch.zone/aW1nLzIxNDg2MTY2LmpwZw==/315x250%23c/qn802o.jpg",
+    "links": {
+        "self": "https://decinbr.itch.io/monster-capture-plugin-m",
+        "comments": "https://decinbr.itch.io/monster-capture-plugin-m/comments"
+    },
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "tags": [
+        "capture",
+        "monsters",
+        "no-ai",
+        "plugin",
+        "rpgmaker",
+        "rpgmakermv",
+        "rpg-maker-mz"
+    ]
+}

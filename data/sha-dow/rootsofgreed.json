@@ -1,0 +1,35 @@
+{
+    "authors": [
+        {
+            "name": "YaBoyCJ",
+            "url": "https://yaboycj.itch.io"
+        },
+        {
+            "name": "Feyfeyfeyfeyfey",
+            "url": "https://feyfeyfeyfeyfey.itch.io"
+        },
+        {
+            "name": "SHADOW",
+            "url": "https://sha-dow.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://yaboycj.itch.io/rootsofgreed",
+        "comments": "https://yaboycj.itch.io/rootsofgreed/comments"
+    },
+    "tags": [
+        "combos",
+        "difficult",
+        "first-person",
+        "nature",
+        "no-ai",
+        "pixel-art",
+        "ps1",
+        "psx",
+        "shooter",
+        "weapons"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxNjc0OTY1LnBuZw==/315x250%23c/HzgQRF.png",
+    "title": "ROOTS OF GREED",
+    "id": 3635068
+}

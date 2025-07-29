@@ -1,0 +1,23 @@
+{
+    "price": "$30.00",
+    "id": 3322388,
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "tags": [
+        "no-ai",
+        "onlinestore",
+        "plugin",
+        "rpgmaker",
+        "rpg-maker-mz"
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/online-store-between-players-dont-need-a-server",
+        "comments": "https://decinbr.itch.io/online-store-between-players-dont-need-a-server/comments"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODY0MjM1LmpwZw==/315x250%23c/pe0nGr.jpg",
+    "title": "(RMMZ)Online Store between players (Dont need a server)"
+}

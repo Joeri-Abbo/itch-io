@@ -1,0 +1,24 @@
+{
+    "id": 3321793,
+    "links": {
+        "self": "https://decinbr.itch.io/very-easy-quest-systemrmmz",
+        "comments": "https://decinbr.itch.io/very-easy-quest-systemrmmz/comments"
+    },
+    "tags": [
+        "no-ai",
+        "plugin",
+        "quest",
+        "rmmz",
+        "rpgmaker",
+        "rpg-maker-mz"
+    ],
+    "title": "Very simple Quest System(RMMZ)",
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODY0MjM3LmpwZw==/315x250%23c/SVtwQc.jpg",
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "price": "$5.00"
+}

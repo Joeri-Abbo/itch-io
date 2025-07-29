@@ -1,0 +1,23 @@
+{
+    "price": "$0.00",
+    "id": 3751320,
+    "authors": [
+        {
+            "name": "nmr-games",
+            "url": "https://nmr-games.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "adventure",
+        "fighting",
+        "monsters",
+        "pixel-art"
+    ],
+    "links": {
+        "self": "https://nmr-games.itch.io/haruki-blood-of-the-ronin",
+        "comments": "https://nmr-games.itch.io/haruki-blood-of-the-ronin/comments"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzI4MTU0LnBuZw==/315x250%23c/KE9xLz.png",
+    "title": "Haruki :blood of the ronin (DEMO)"
+}

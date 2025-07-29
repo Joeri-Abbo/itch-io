@@ -1,0 +1,24 @@
+{
+    "id": 3325021,
+    "links": {
+        "comments": "https://decinbr.itch.io/video-galeery/comments",
+        "devlog": "https://decinbr.itch.io/video-galeery/devlog",
+        "self": "https://decinbr.itch.io/video-galeery"
+    },
+    "tags": [
+        "no-ai",
+        "plugin",
+        "rpgmaker",
+        "rpg-maker-mz",
+        "video"
+    ],
+    "title": "(RMMZ)Video Gallery",
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODUzOTczLmpwZw==/315x250%23c/KgZEqK.jpg",
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "price": "$10.00"
+}

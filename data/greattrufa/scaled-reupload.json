@@ -1,0 +1,25 @@
+{
+    "authors": [
+        {
+            "name": "Great Trufa",
+            "url": "https://greattrufa.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://greattrufa.itch.io/scaled-reupload",
+        "comments": "https://greattrufa.itch.io/scaled-reupload/comments"
+    },
+    "tags": [
+        "2d",
+        "godot",
+        "indie",
+        "no-ai",
+        "puzzle",
+        "rage",
+        "singleplayer",
+        "top-down"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODk0Nzc3LnBuZw==/315x250%23c/Y7m7I3.png",
+    "title": "Scaled (Reupload)",
+    "id": 3331786
+}

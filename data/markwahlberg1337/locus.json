@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "MarkWahlberg1337",
+            "url": "https://markwahlberg1337.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://markwahlberg1337.itch.io/locus",
+        "comments": "https://markwahlberg1337.itch.io/locus/comments"
+    },
+    "tags": [
+        "car",
+        "racing",
+        "time-attack",
+        "time-trial",
+        "traffic"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE1OTI3NzU0LnBuZw==/315x250%23c/hRtlBH.png",
+    "title": "Turbo Traffic",
+    "id": 2672661
+}

@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/auto-updaterwithout-serverrmmz-plugin",
+        "comments": "https://decinbr.itch.io/auto-updaterwithout-serverrmmz-plugin/comments"
+    },
+    "tags": [
+        "autoupdater",
+        "no-ai",
+        "plugin",
+        "rpgmaker",
+        "rpg-maker-mz",
+        "updater"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODc4MTk1LmpwZw==/315x250%23c/2brgyh.jpg",
+    "id": 3329129,
+    "title": "Auto Updater(Without Server)(RMMZ Plugin)",
+    "price": "$25.00"
+}

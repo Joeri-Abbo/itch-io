@@ -1,0 +1,29 @@
+{
+    "authors": [
+        {
+            "name": "Biosic Studios",
+            "url": "https://biosicstudios.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://biosicstudios.itch.io/420-clicks-later",
+        "comments": "https://biosicstudios.itch.io/420-clicks-later/comments"
+    },
+    "tags": [
+        "2d",
+        "420",
+        "ai-generated",
+        "ai-generated-code",
+        "ai-generated-graphics",
+        "brownie",
+        "clicker",
+        "html",
+        "other",
+        "point-and-click",
+        "singleplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzg1ODQzLnBuZw==/315x250%23c/Scip88.png",
+    "id": 3760410,
+    "title": "420 Clicks Later",
+    "price": "$0.00"
+}

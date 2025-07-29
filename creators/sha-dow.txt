@@ -1,0 +1,123 @@
+1:"$Sreact.fragment"
+2:I[7555,[],""]
+3:I[1295,[],""]
+5:I[9665,[],"OutletBoundary"]
+7:I[4911,[],"AsyncMetadataOutlet"]
+9:I[9665,[],"ViewportBoundary"]
+b:I[9665,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[8393,[],""]
+:HL["/_next/static/media/569ce4b8f30dc480-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/9f8443ebf156612e.css","style"]
+0:{"P":null,"b":"MqFL4VcsyvHyAbFnOWnct","p":"","c":["","creators","sha-dow"],"i":false,"f":[[["",{"children":["creators",{"children":[["creator","sha-dow","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9f8443ebf156612e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_5cfdac __variable_9a8899 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["creators",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["creator","sha-dow","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:T449,{
+  "id": 3167505,
+  "links": {
+    "self": "https://kennydominik.itch.io/ribbit-rider",
+    "comments": "https://kennydominik.itch.io/ribbit-rider/comments"
+  },
+  "tags": [
+    "frog",
+    "frogpunk",
+    "no-ai",
+    "other",
+    "punk",
+    "singleplayer",
+    "skating"
+  ],
+  "cover_image": "https://img.itch.zone/aW1nLzE4OTYyNjQxLnBuZw==/315x250%23c/487c7v.png",
+  "authors": [
+    {
+      "name": "kennydominik",
+      "url": "https://kennydominik.itch.io"
+    },
+    {
+      "name": "SHADOW",
+      "url": "https://sha-dow.itch.io"
+    },
+    {
+      "name": "cursed-bytes",
+      "url": "https://cursed-bytes.itch.io"
+    },
+    {
+      "name": "BiggestBug",
+      "url": "https://biggestbug.itch.io"
+    },
+    {
+      "name": "Magilou Provence",
+      "url": "https://magilou-provence.itch.io"
+    },
+    {
+      "name": "Feyfeyfeyfeyfey",
+      "url": "https://feyfeyfeyfeyfey.itch.io"
+    },
+    {
+      "name": "YaBoyCJ",
+      "url": "https://yaboycj.itch.io"
+    },
+    {
+      "name": "SherrySQL",
+      "url": "https://whoknowssql.itch.io"
+    }
+  ],
+  "title": "Ribbit Rider"
+}10:T40b,{
+  "id": 2412244,
+  "title": "The Cromch",
+  "cover_image": "https://img.itch.zone/aW1nLzE0MzY1Mjg3LnBuZw==/315x250%23c/uF%2F2C5.png",
+  "links": {
+    "self": "https://probablyjes.itch.io/thecromch",
+    "comments": "https://probablyjes.itch.io/thecromch/comments"
+  },
+  "authors": [
+    {
+      "name": "probablyjes",
+      "url": "https://probablyjes.itch.io"
+    },
+    {
+      "name": "Benni_Tr",
+      "url": "https://benni-tr.itch.io"
+    },
+    {
+      "name": "nervepoison",
+      "url": "https://nervepoison.itch.io"
+    },
+    {
+      "name": "Geru",
+      "url": "https://gerumos.itch.io"
+    },
+    {
+      "name": "SHADOW",
+      "url": "https://sha-dow.itch.io"
+    },
+    {
+      "name": "Enderryy",
+      "url": "https://enderryy.itch.io"
+    },
+    {
+      "name": "Bartalos",
+      "url": "https://bartalos.itch.io"
+    }
+  ],
+  "tags": [
+    "3d",
+    "christmas",
+    "cozy",
+    "fantasy",
+    "first-person",
+    "food",
+    "indie",
+    "monsters",
+    "shooter",
+    "singleplayer",
+    "unreal-engine"
+  ]
+}4:["$","div",null,{"children":[["$","h1",null,{"children":["Creator: ","sha-dow"]}],["$","ul",null,{"children":[["$","li","0",{"children":["$","pre",null,{"children":"{\n  \"authors\": [\n    {\n      \"name\": \"SHADOW\",\n      \"url\": \"https://sha-dow.itch.io\"\n    }\n  ],\n  \"links\": {\n    \"self\": \"https://sha-dow.itch.io/corruption\",\n    \"comments\": \"https://sha-dow.itch.io/corruption/comments\"\n  },\n  \"tags\": [\n    \"3d\",\n    \"3d-platformer\",\n    \"action\",\n    \"adventure\",\n    \"atmospheric\",\n    \"dark\",\n    \"no-ai\",\n    \"platformer\",\n    \"short\",\n    \"singleplayer\",\n    \"unreal-engine\"\n  ],\n  \"cover_image\": \"https://img.itch.zone/aW1nLzE5NzM5ODg4LnBuZw==/315x250%23c/6o2xMI.png\",\n  \"title\": \"Corruption\",\n  \"id\": 3280179\n}"}]}],["$","li","1",{"children":["$","pre",null,{"children":"{\n  \"links\": {\n    \"self\": \"https://sha-dow.itch.io/mind-tapes\",\n    \"comments\": \"https://sha-dow.itch.io/mind-tapes/comments\"\n  },\n  \"id\": 3759259,\n  \"tags\": [\n    \"no-ai\",\n    \"puzzle\"\n  ],\n  \"title\": \"Mind Tapes\",\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzg2NjY1LnBuZw==/315x250%23c/A%2BSSvr.png\",\n  \"authors\": [\n    {\n      \"name\": \"SHADOW\",\n      \"url\": \"https://sha-dow.itch.io\"\n    }\n  ]\n}"}]}],["$","li","2",{"children":["$","pre",null,{"children":"$f"}]}],["$","li","3",{"children":["$","pre",null,{"children":"{\n  \"authors\": [\n    {\n      \"name\": \"YaBoyCJ\",\n      \"url\": \"https://yaboycj.itch.io\"\n    },\n    {\n      \"name\": \"Feyfeyfeyfeyfey\",\n      \"url\": \"https://feyfeyfeyfeyfey.itch.io\"\n    },\n    {\n      \"name\": \"SHADOW\",\n      \"url\": \"https://sha-dow.itch.io\"\n    }\n  ],\n  \"links\": {\n    \"self\": \"https://yaboycj.itch.io/rootsofgreed\",\n    \"comments\": \"https://yaboycj.itch.io/rootsofgreed/comments\"\n  },\n  \"tags\": [\n    \"combos\",\n    \"difficult\",\n    \"first-person\",\n    \"nature\",\n    \"no-ai\",\n    \"pixel-art\",\n    \"ps1\",\n    \"psx\",\n    \"shooter\",\n    \"weapons\"\n  ],\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIxNjc0OTY1LnBuZw==/315x250%23c/HzgQRF.png\",\n  \"title\": \"ROOTS OF GREED\",\n  \"id\": 3635068\n}"}]}],["$","li","4",{"children":["$","pre",null,{"children":"$10"}]}],"$L11","$L12"]}]]}]
+11:["$","li","5",{"children":["$","pre",null,{"children":"{\n  \"authors\": [\n    {\n      \"name\": \"SHADOW\",\n      \"url\": \"https://sha-dow.itch.io\"\n    }\n  ],\n  \"links\": {\n    \"self\": \"https://sha-dow.itch.io/venom-of-god\",\n    \"comments\": \"https://sha-dow.itch.io/venom-of-god/comments\"\n  },\n  \"tags\": [\n    \"2d\",\n    \"atmospheric\",\n    \"creepy\",\n    \"horror\",\n    \"indie\",\n    \"pixel-art\",\n    \"platformer\",\n    \"singleplayer\",\n    \"suspense\",\n    \"unity\"\n  ],\n  \"cover_image\": \"https://img.itch.zone/aW1nLzE0NzgyODAxLmdpZg==/315x250%23c/XHRu6L.gif\",\n  \"title\": \"Venom of God\",\n  \"id\": 2481666\n}"}]}]
+12:["$","li","6",{"children":["$","pre",null,{"children":"{\n  \"id\": 2845892,\n  \"authors\": [\n    {\n      \"name\": \"SHADOW\",\n      \"url\": \"https://sha-dow.itch.io\"\n    }\n  ],\n  \"tags\": [],\n  \"links\": {\n    \"self\": \"https://sha-dow.itch.io/wao-the-fallen-circle\",\n    \"comments\": \"https://sha-dow.itch.io/wao-the-fallen-circle/comments\"\n  },\n  \"cover_image\": \"https://img.itch.zone/aW1nLzE3MDI1MzUyLmdpZg==/315x250%23c/Su9q0a.gif\",\n  \"title\": \"W.A.O. The Fallen Circle\"\n}"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+13:I[8175,[],"IconMark"]
+8:{"metadata":[["$","title","0",{"children":"Create Next App"}],["$","meta","1",{"name":"description","content":"Generated by create next app"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","$L13","3",{}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

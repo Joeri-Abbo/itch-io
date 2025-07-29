@@ -1,0 +1,20 @@
+{
+    "authors": [
+        {
+            "name": "Great Trufa",
+            "url": "https://greattrufa.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://greattrufa.itch.io/light-evader",
+        "comments": "https://greattrufa.itch.io/light-evader/comments"
+    },
+    "tags": [
+        "2d",
+        "arcade",
+        "survival"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4MzQ0ODg3LnBuZw==/315x250%23c/7C5fKB.png",
+    "title": "Light Evader",
+    "id": 3067351
+}

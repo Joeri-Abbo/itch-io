@@ -1,0 +1,52 @@
+{
+    "id": 3167505,
+    "links": {
+        "self": "https://kennydominik.itch.io/ribbit-rider",
+        "comments": "https://kennydominik.itch.io/ribbit-rider/comments"
+    },
+    "tags": [
+        "frog",
+        "frogpunk",
+        "no-ai",
+        "other",
+        "punk",
+        "singleplayer",
+        "skating"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4OTYyNjQxLnBuZw==/315x250%23c/487c7v.png",
+    "authors": [
+        {
+            "name": "kennydominik",
+            "url": "https://kennydominik.itch.io"
+        },
+        {
+            "name": "SHADOW",
+            "url": "https://sha-dow.itch.io"
+        },
+        {
+            "name": "cursed-bytes",
+            "url": "https://cursed-bytes.itch.io"
+        },
+        {
+            "name": "BiggestBug",
+            "url": "https://biggestbug.itch.io"
+        },
+        {
+            "name": "Magilou Provence",
+            "url": "https://magilou-provence.itch.io"
+        },
+        {
+            "name": "Feyfeyfeyfeyfey",
+            "url": "https://feyfeyfeyfeyfey.itch.io"
+        },
+        {
+            "name": "YaBoyCJ",
+            "url": "https://yaboycj.itch.io"
+        },
+        {
+            "name": "SherrySQL",
+            "url": "https://whoknowssql.itch.io"
+        }
+    ],
+    "title": "Ribbit Rider"
+}

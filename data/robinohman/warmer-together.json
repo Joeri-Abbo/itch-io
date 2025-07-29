@@ -1,0 +1,20 @@
+{
+    "authors": [
+        {
+            "name": "RobinOhman",
+            "url": "https://robinohman.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://robinohman.itch.io/warmer-together",
+        "comments": "https://robinohman.itch.io/warmer-together/comments"
+    },
+    "tags": [
+        "3d",
+        "co-op",
+        "puzzle"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzg2NjYyLnBuZw==/315x250%23c/idaPsp.png",
+    "title": "Warmer Together",
+    "id": 3760607
+}

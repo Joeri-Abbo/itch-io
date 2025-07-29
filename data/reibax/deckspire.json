@@ -1,0 +1,33 @@
+{
+    "price": "$0.00",
+    "id": 3724896,
+    "title": "Deckspire",
+    "cover_image": "https://img.itch.zone/aW1nLzIyMjQzNDAwLnBuZw==/315x250%23c/ZcSDcL.png",
+    "links": {
+        "self": "https://reibax.itch.io/deckspire",
+        "comments": "https://reibax.itch.io/deckspire/comments"
+    },
+    "authors": [
+        {
+            "name": "Reibax",
+            "url": "https://reibax.itch.io"
+        },
+        {
+            "name": "Tokpary",
+            "url": "https://tokpary.itch.io"
+        },
+        {
+            "name": "KaZeR",
+            "url": "https://kazerhd.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "3d",
+        "atmospheric",
+        "card-game",
+        "deck-building",
+        "no-ai",
+        "pixel-art"
+    ]
+}

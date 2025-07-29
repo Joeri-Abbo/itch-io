@@ -1,0 +1,32 @@
+{
+    "id": 1555743,
+    "links": {
+        "self": "https://mattrhu.itch.io/rubble-rumble",
+        "comments": "https://mattrhu.itch.io/rubble-rumble/comments"
+    },
+    "tags": [
+        "2d",
+        "action",
+        "controller",
+        "fighting",
+        "hand-drawn",
+        "local-multiplayer",
+        "multiplayer"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzkwNzc3OTEucG5n/315x250%23c/0lcPLn.png",
+    "authors": [
+        {
+            "name": "Matt - Rhu",
+            "url": "https://mattrhu.itch.io"
+        },
+        {
+            "name": "Wood",
+            "url": "https://woooooood.itch.io"
+        },
+        {
+            "name": "Shaaken",
+            "url": "https://shaaken.itch.io"
+        }
+    ],
+    "title": "Rubble Rumble"
+}
