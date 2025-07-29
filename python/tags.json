@@ -1,0 +1,2378 @@
+[
+    {
+        "name": "No AI",
+        "url": "/games/tag-no-ai"
+    },
+    {
+        "name": "Horror",
+        "url": "/games/tag-horror"
+    },
+    {
+        "name": "2D",
+        "url": "/games/tag-2d"
+    },
+    {
+        "name": "Pixel Art",
+        "url": "/games/tag-pixel-art"
+    },
+    {
+        "name": "Singleplayer",
+        "url": "/games/tag-singleplayer"
+    },
+    {
+        "name": "Visual Novel",
+        "url": "/games/genre-visual-novel"
+    },
+    {
+        "name": "Adventure",
+        "url": "/games/genre-adventure"
+    },
+    {
+        "name": "3D",
+        "url": "/games/tag-3d"
+    },
+    {
+        "name": "Role Playing",
+        "url": "/games/genre-rpg"
+    },
+    {
+        "name": "Short",
+        "url": "/games/tag-short"
+    },
+    {
+        "name": "Retro",
+        "url": "/games/tag-retro"
+    },
+    {
+        "name": "Fantasy",
+        "url": "/games/tag-fantasy"
+    },
+    {
+        "name": "Atmospheric",
+        "url": "/games/tag-atmospheric"
+    },
+    {
+        "name": "Action",
+        "url": "/games/genre-action"
+    },
+    {
+        "name": "Platformer",
+        "url": "/games/genre-platformer"
+    },
+    {
+        "name": "Romance",
+        "url": "/games/tag-romance"
+    },
+    {
+        "name": "First-Person",
+        "url": "/games/tag-first-person"
+    },
+    {
+        "name": "Cute",
+        "url": "/games/tag-cute"
+    },
+    {
+        "name": "Puzzle",
+        "url": "/games/genre-puzzle"
+    },
+    {
+        "name": "Tabletop role-playing game",
+        "url": "/physical-games/tag-ttrpg"
+    },
+    {
+        "name": "Simulation",
+        "url": "/games/genre-simulation"
+    },
+    {
+        "name": "Psychological Horror",
+        "url": "/games/tag-psychological-horror"
+    },
+    {
+        "name": "Indie",
+        "url": "/games/tag-indie"
+    },
+    {
+        "name": "Story Rich",
+        "url": "/games/tag-story-rich"
+    },
+    {
+        "name": "Interactive Fiction",
+        "url": "/games/tag-interactive-fiction"
+    },
+    {
+        "name": "Creepy",
+        "url": "/games/tag-creepy"
+    },
+    {
+        "name": "Survival",
+        "url": "/games/tag-survival"
+    },
+    {
+        "name": "Unity",
+        "url": "/games/tag-unity"
+    },
+    {
+        "name": "Sci-fi",
+        "url": "/games/tag-science-fiction"
+    },
+    {
+        "name": "LGBT",
+        "url": "/games/tag-lgbt"
+    },
+    {
+        "name": "Top-Down",
+        "url": "/games/tag-top-down"
+    },
+    {
+        "name": "Sprites",
+        "url": "/game-assets/tag-sprites"
+    },
+    {
+        "name": "Dark",
+        "url": "/games/tag-dark"
+    },
+    {
+        "name": "Female Protagonist",
+        "url": "/games/tag-female-protagonist"
+    },
+    {
+        "name": "Anime",
+        "url": "/games/tag-anime"
+    },
+    {
+        "name": "Narrative",
+        "url": "/games/tag-narrative"
+    },
+    {
+        "name": "Casual",
+        "url": "/games/tag-casual"
+    },
+    {
+        "name": "RPG Maker",
+        "url": "/games/tag-rpgmaker"
+    },
+    {
+        "name": "Tabletop",
+        "url": "/physical-games/tag-tabletop"
+    },
+    {
+        "name": "Shooter",
+        "url": "/games/genre-shooter"
+    },
+    {
+        "name": "Asset Pack",
+        "url": "/game-assets/tag-asset-pack"
+    },
+    {
+        "name": "Strategy",
+        "url": "/games/genre-strategy"
+    },
+    {
+        "name": "Dating Sim",
+        "url": "/games/tag-dating-sim"
+    },
+    {
+        "name": "Low-poly",
+        "url": "/games/tag-low-poly"
+    },
+    {
+        "name": "Comedy",
+        "url": "/games/tag-comedy"
+    },
+    {
+        "name": "Arcade",
+        "url": "/games/tag-arcade"
+    },
+    {
+        "name": "Mystery",
+        "url": "/games/tag-mystery"
+    },
+    {
+        "name": "Godot",
+        "url": "/games/tag-godot"
+    },
+    {
+        "name": "Roguelike",
+        "url": "/games/tag-roguelike"
+    },
+    {
+        "name": "Exploration",
+        "url": "/games/tag-exploration"
+    },
+    {
+        "name": "Gay",
+        "url": "/games/tag-gay"
+    },
+    {
+        "name": "PSX (PlayStation)",
+        "url": "/games/tag-psx"
+    },
+    {
+        "name": "Multiplayer",
+        "url": "/games/tag-multiplayer"
+    },
+    {
+        "name": "Multiple Endings",
+        "url": "/games/tag-multiple-endings"
+    },
+    {
+        "name": "Tileset",
+        "url": "/game-assets/tag-tileset"
+    },
+    {
+        "name": "Music",
+        "url": "/games/tag-music"
+    },
+    {
+        "name": "Space",
+        "url": "/games/tag-space"
+    },
+    {
+        "name": "Point & Click",
+        "url": "/games/tag-point-and-click"
+    },
+    {
+        "name": "Funny",
+        "url": "/games/tag-funny"
+    },
+    {
+        "name": "Solo RPG",
+        "url": "/physical-games/tag-solo-rpg"
+    },
+    {
+        "name": "Ren'Py",
+        "url": "/games/tag-renpy"
+    },
+    {
+        "name": "Cozy",
+        "url": "/games/tag-cozy"
+    },
+    {
+        "name": "Characters",
+        "url": "/game-assets/tag-characters"
+    },
+    {
+        "name": "8-Bit",
+        "url": "/games/tag-8-bit"
+    },
+    {
+        "name": "Furry",
+        "url": "/games/tag-furry"
+    },
+    {
+        "name": "OSR",
+        "url": "/physical-games/tag-osr"
+    },
+    {
+        "name": "Survival Horror",
+        "url": "/games/tag-survival-horror"
+    },
+    {
+        "name": "AI Generated",
+        "url": "/games/tag-ai-generated"
+    },
+    {
+        "name": "Card Game",
+        "url": "/games/tag-card-game"
+    },
+    {
+        "name": "Relaxing",
+        "url": "/games/tag-relaxing"
+    },
+    {
+        "name": "Monsters",
+        "url": "/games/tag-monsters"
+    },
+    {
+        "name": "Dungeon Crawler",
+        "url": "/games/tag-dungeon-crawler"
+    },
+    {
+        "name": "16-bit",
+        "url": "/games/tag-16-bit"
+    },
+    {
+        "name": "Otome",
+        "url": "/games/tag-otome"
+    },
+    {
+        "name": "Queer",
+        "url": "/games/tag-queer"
+    },
+    {
+        "name": "Fangame",
+        "url": "/games/tag-fangame"
+    },
+    {
+        "name": "Experimental",
+        "url": "/games/tag-experimental"
+    },
+    {
+        "name": "Dark Fantasy",
+        "url": "/games/tag-dark-fantasy"
+    },
+    {
+        "name": "zine",
+        "url": "/games/tag-zine"
+    },
+    {
+        "name": "Unreal Engine",
+        "url": "/games/tag-unreal-engine"
+    },
+    {
+        "name": "Surreal",
+        "url": "/games/tag-surreal"
+    },
+    {
+        "name": "GameMaker",
+        "url": "/games/tag-gamemaker"
+    },
+    {
+        "name": "Hand-drawn",
+        "url": "/games/tag-hand-drawn"
+    },
+    {
+        "name": "Minimalist",
+        "url": "/games/tag-minimalist"
+    },
+    {
+        "name": "16x16",
+        "url": "/game-assets/tag-16x16"
+    },
+    {
+        "name": "journaling",
+        "url": "/physical-games/tag-journaling"
+    },
+    {
+        "name": "Text based",
+        "url": "/games/tag-text-based"
+    },
+    {
+        "name": "weird",
+        "url": "/games/tag-weird"
+    },
+    {
+        "name": "Animals",
+        "url": "/games/tag-animals"
+    },
+    {
+        "name": "Side Scroller",
+        "url": "/games/tag-side-scroller"
+    },
+    {
+        "name": "Roguelite",
+        "url": "/games/tag-roguelite"
+    },
+    {
+        "name": "Cyberpunk",
+        "url": "/games/tag-cyberpunk"
+    },
+    {
+        "name": "JRPG",
+        "url": "/games/tag-jrpg"
+    },
+    {
+        "name": "LGBTQIA",
+        "url": "/games/tag-lgbtqia"
+    },
+    {
+        "name": "Game Boy",
+        "url": "/games/tag-gameboy"
+    },
+    {
+        "name": "Colorful",
+        "url": "/games/tag-colorful"
+    },
+    {
+        "name": "GM-Less",
+        "url": "/physical-games/tag-gmless"
+    },
+    {
+        "name": "Fighting",
+        "url": "/games/tag-fighting"
+    },
+    {
+        "name": "storygame",
+        "url": "/physical-games/tag-storygame"
+    },
+    {
+        "name": "Slice Of Life",
+        "url": "/games/tag-slice-of-life"
+    },
+    {
+        "name": "Difficult",
+        "url": "/games/tag-difficult"
+    },
+    {
+        "name": "artgame",
+        "url": "/games/tag-artgame"
+    },
+    {
+        "name": "User Interface (UI)",
+        "url": "/game-assets/tag-user-interface"
+    },
+    {
+        "name": "Animation",
+        "url": "/game-assets/tag-animation"
+    },
+    {
+        "name": "Magic",
+        "url": "/games/tag-magic"
+    },
+    {
+        "name": "Medieval",
+        "url": "/games/tag-medieval"
+    },
+    {
+        "name": "Procedural Generation",
+        "url": "/games/tag-procedural"
+    },
+    {
+        "name": "Action-Adventure",
+        "url": "/games/tag-action-adventure"
+    },
+    {
+        "name": "Walking simulator",
+        "url": "/games/tag-walking-simulator"
+    },
+    {
+        "name": "Fast-Paced",
+        "url": "/games/tag-fast-paced"
+    },
+    {
+        "name": "Meaningful Choices",
+        "url": "/games/tag-meaningful-choices"
+    },
+    {
+        "name": "Spooky",
+        "url": "/games/tag-spooky"
+    },
+    {
+        "name": "Educational",
+        "url": "/games/tag-educational"
+    },
+    {
+        "name": "FPS",
+        "url": "/games/tag-fps"
+    },
+    {
+        "name": "Turn-based",
+        "url": "/games/tag-turn-based"
+    },
+    {
+        "name": "Shoot 'Em Up",
+        "url": "/games/tag-shoot-em-up"
+    },
+    {
+        "name": "Physics",
+        "url": "/games/tag-physics"
+    },
+    {
+        "name": "Tilemap",
+        "url": "/game-assets/tag-tilemap"
+    },
+    {
+        "name": "Local multiplayer",
+        "url": "/games/local-multiplayer"
+    },
+    {
+        "name": "Yuri",
+        "url": "/games/tag-yuri"
+    },
+    {
+        "name": "One-page",
+        "url": "/physical-games/tag-one-page"
+    },
+    {
+        "name": "Cats",
+        "url": "/games/tag-cats"
+    },
+    {
+        "name": "Action RPG",
+        "url": "/games/tag-action-rpg"
+    },
+    {
+        "name": "Farming",
+        "url": "/games/tag-farming"
+    },
+    {
+        "name": "Icons",
+        "url": "/game-assets/tag-icons"
+    },
+    {
+        "name": "One-shot",
+        "url": "/physical-games/tag-one-shot"
+    },
+    {
+        "name": "Racing",
+        "url": "/games/tag-racing"
+    },
+    {
+        "name": "Rhythm",
+        "url": "/games/tag-rhythm"
+    },
+    {
+        "name": "Idle",
+        "url": "/games/tag-idle"
+    },
+    {
+        "name": "Transgender",
+        "url": "/games/tag-transgender"
+    },
+    {
+        "name": "PICO-8",
+        "url": "/games/tag-pico-8"
+    },
+    {
+        "name": "Metroidvania",
+        "url": "/games/tag-metroidvania"
+    },
+    {
+        "name": "Character Customization",
+        "url": "/games/tag-character-customization"
+    },
+    {
+        "name": "Puzzle-Platformer",
+        "url": "/games/tag-puzzle-platformer"
+    },
+    {
+        "name": "Audio",
+        "url": "/game-assets/tag-audio"
+    },
+    {
+        "name": "3D Platformer",
+        "url": "/games/tag-3d-platformer"
+    },
+    {
+        "name": "Mouse only",
+        "url": "/games/tag-mouse-only"
+    },
+    {
+        "name": "Lesbian",
+        "url": "/games/tag-lesbian"
+    },
+    {
+        "name": "Sandbox",
+        "url": "/games/tag-sandbox"
+    },
+    {
+        "name": "Bullet Hell",
+        "url": "/games/tag-bullet-hell"
+    },
+    {
+        "name": "Dice",
+        "url": "/games/tag-dice"
+    },
+    {
+        "name": "Dungeons & Dragons",
+        "url": "/physical-games/tag-dungeons-and-dragons"
+    },
+    {
+        "name": "Comics",
+        "url": "/books/tag-comics"
+    },
+    {
+        "name": "Backgrounds",
+        "url": "/game-assets/tag-backgrounds"
+    },
+    {
+        "name": "nature",
+        "url": "/games/tag-nature"
+    },
+    {
+        "name": "Post-apocalyptic",
+        "url": "/games/tag-post-apocalyptic"
+    },
+    {
+        "name": "32x32",
+        "url": "/game-assets/tag-32x32"
+    },
+    {
+        "name": "Yaoi",
+        "url": "/games/tag-yaoi"
+    },
+    {
+        "name": "Graphical User Interface (GUI)",
+        "url": "/game-assets/tag-gui"
+    },
+    {
+        "name": "Co-op",
+        "url": "/games/tag-co-op"
+    },
+    {
+        "name": "Clicker",
+        "url": "/games/tag-clicker"
+    },
+    {
+        "name": "Amare",
+        "url": "/games/tag-amare"
+    },
+    {
+        "name": "Print & Play",
+        "url": "/physical-games/tag-print-and-play"
+    },
+    {
+        "name": "Abstract",
+        "url": "/games/tag-abstract"
+    },
+    {
+        "name": "Management",
+        "url": "/games/tag-management"
+    },
+    {
+        "name": "Farming Simulator 25",
+        "url": "/game-mods/tag-farming-simulator-25"
+    },
+    {
+        "name": "Incremental",
+        "url": "/games/tag-incremental"
+    },
+    {
+        "name": "supernatural",
+        "url": "/games/tag-supernatural"
+    },
+    {
+        "name": "Top down shooter",
+        "url": "/games/tag-top-down-shooter"
+    },
+    {
+        "name": "rules-lite",
+        "url": "/physical-games/tag-rules-lite"
+    },
+    {
+        "name": "Royalty Free",
+        "url": "/game-assets/tag-royalty-free"
+    },
+    {
+        "name": "Detective",
+        "url": "/games/tag-detective"
+    },
+    {
+        "name": "Robots",
+        "url": "/games/tag-robots"
+    },
+    {
+        "name": "Isometric",
+        "url": "/games/tag-isometric"
+    },
+    {
+        "name": "Virtual Reality (VR)",
+        "url": "/games/tag-virtual-reality"
+    },
+    {
+        "name": "Boys' Love",
+        "url": "/games/tag-boys-love"
+    },
+    {
+        "name": "Halloween",
+        "url": "/games/tag-halloween"
+    },
+    {
+        "name": "Boss battle",
+        "url": "/games/tag-boss-battle"
+    },
+    {
+        "name": "Twine",
+        "url": "/games/tag-twine"
+    },
+    {
+        "name": "minigames",
+        "url": "/games/tag-minigames"
+    },
+    {
+        "name": "Zombies",
+        "url": "/games/tag-zombies"
+    },
+    {
+        "name": "Ghosts",
+        "url": "/games/tag-ghosts"
+    },
+    {
+        "name": "Farming Simulator",
+        "url": "/game-mods/tag-farming-simulator"
+    },
+    {
+        "name": "Aliens",
+        "url": "/games/tag-aliens"
+    },
+    {
+        "name": "Third Person",
+        "url": "/games/tag-third-person"
+    },
+    {
+        "name": "Tower Defense",
+        "url": "/games/tag-tower-defense"
+    },
+    {
+        "name": "High Score",
+        "url": "/games/tag-high-score"
+    },
+    {
+        "name": "Non violent",
+        "url": "/games/tag-non-violent"
+    },
+    {
+        "name": "Two Player",
+        "url": "/physical-games/tag-two-player"
+    },
+    {
+        "name": "Open World",
+        "url": "/games/tag-open-world"
+    },
+    {
+        "name": "RPG Maker MZ",
+        "url": "/games/tag-rpg-maker-mz"
+    },
+    {
+        "name": "City Builder",
+        "url": "/games/tag-city-builder"
+    },
+    {
+        "name": "Endless",
+        "url": "/games/tag-endless"
+    },
+    {
+        "name": "Dark Humor",
+        "url": "/games/tag-dark-humor"
+    },
+    {
+        "name": "1-bit",
+        "url": "/games/tag-1-bit"
+    },
+    {
+        "name": "Simple",
+        "url": "/games/tag-simple"
+    },
+    {
+        "name": "Sports",
+        "url": "/games/genre-sports"
+    },
+    {
+        "name": "Vampire",
+        "url": "/games/tag-vampire"
+    },
+    {
+        "name": "Thriller",
+        "url": "/games/tag-thriller"
+    },
+    {
+        "name": "Historical",
+        "url": "/games/tag-historical"
+    },
+    {
+        "name": "Cartoon",
+        "url": "/games/tag-cartoon"
+    },
+    {
+        "name": "Black and White",
+        "url": "/games/tag-black-and-white"
+    },
+    {
+        "name": "Forest",
+        "url": "/games/tag-forest"
+    },
+    {
+        "name": "Deck Building",
+        "url": "/games/tag-deck-building"
+    },
+    {
+        "name": "Mechs",
+        "url": "/games/tag-mechs"
+    },
+    {
+        "name": "Board Game",
+        "url": "/games/tag-board-game"
+    },
+    {
+        "name": "Escape Game",
+        "url": "/games/tag-escape-game"
+    },
+    {
+        "name": "Stealth",
+        "url": "/games/tag-stealth"
+    },
+    {
+        "name": "Crafting",
+        "url": "/games/tag-crafting"
+    },
+    {
+        "name": "Open Source",
+        "url": "/games/tag-open-source"
+    },
+    {
+        "name": "Sound effects",
+        "url": "/game-assets/tag-sound-effects"
+    },
+    {
+        "name": "Speedrun",
+        "url": "/games/tag-speedrun"
+    },
+    {
+        "name": "Tactical",
+        "url": "/games/tag-tactical"
+    },
+    {
+        "name": "Game Design",
+        "url": "/games/tag-game-design"
+    },
+    {
+        "name": "Turn-Based Combat",
+        "url": "/games/tag-turn-based-combat"
+    },
+    {
+        "name": "Bara",
+        "url": "/games/tag-bara"
+    },
+    {
+        "name": "Fonts",
+        "url": "/game-assets/tag-fonts"
+    },
+    {
+        "name": "Food",
+        "url": "/games/tag-food"
+    },
+    {
+        "name": "Dystopian",
+        "url": "/games/tag-dystopian"
+    },
+    {
+        "name": "Creative",
+        "url": "/games/tag-creative"
+    },
+    {
+        "name": "Parody",
+        "url": "/games/tag-parody"
+    },
+    {
+        "name": "Controller",
+        "url": "/games/tag-controller"
+    },
+    {
+        "name": "Blender",
+        "url": "/game-assets/tag-blender"
+    },
+    {
+        "name": "War",
+        "url": "/games/tag-war"
+    },
+    {
+        "name": "Drawing",
+        "url": "/games/tag-drawing"
+    },
+    {
+        "name": "Generator",
+        "url": "/games/tag-generator"
+    },
+    {
+        "name": "Game Boy ROM",
+        "url": "/games/tag-gameboy-rom"
+    },
+    {
+        "name": "jumping",
+        "url": "/games/tag-jumping"
+    },
+    {
+        "name": "chiptune",
+        "url": "/games/tag-chiptune"
+    },
+    {
+        "name": "Cooking",
+        "url": "/games/tag-cooking"
+    },
+    {
+        "name": "Life Simulation",
+        "url": "/games/tag-life-simulation"
+    },
+    {
+        "name": "Mental Health",
+        "url": "/games/tag-mental-health"
+    },
+    {
+        "name": "Homebrew",
+        "url": "/games/tag-homebrew"
+    },
+    {
+        "name": "Art Book",
+        "url": "/books/tag-art-book"
+    },
+    {
+        "name": "Gore",
+        "url": "/games/tag-gore"
+    },
+    {
+        "name": "Bitsy",
+        "url": "/games/tag-bitsy"
+    },
+    {
+        "name": "Futuristic",
+        "url": "/games/tag-futuristic"
+    },
+    {
+        "name": "party-game",
+        "url": "/games/tag-party-game"
+    },
+    {
+        "name": "Weapons",
+        "url": "/game-assets/tag-weapons"
+    },
+    {
+        "name": "Five Nights at Freddy's",
+        "url": "/games/tag-fnaf"
+    },
+    {
+        "name": "PbtA",
+        "url": "/physical-games/tag-pbta"
+    },
+    {
+        "name": "Real time strategy",
+        "url": "/games/tag-real-time-strategy"
+    },
+    {
+        "name": "Commodore 64",
+        "url": "/games/tag-commodore-64"
+    },
+    {
+        "name": "Playdate",
+        "url": "/games/tag-playdate"
+    },
+    {
+        "name": "Aseprite",
+        "url": "/games/tag-aseprite"
+    },
+    {
+        "name": "Turn-based Strategy",
+        "url": "/games/tag-turn-based-strategy"
+    },
+    {
+        "name": "Voice Acting",
+        "url": "/games/tag-voice-acting"
+    },
+    {
+        "name": "My First Game Jam",
+        "url": "/games/tag-my-first-game-jam"
+    },
+    {
+        "name": "Male protagonist",
+        "url": "/games/tag-male-protagonist"
+    },
+    {
+        "name": "Western",
+        "url": "/games/tag-western"
+    },
+    {
+        "name": "PNG",
+        "url": "/game-assets/tag-png"
+    },
+    {
+        "name": "Crime",
+        "url": "/games/tag-crime"
+    },
+    {
+        "name": "Dragons",
+        "url": "/games/tag-dragons"
+    },
+    {
+        "name": "maze",
+        "url": "/games/tag-maze"
+    },
+    {
+        "name": "Farming Simulator 22",
+        "url": "/game-mods/tag-farming-simulator-22"
+    },
+    {
+        "name": "NES (Nintendo Entertainment System)",
+        "url": "/games/tag-nes"
+    },
+    {
+        "name": "Textures",
+        "url": "/game-assets/tag-textures"
+    },
+    {
+        "name": "DRM Free",
+        "url": "/games/tag-drm-free"
+    },
+    {
+        "name": "Voxel",
+        "url": "/games/tag-voxel"
+    },
+    {
+        "name": "Lo-fi",
+        "url": "/games/tag-lo-fi"
+    },
+    {
+        "name": "Dogs",
+        "url": "/games/tag-dogs"
+    },
+    {
+        "name": "upgrades",
+        "url": "/games/tag-upgrades"
+    },
+    {
+        "name": "Driving",
+        "url": "/games/tag-driving"
+    },
+    {
+        "name": "Virtual Pet",
+        "url": "/games/tag-virtual-pet"
+    },
+    {
+        "name": "Tarot",
+        "url": "/games/tag-tarot"
+    },
+    {
+        "name": "Pirates",
+        "url": "/games/tag-pirates"
+    },
+    {
+        "name": "Game engine",
+        "url": "/tools/tag-game-engine"
+    },
+    {
+        "name": "suspense",
+        "url": "/games/tag-suspense"
+    },
+    {
+        "name": "Forged in the Dark",
+        "url": "/physical-games/tag-forged-in-the-dark"
+    },
+    {
+        "name": "Supplement",
+        "url": "/physical-games/tag-supplement"
+    },
+    {
+        "name": "Gothic",
+        "url": "/games/tag-gothic"
+    },
+    {
+        "name": "Local Co-Op",
+        "url": "/games/tag-local-co-op"
+    },
+    {
+        "name": "Dreams",
+        "url": "/games/tag-dreams"
+    },
+    {
+        "name": "Top Down Adventure",
+        "url": "/games/tag-top-down-adventure"
+    },
+    {
+        "name": "Runner",
+        "url": "/games/tag-runner"
+    },
+    {
+        "name": "RPG Maker MV",
+        "url": "/games/tag-rpg-maker-mv"
+    },
+    {
+        "name": "Effects",
+        "url": "/game-assets/tag-effects"
+    },
+    {
+        "name": "blocks",
+        "url": "/games/tag-blocks"
+    },
+    {
+        "name": "Lovecraftian Horror",
+        "url": "/games/tag-lovecraft"
+    },
+    {
+        "name": "underwater",
+        "url": "/games/tag-underwater"
+    },
+    {
+        "name": "Kinetic Novel",
+        "url": "/games/tag-kinetic-novel"
+    },
+    {
+        "name": "Souls-like",
+        "url": "/games/tag-souls-like"
+    },
+    {
+        "name": "Swords",
+        "url": "/games/tag-swords"
+    },
+    {
+        "name": "Time Travel",
+        "url": "/games/tag-time-travel"
+    },
+    {
+        "name": "mythology",
+        "url": "/games/tag-mythology"
+    },
+    {
+        "name": "Prototype",
+        "url": "/games/tag-prototype"
+    },
+    {
+        "name": "Alternate History",
+        "url": "/games/tag-alternate-history"
+    },
+    {
+        "name": "psychedelic",
+        "url": "/games/tag-psychedelic"
+    },
+    {
+        "name": "micro-rpg",
+        "url": "/physical-games/tag-micro-rpg"
+    },
+    {
+        "name": "secrets",
+        "url": "/games/tag-secrets"
+    },
+    {
+        "name": "Fishing",
+        "url": "/games/tag-fishing"
+    },
+    {
+        "name": "Superhero",
+        "url": "/games/tag-superhero"
+    },
+    {
+        "name": "ZX Spectrum",
+        "url": "/games/tag-zx-spectrum"
+    },
+    {
+        "name": "gamepad",
+        "url": "/games/tag-gamepad"
+    },
+    {
+        "name": "Violent",
+        "url": "/games/tag-violent"
+    },
+    {
+        "name": "Beat 'em up",
+        "url": "/games/tag-beat-em-up"
+    },
+    {
+        "name": "Project template",
+        "url": "/game-assets/tag-template"
+    },
+    {
+        "name": "satire",
+        "url": "/games/tag-satire"
+    },
+    {
+        "name": "Liminal space",
+        "url": "/games/tag-liminal-space"
+    },
+    {
+        "name": "Music Production",
+        "url": "/tools/tag-music-production"
+    },
+    {
+        "name": "sourcecode",
+        "url": "/games/tag-sourcecode"
+    },
+    {
+        "name": "Hexcrawl",
+        "url": "/physical-games/tag-hexcrawl"
+    },
+    {
+        "name": "Tactical RPG",
+        "url": "/games/tag-tactical-rpg"
+    },
+    {
+        "name": "L\u00d6VE",
+        "url": "/games/tag-love2d"
+    },
+    {
+        "name": "Family Friendly",
+        "url": "/games/tag-family-friendly"
+    },
+    {
+        "name": "Frogs",
+        "url": "/games/tag-frog"
+    },
+    {
+        "name": "Ludum Dare",
+        "url": "/games/tag-ludum-dare"
+    },
+    {
+        "name": "Level Editor",
+        "url": "/tools/tag-level-editor"
+    },
+    {
+        "name": "Folklore",
+        "url": "/games/tag-folklore"
+    },
+    {
+        "name": "Global Game Jam",
+        "url": "/games/tag-global-game-jam"
+    },
+    {
+        "name": "Remake",
+        "url": "/games/tag-remake"
+    },
+    {
+        "name": "Twin Stick Shooter",
+        "url": "/games/tag-twin-stick-shooter"
+    },
+    {
+        "name": "Christmas",
+        "url": "/games/tag-christmas"
+    },
+    {
+        "name": "Immersive",
+        "url": "/games/tag-immersive"
+    },
+    {
+        "name": "Modern",
+        "url": "/game-assets/tag-modern"
+    },
+    {
+        "name": "Noir",
+        "url": "/games/tag-noir"
+    },
+    {
+        "name": "Vector",
+        "url": "/games/tag-vector"
+    },
+    {
+        "name": "Automation",
+        "url": "/games/tag-automation"
+    },
+    {
+        "name": "Typing",
+        "url": "/games/tag-typing"
+    },
+    {
+        "name": "ascii",
+        "url": "/games/tag-ascii"
+    },
+    {
+        "name": "Sokoban",
+        "url": "/games/tag-sokoban"
+    },
+    {
+        "name": "Meme",
+        "url": "/games/tag-meme"
+    },
+    {
+        "name": "artificial-intelligence",
+        "url": "/games/tag-artificial-intelligence"
+    },
+    {
+        "name": "Undertale",
+        "url": "/games/tag-undertale"
+    },
+    {
+        "name": "glitch",
+        "url": "/games/tag-glitch"
+    },
+    {
+        "name": "Hack and Slash",
+        "url": "/games/tag-hack-and-slash"
+    },
+    {
+        "name": "Parkour",
+        "url": "/games/tag-parkour"
+    },
+    {
+        "name": "Score Attack",
+        "url": "/games/tag-score-attack"
+    },
+    {
+        "name": "PvP",
+        "url": "/games/tag-pvp"
+    },
+    {
+        "name": "Space Sim",
+        "url": "/games/tag-space-sim"
+    },
+    {
+        "name": "Touhou",
+        "url": "/games/tag-touhou"
+    },
+    {
+        "name": "Modular",
+        "url": "/game-assets/tag-modular"
+    },
+    {
+        "name": "Photorealistic",
+        "url": "/games/tag-photorealistic"
+    },
+    {
+        "name": "Buttons",
+        "url": "/game-assets/tag-buttons"
+    },
+    {
+        "name": "Tycoon",
+        "url": "/games/tag-tycoon"
+    },
+    {
+        "name": "Painting",
+        "url": "/games/tag-painting"
+    },
+    {
+        "name": "Doom",
+        "url": "/games/tag-doom"
+    },
+    {
+        "name": "Strategy RPG",
+        "url": "/games/tag-strategy-rpg"
+    },
+    {
+        "name": "Friday Night Funkin' (FNF)",
+        "url": "/game-mods/tag-fnf"
+    },
+    {
+        "name": "Sprunki",
+        "url": "/games/tag-sprunki"
+    },
+    {
+        "name": "Flight",
+        "url": "/games/tag-flight"
+    },
+    {
+        "name": "solitaire",
+        "url": "/games/tag-solitaire"
+    },
+    {
+        "name": "rpglatam",
+        "url": "/physical-games/tag-rpglatam"
+    },
+    {
+        "name": "Gravity",
+        "url": "/games/tag-gravity"
+    },
+    {
+        "name": "Tutorial",
+        "url": "/games/tag-tutorial"
+    },
+    {
+        "name": "Ludum Dare 57",
+        "url": "/games/tag-ludum-dare-57"
+    },
+    {
+        "name": "Baldi's Basics",
+        "url": "/game-mods/tag-baldis-basics"
+    },
+    {
+        "name": "Troika",
+        "url": "/physical-games/tag-troika"
+    },
+    {
+        "name": "Touch-Friendly",
+        "url": "/games/tag-touch-friendly"
+    },
+    {
+        "name": "Loot",
+        "url": "/games/tag-loot"
+    },
+    {
+        "name": "Incredibox",
+        "url": "/games/tag-incredibox"
+    },
+    {
+        "name": "Wizards",
+        "url": "/games/tag-wizards"
+    },
+    {
+        "name": "Itch Funding",
+        "url": "/physical-games/tag-itchfunding"
+    },
+    {
+        "name": "Period Piece",
+        "url": "/games/tag-period-piece"
+    },
+    {
+        "name": "Manga",
+        "url": "/games/tag-manga"
+    },
+    {
+        "name": "Hex Based",
+        "url": "/games/tag-hex-based"
+    },
+    {
+        "name": "Steampunk",
+        "url": "/games/tag-steampunk"
+    },
+    {
+        "name": "Tetris",
+        "url": "/games/tag-tetris"
+    },
+    {
+        "name": "Time Attack",
+        "url": "/games/tag-time-attack"
+    },
+    {
+        "name": "parallax",
+        "url": "/games/tag-parallax"
+    },
+    {
+        "name": "Desktop Pet",
+        "url": "/games/tag-desktop-pet"
+    },
+    {
+        "name": "relationship",
+        "url": "/games/tag-relationship"
+    },
+    {
+        "name": "Math",
+        "url": "/games/tag-math"
+    },
+    {
+        "name": "Slime",
+        "url": "/games/tag-slime"
+    },
+    {
+        "name": "Amiga",
+        "url": "/games/tag-amiga"
+    },
+    {
+        "name": "creepypasta",
+        "url": "/games/tag-creepypasta"
+    },
+    {
+        "name": "diceless",
+        "url": "/physical-games/tag-diceless"
+    },
+    {
+        "name": "Coming Of Age",
+        "url": "/games/tag-coming-of-age"
+    },
+    {
+        "name": "Endless Runner",
+        "url": "/games/tag-endless-runner"
+    },
+    {
+        "name": "Chess",
+        "url": "/games/tag-chess"
+    },
+    {
+        "name": "Word game",
+        "url": "/games/tag-word-game"
+    },
+    {
+        "name": "Fanzine",
+        "url": "/comics/tag-fanzine"
+    },
+    {
+        "name": "PuzzleScript",
+        "url": "/games/tag-puzzlescript"
+    },
+    {
+        "name": "Versus",
+        "url": "/games/tag-versus"
+    },
+    {
+        "name": "Third-Person Shooter",
+        "url": "/games/tag-third-person-shooter"
+    },
+    {
+        "name": "Dinosaurs",
+        "url": "/games/tag-dinosaurs"
+    },
+    {
+        "name": "Gorilla Tag",
+        "url": "/games/tag-gorilla-tag"
+    },
+    {
+        "name": "one-button",
+        "url": "/games/tag-one-button"
+    },
+    {
+        "name": "Synthwave",
+        "url": "/games/tag-synthwave"
+    },
+    {
+        "name": "NES ROM",
+        "url": "/games/tag-nes-rom"
+    },
+    {
+        "name": "Cult Classic",
+        "url": "/games/tag-cult-classic"
+    },
+    {
+        "name": "infinite-runner",
+        "url": "/games/tag-infinite-runner"
+    },
+    {
+        "name": "LARP",
+        "url": "/physical-games/tag-larp"
+    },
+    {
+        "name": "Explosions",
+        "url": "/games/tag-explosions"
+    },
+    {
+        "name": "Game Maker's Toolkit Jam",
+        "url": "/games/tag-gmtkjam"
+    },
+    {
+        "name": "atari",
+        "url": "/games/tag-atari"
+    },
+    {
+        "name": "Vehicles",
+        "url": "/game-assets/tag-vehicles"
+    },
+    {
+        "name": "mind-bending",
+        "url": "/games/tag-mind-bending"
+    },
+    {
+        "name": "Oculus Quest",
+        "url": "/games/tag-oculus-quest"
+    },
+    {
+        "name": "Real-Time",
+        "url": "/games/tag-real-time"
+    },
+    {
+        "name": "Slasher",
+        "url": "/games/tag-slasher"
+    },
+    {
+        "name": "Flying",
+        "url": "/games/tag-flying"
+    },
+    {
+        "name": "MMORPG",
+        "url": "/games/tag-mmorpg"
+    },
+    {
+        "name": "Economy",
+        "url": "/games/tag-economy"
+    },
+    {
+        "name": "lyric-game",
+        "url": "/physical-games/tag-lyric-game"
+    },
+    {
+        "name": "Destruction",
+        "url": "/games/tag-destruction"
+    },
+    {
+        "name": "Superpowers",
+        "url": "/games/tag-superpowers"
+    },
+    {
+        "name": "Neon",
+        "url": "/games/tag-neon"
+    },
+    {
+        "name": "Construct 2",
+        "url": "/games/tag-construct-2"
+    },
+    {
+        "name": "Heist",
+        "url": "/games/tag-heist"
+    },
+    {
+        "name": "Game Boy Advance",
+        "url": "/games/tag-gameboy-advance"
+    },
+    {
+        "name": "Skeletons",
+        "url": "/games/tag-skeletons"
+    },
+    {
+        "name": "Feel Good",
+        "url": "/games/tag-feel-good"
+    },
+    {
+        "name": "Sims 4",
+        "url": "/game-mods/tag-sims-4"
+    },
+    {
+        "name": "Demake",
+        "url": "/games/tag-demake"
+    },
+    {
+        "name": "Tanks",
+        "url": "/games/tag-tanks"
+    },
+    {
+        "name": "Victorian",
+        "url": "/games/tag-victorian"
+    },
+    {
+        "name": "Mega Drive",
+        "url": "/games/tag-mega-drive"
+    },
+    {
+        "name": "Minecraft",
+        "url": "/games/tag-minecraft"
+    },
+    {
+        "name": "Magical Realism",
+        "url": "/games/tag-magical-realism"
+    },
+    {
+        "name": "Fairy Tale",
+        "url": "/games/tag-fairy-tale"
+    },
+    {
+        "name": "Asteroids",
+        "url": "/games/tag-asteroids"
+    },
+    {
+        "name": "Flappy Bird",
+        "url": "/games/tag-flappy-bird"
+    },
+    {
+        "name": "filipino",
+        "url": "/games/tag-filipino"
+    },
+    {
+        "name": "video",
+        "url": "/games/tag-video"
+    },
+    {
+        "name": "Sega Genesis",
+        "url": "/games/tag-sega-genesis"
+    },
+    {
+        "name": "Shaders",
+        "url": "/game-assets/tag-shaders"
+    },
+    {
+        "name": "Emulator",
+        "url": "/games/tag-emulator"
+    },
+    {
+        "name": "Working Simulator",
+        "url": "/games/tag-working-simulator"
+    },
+    {
+        "name": "Ninja",
+        "url": "/games/tag-ninja"
+    },
+    {
+        "name": "Hacking",
+        "url": "/games/tag-hacking"
+    },
+    {
+        "name": "8x8",
+        "url": "/game-assets/tag-8x8"
+    },
+    {
+        "name": "Classes",
+        "url": "/games/tag-classes"
+    },
+    {
+        "name": "Split Screen",
+        "url": "/games/tag-split-screen"
+    },
+    {
+        "name": "FBX",
+        "url": "/game-assets/tag-fbx"
+    },
+    {
+        "name": "Breakout",
+        "url": "/games/tag-breakout"
+    },
+    {
+        "name": "Spoopy",
+        "url": "/games/tag-spoopy"
+    },
+    {
+        "name": "Gacha",
+        "url": "/games/tag-gacha"
+    },
+    {
+        "name": "Trains",
+        "url": "/games/tag-trains"
+    },
+    {
+        "name": "Webcomic",
+        "url": "/comics/tag-webcomic"
+    },
+    {
+        "name": "belonging-outside-belonging",
+        "url": "/physical-games/tag-belonging-outside-belonging"
+    },
+    {
+        "name": "Models",
+        "url": "/game-assets/tag-models"
+    },
+    {
+        "name": "FPS Platformer",
+        "url": "/games/tag-fps-platformer"
+    },
+    {
+        "name": "sworddream",
+        "url": "/physical-games/tag-sworddream"
+    },
+    {
+        "name": "VRChat",
+        "url": "/game-assets/tag-vrchat"
+    },
+    {
+        "name": "Gardening",
+        "url": "/games/tag-gardening"
+    },
+    {
+        "name": "Moddable",
+        "url": "/games/tag-moddable"
+    },
+    {
+        "name": "Gacha Club",
+        "url": "/game-mods/tag-gacha-club"
+    },
+    {
+        "name": "Streaming",
+        "url": "/games/tag-streaming"
+    },
+    {
+        "name": "Nonlinear",
+        "url": "/games/tag-non-linear"
+    },
+    {
+        "name": "pastel",
+        "url": "/games/tag-pastel"
+    },
+    {
+        "name": "Chicken",
+        "url": "/games/tag-chicken"
+    },
+    {
+        "name": "Amstrad CPC",
+        "url": "/games/tag-amstrad-cpc"
+    },
+    {
+        "name": "Mountains",
+        "url": "/games/tag-mountains"
+    },
+    {
+        "name": "Quiz",
+        "url": "/games/tag-quiz"
+    },
+    {
+        "name": "Massively multiplayer",
+        "url": "/games/tag-massively-multiplayer"
+    },
+    {
+        "name": "Golf",
+        "url": "/games/tag-golf"
+    },
+    {
+        "name": "Norse",
+        "url": "/games/tag-norse"
+    },
+    {
+        "name": "combos",
+        "url": "/games/tag-combos"
+    },
+    {
+        "name": "moe",
+        "url": "/games/tag-moe"
+    },
+    {
+        "name": "Altgame",
+        "url": "/games/tag-altgame"
+    },
+    {
+        "name": "Urban",
+        "url": "/games/tag-urban"
+    },
+    {
+        "name": "World War II",
+        "url": "/games/tag-world-war-ii"
+    },
+    {
+        "name": "Hidden Object",
+        "url": "/games/tag-hidden-object"
+    },
+    {
+        "name": "Perma Death",
+        "url": "/games/tag-perma-death"
+    },
+    {
+        "name": "Picross",
+        "url": "/games/tag-picross"
+    },
+    {
+        "name": "Visualization",
+        "url": "/games/tag-visualization"
+    },
+    {
+        "name": "HyperCard",
+        "url": "/games/tag-hypercard"
+    },
+    {
+        "name": "Soccer",
+        "url": "/games/tag-soccer"
+    },
+    {
+        "name": "Dreamcast",
+        "url": "/games/tag-dreamcast"
+    },
+    {
+        "name": "Soundtoy",
+        "url": "/games/tag-soundtoy"
+    },
+    {
+        "name": "LOWREZJAM",
+        "url": "/games/tag-lowrezjam"
+    },
+    {
+        "name": "Internet",
+        "url": "/games/tag-internet"
+    },
+    {
+        "name": "GBJam",
+        "url": "/games/tag-gbjam"
+    },
+    {
+        "name": "Ludum Dare 46",
+        "url": "/games/tag-ludum-dare-46"
+    },
+    {
+        "name": "Football",
+        "url": "/games/tag-football"
+    },
+    {
+        "name": "Kickstarter",
+        "url": "/games/tag-kickstarter"
+    },
+    {
+        "name": "Traps",
+        "url": "/games/tag-traps"
+    },
+    {
+        "name": "Horses",
+        "url": "/games/tag-horses"
+    },
+    {
+        "name": "Ludum Dare 48",
+        "url": "/games/tag-ludum-dare-48"
+    },
+    {
+        "name": "Roadtrip",
+        "url": "/games/tag-roadtrip"
+    },
+    {
+        "name": "Nonogram",
+        "url": "/games/tag-nonogram"
+    },
+    {
+        "name": "Brain Training",
+        "url": "/games/tag-brain-training"
+    },
+    {
+        "name": "Doujinshi",
+        "url": "/comics/tag-doujinshi"
+    },
+    {
+        "name": "Ciphers",
+        "url": "/games/tag-ciphers"
+    },
+    {
+        "name": "Nintendo 64",
+        "url": "/games/tag-nintendo64"
+    },
+    {
+        "name": "Ludum Dare 54",
+        "url": "/games/tag-ludum-dare-54"
+    },
+    {
+        "name": "Trading",
+        "url": "/games/tag-trading"
+    },
+    {
+        "name": "business-card",
+        "url": "/physical-games/tag-business-card"
+    },
+    {
+        "name": "Minesweeper",
+        "url": "/games/tag-minesweeper"
+    },
+    {
+        "name": "On-Rails Shooter",
+        "url": "/games/tag-on-rails-shooter"
+    },
+    {
+        "name": "Gender",
+        "url": "/games/tag-gender"
+    },
+    {
+        "name": "DOS",
+        "url": "/games/tag-dos"
+    },
+    {
+        "name": "Ludum Dare 41",
+        "url": "/games/tag-ludum-dare-41"
+    },
+    {
+        "name": "Playstation Portable",
+        "url": "/games/tag-psp"
+    },
+    {
+        "name": "Ludum Dare 38",
+        "url": "/games/tag-ludum-dare-38"
+    },
+    {
+        "name": "Ludum Dare 42",
+        "url": "/games/tag-ludum-dare-42"
+    },
+    {
+        "name": "MSX",
+        "url": "/games/tag-msx"
+    },
+    {
+        "name": "fantasy-console",
+        "url": "/games/tag-fantasy-console"
+    },
+    {
+        "name": "Ludum Dare 55",
+        "url": "/games/tag-ludum-dare-55"
+    },
+    {
+        "name": "Instrument",
+        "url": "/games/tag-instrument"
+    },
+    {
+        "name": "Survivor-like",
+        "url": "/games/tag-survivor-like"
+    },
+    {
+        "name": "Ludum Dare 44",
+        "url": "/games/tag-ludum-dare-44"
+    },
+    {
+        "name": "Modeling",
+        "url": "/games/tag-modeling"
+    },
+    {
+        "name": "Team-Based",
+        "url": "/games/tag-team-based"
+    },
+    {
+        "name": "Ludum Dare 50",
+        "url": "/games/tag-ludum-dare-50"
+    },
+    {
+        "name": "Wild West",
+        "url": "/games/tag-wild-west"
+    },
+    {
+        "name": "Siren Head",
+        "url": "/games/tag-siren-head"
+    },
+    {
+        "name": "Arena Shooter",
+        "url": "/games/tag-arena-shooter"
+    },
+    {
+        "name": "lone-survivor",
+        "url": "/games/tag-lone-survivor"
+    },
+    {
+        "name": "TyranoBuilder",
+        "url": "/games/tag-tyranobuilder"
+    },
+    {
+        "name": "Sailing",
+        "url": "/games/tag-sailing"
+    },
+    {
+        "name": "VST",
+        "url": "/tools/tag-vst"
+    },
+    {
+        "name": "Horrible",
+        "url": "/games/tag-horrible"
+    },
+    {
+        "name": "ENDESGA 32",
+        "url": "/game-assets/tag-endesga-32"
+    },
+    {
+        "name": "Episodic",
+        "url": "/games/tag-episodic"
+    },
+    {
+        "name": "non-eucledian",
+        "url": "/games/tag-non-eucledian"
+    },
+    {
+        "name": "Oculus Rift",
+        "url": "/games/tag-oculus-rift"
+    },
+    {
+        "name": "SVG",
+        "url": "/game-assets/tag-svg"
+    },
+    {
+        "name": "Ludum Dare 49",
+        "url": "/games/tag-ludum-dare-49"
+    },
+    {
+        "name": "Ludum Dare 45",
+        "url": "/games/tag-ludum-dare-45"
+    },
+    {
+        "name": "VTT",
+        "url": "/physical-games/tag-vtt"
+    },
+    {
+        "name": "Ludum Dare 40",
+        "url": "/games/tag-ludum-dare-40"
+    },
+    {
+        "name": "Suika Game",
+        "url": "/games/tag-suika-game"
+    },
+    {
+        "name": "Ludum Dare 43",
+        "url": "/games/tag-ludum-dare-43"
+    },
+    {
+        "name": "Seven Day Roguelike Challenge",
+        "url": "/games/tag-7drl"
+    },
+    {
+        "name": "Shadows",
+        "url": "/games/tag-shadows"
+    },
+    {
+        "name": "Brushes",
+        "url": "/game-assets/tag-brushes"
+    },
+    {
+        "name": "4X",
+        "url": "/games/tag-4x"
+    },
+    {
+        "name": "Trijam",
+        "url": "/games/tag-trijam"
+    },
+    {
+        "name": "WAV",
+        "url": "/game-assets/tag-wav"
+    },
+    {
+        "name": "stop-motion",
+        "url": "/games/tag-stop-motion"
+    },
+    {
+        "name": "MS-DOS",
+        "url": "/games/tag-ms-dos"
+    },
+    {
+        "name": "memoir",
+        "url": "/games/tag-memoir"
+    },
+    {
+        "name": "PROCJAM",
+        "url": "/games/tag-procjam"
+    },
+    {
+        "name": "Pizza Tower",
+        "url": "/games/tag-pizza-tower"
+    },
+    {
+        "name": "Ludum Dare 47",
+        "url": "/games/tag-ludum-dare-47"
+    },
+    {
+        "name": "Skating",
+        "url": "/games/tag-skating"
+    },
+    {
+        "name": "Pinball",
+        "url": "/games/tag-pinball"
+    },
+    {
+        "name": "7dfps",
+        "url": "/games/tag-7dfps"
+    },
+    {
+        "name": "one-hit-kill",
+        "url": "/games/tag-one-hit-kill"
+    },
+    {
+        "name": "Ludum Dare 53",
+        "url": "/games/tag-ludum-dare-53"
+    },
+    {
+        "name": "Railroad",
+        "url": "/games/tag-railroad"
+    },
+    {
+        "name": "live-action",
+        "url": "/games/tag-live-action"
+    },
+    {
+        "name": "Ludum Dare 51",
+        "url": "/games/tag-ludum-dare-51"
+    },
+    {
+        "name": "Ludum Dare 56",
+        "url": "/games/tag-ludum-dare-56"
+    },
+    {
+        "name": "Ludum Dare 37",
+        "url": "/games/tag-ludum-dare-37"
+    },
+    {
+        "name": "trashcore",
+        "url": "/games/tag-trashcore"
+    },
+    {
+        "name": "Grayscale",
+        "url": "/games/tag-grayscale"
+    },
+    {
+        "name": "watercolor",
+        "url": "/games/tag-watercolor"
+    },
+    {
+        "name": "Zero Gravity",
+        "url": "/games/tag-zero-gravity"
+    },
+    {
+        "name": "Nuclear Throne",
+        "url": "/game-mods/tag-nuclear-throne"
+    },
+    {
+        "name": "deathmatch",
+        "url": "/games/tag-deathmatch"
+    },
+    {
+        "name": "TurboGrafx-16",
+        "url": "/games/tag-turbografx"
+    },
+    {
+        "name": "Movement Shooter",
+        "url": "/games/tag-movement-shooter"
+    },
+    {
+        "name": "flat-shading",
+        "url": "/games/tag-flat-shading"
+    },
+    {
+        "name": "Archery",
+        "url": "/games/tag-archery"
+    },
+    {
+        "name": "discord",
+        "url": "/games/tag-discord"
+    },
+    {
+        "name": "FMV",
+        "url": "/games/tag-fmv"
+    },
+    {
+        "name": "Ludum Dare 52",
+        "url": "/games/tag-ludum-dare-52"
+    },
+    {
+        "name": "Ludum Dare 39",
+        "url": "/games/tag-ludum-dare-39"
+    },
+    {
+        "name": "MIDI",
+        "url": "/games/tag-midi"
+    },
+    {
+        "name": "Wordle",
+        "url": "/games/tag-wordle"
+    },
+    {
+        "name": "Tentacles",
+        "url": "/games/tag-tentacles"
+    },
+    {
+        "name": "Two colors",
+        "url": "/games/tag-two-colors"
+    },
+    {
+        "name": "Ludum Dare 35",
+        "url": "/games/tag-ludum-dare-35"
+    },
+    {
+        "name": "libGDX",
+        "url": "/games/tag-libgdx"
+    },
+    {
+        "name": "monsterhearts",
+        "url": "/physical-games/tag-monsterhearts"
+    },
+    {
+        "name": "SHARECART1000",
+        "url": "/games/tag-sharecart1000"
+    },
+    {
+        "name": "mashup",
+        "url": "/games/tag-mashup"
+    },
+    {
+        "name": "Nuclear Throne Together",
+        "url": "/game-mods/tag-ntt"
+    },
+    {
+        "name": "Dicey Dungeons",
+        "url": "/game-mods/tag-dicey-dungeons"
+    },
+    {
+        "name": "Unicorns",
+        "url": "/games/tag-unicorns"
+    },
+    {
+        "name": "norway",
+        "url": "/games/tag-norway"
+    },
+    {
+        "name": "Ludum Dare 36",
+        "url": "/games/tag-ludum-dare-36"
+    },
+    {
+        "name": "Ludum Dare 34",
+        "url": "/games/tag-ludum-dare-34"
+    },
+    {
+        "name": "World War I",
+        "url": "/games/tag-world-war-i"
+    },
+    {
+        "name": "sitting-simulator",
+        "url": "/games/tag-sitting-simulator"
+    },
+    {
+        "name": "Stencyl",
+        "url": "/games/tag-stencyl"
+    },
+    {
+        "name": "Rotation",
+        "url": "/games/tag-rotation"
+    },
+    {
+        "name": "binaural",
+        "url": "/games/tag-binaural"
+    },
+    {
+        "name": "DOOM WAD",
+        "url": "/games/tag-doom-wad"
+    },
+    {
+        "name": "job-system",
+        "url": "/games/tag-job-system"
+    },
+    {
+        "name": "SFML",
+        "url": "/games/tag-sfml"
+    },
+    {
+        "name": "TIC-80",
+        "url": "/games/tag-tic-80"
+    },
+    {
+        "name": "GitHub",
+        "url": "/games/tag-github"
+    },
+    {
+        "name": "Ludum Dare 33",
+        "url": "/games/tag-ludum-dare-33"
+    },
+    {
+        "name": "voice-controlled",
+        "url": "/games/tag-voice-controlled"
+    },
+    {
+        "name": "Augmented Reality",
+        "url": "/games/tag-augmented-reality"
+    },
+    {
+        "name": "VTT Battlemaps",
+        "url": "/physical-games/tag-vtt-battlemaps"
+    },
+    {
+        "name": "Wobbly",
+        "url": "/games/tag-wobbly"
+    },
+    {
+        "name": "Ludum Dare 30",
+        "url": "/games/tag-ludum-dare-30"
+    },
+    {
+        "name": "boxing",
+        "url": "/games/tag-boxing"
+    },
+    {
+        "name": "screensaver",
+        "url": "/games/tag-screensaver"
+    },
+    {
+        "name": "VIC-20",
+        "url": "/games/tag-vic-20"
+    },
+    {
+        "name": "Barfcade",
+        "url": "/games/tag-barfcade"
+    },
+    {
+        "name": "Ludum Dare 31",
+        "url": "/games/tag-ludum-dare-31"
+    },
+    {
+        "name": "Kung Fu",
+        "url": "/games/tag-kung-fu"
+    },
+    {
+        "name": "Boring",
+        "url": "/games/tag-boring"
+    },
+    {
+        "name": "Tennis",
+        "url": "/games/tag-tennis"
+    },
+    {
+        "name": "ggj15",
+        "url": "/games/tag-ggj15"
+    },
+    {
+        "name": "Ludum Dare 29",
+        "url": "/games/tag-ludum-dare-29"
+    },
+    {
+        "name": "Trivia",
+        "url": "/games/tag-trivia"
+    },
+    {
+        "name": "tablet",
+        "url": "/games/tag-tablet"
+    },
+    {
+        "name": "Perspective",
+        "url": "/games/tag-perspective"
+    },
+    {
+        "name": "Ludum Dare 32",
+        "url": "/games/tag-ludum-dare-32"
+    },
+    {
+        "name": "Celtic",
+        "url": "/games/tag-celtic"
+    },
+    {
+        "name": "Leap Motion",
+        "url": "/games/tag-leap-motion"
+    },
+    {
+        "name": "1GAM",
+        "url": "/games/tag-1gam"
+    },
+    {
+        "name": "picoCAD",
+        "url": "/game-assets/tag-picocad"
+    },
+    {
+        "name": "Basketball",
+        "url": "/games/tag-basketball"
+    },
+    {
+        "name": "kinect",
+        "url": "/games/tag-kinect"
+    },
+    {
+        "name": "Global Game Jam 2020",
+        "url": "/games/tag-ggj2020"
+    },
+    {
+        "name": "Corona SDK",
+        "url": "/games/tag-corona-sdk"
+    }
+]

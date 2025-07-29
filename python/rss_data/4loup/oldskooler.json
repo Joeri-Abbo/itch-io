@@ -1,0 +1,16 @@
+{
+    "guid": "https://4loup.itch.io/oldskooler",
+    "title": "Oldskooler [$19.99] [Windows]",
+    "plainTitle": "Oldskooler",
+    "imageurl": "https://img.itch.zone/aW1hZ2UvNzExMzkvMzMxNjA5LmdpZg==/315x250%23c/Tbbg7g.gif",
+    "price": "$19.99",
+    "currency": "USD",
+    "link": "https://4loup.itch.io/oldskooler",
+    "description": "Retro gaming FX for Unreal Engine\n<img alt=\"Oldskooler\" src=\"https://img.itch.zone/aW1hZ2UvNzExMzkvMzMxNjA5LmdpZg==/315x250%23c/Tbbg7g.gif\"/>",
+    "pubDate": "Fri, 10 Jun 2016 00:07:28 GMT",
+    "createDate": "Fri, 10 Jun 2016 00:07:28 GMT",
+    "updateDate": "Fri, 24 Nov 2017 10:19:12 GMT",
+    "platforms": {
+        "windows": "yes"
+    }
+}

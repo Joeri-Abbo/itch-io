@@ -1,0 +1,16 @@
+{
+    "guid": "https://odditica.itch.io/bktglitch",
+    "title": "bktGlitch [Free]",
+    "plainTitle": "bktGlitch",
+    "imageurl": "https://img.itch.zone/aW1hZ2UvMjA5NDg1Lzk4MjQ1Mi5naWY=/315x250%23c/j5ka2f.gif",
+    "price": "$0.00",
+    "currency": "USD",
+    "link": "https://odditica.itch.io/bktglitch",
+    "description": "A glitch shader for GameMaker: Studio.\n<img alt=\"bktGlitch\" src=\"https://img.itch.zone/aW1hZ2UvMjA5NDg1Lzk4MjQ1Mi5naWY=/315x250%23c/j5ka2f.gif\"/>",
+    "pubDate": "Tue, 26 Dec 2017 21:47:17 GMT",
+    "createDate": "Tue, 26 Dec 2017 21:47:17 GMT",
+    "updateDate": "Sat, 02 Jul 2022 18:29:26 GMT",
+    "platforms": {
+        "html": "yes"
+    }
+}

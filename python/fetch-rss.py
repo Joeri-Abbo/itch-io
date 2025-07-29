@@ -4,6 +4,7 @@ import json
 from helper import get_creators, add_creator
 import argparse
 # https://itch.io/games/free.xml
+# https://itch.io/game-assets/tag-effects.xml
 # http://itch.io/feed/new.xml
 
 

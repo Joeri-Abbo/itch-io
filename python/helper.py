@@ -37,6 +37,7 @@ def fetch_games_of_creators(
 def fetch_games_of_creator(
     creator: str
 ):
+    new_games = False
     data_dir = get_data_dir()
     url = f"https://{creator}.itch.io/"
     # fetch html of page
@@ -69,6 +70,7 @@ def fetch_games_of_creator(
                 if os.path.exists(game_file_path):
                     print(f"Game file {game_file_path} already exists, skipping.")
                     continue
+                new_games = True
                 data = requests.get(f"{game_link}/data.json").json()
                 if data:
                     with open(game_file_path, 'w') as game_file:
@@ -78,3 +80,4 @@ def fetch_games_of_creator(
                 print(f"Error fetching game {game_name} for creator {creator}: {e}")
     else:
         print(f"Failed to fetch page for {creator}, status code: {response.status_code}")
+    return new_games
