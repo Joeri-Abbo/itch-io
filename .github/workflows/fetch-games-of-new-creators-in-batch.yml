@@ -1,4 +1,4 @@
-name: Fetch Games for New Creators
+name: Fetch Games for New Creators in batch
 
 on:
   workflow_dispatch:
