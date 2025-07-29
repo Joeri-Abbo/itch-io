@@ -2,10 +2,6 @@ name: Fetch Games for New Creators in batch
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - "python/creators.json"
-
 jobs:
   fetch-new-creators:
     runs-on: ubuntu-latest
