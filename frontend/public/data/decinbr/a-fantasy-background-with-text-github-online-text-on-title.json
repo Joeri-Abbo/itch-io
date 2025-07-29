@@ -1,0 +1,22 @@
+{
+    "id": 3642151,
+    "links": {
+        "self": "https://decinbr.itch.io/a-fantasy-background-with-text-github-online-text-on-title",
+        "comments": "https://decinbr.itch.io/a-fantasy-background-with-text-github-online-text-on-title/comments"
+    },
+    "title": "RMMZ Plugin - Github Online Text on Title",
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxNjczMTA2LmpwZw==/315x250%23c/idh5Bj.jpg",
+    "tags": [
+        "no-ai",
+        "online",
+        "plugin",
+        "rpgmaker",
+        "rpg-maker-mz"
+    ]
+}

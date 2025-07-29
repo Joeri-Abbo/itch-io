@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/online-shopgithub",
+        "comments": "https://decinbr.itch.io/online-shopgithub/comments"
+    },
+    "tags": [
+        "no-ai",
+        "plugin",
+        "rpgmaker",
+        "rpg-maker-mz"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODY3OTk3LmpwZw==/315x250%23c/yNR%2BQX.jpg",
+    "id": 3327486,
+    "title": "Dynamic Shop(Github)",
+    "price": "$20.00"
+}

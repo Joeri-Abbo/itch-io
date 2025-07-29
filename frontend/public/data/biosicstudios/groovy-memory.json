@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Biosic Studios",
+            "url": "https://biosicstudios.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://biosicstudios.itch.io/groovy-memory",
+        "comments": "https://biosicstudios.itch.io/groovy-memory/comments"
+    },
+    "tags": [
+        "2d",
+        "ai-generated",
+        "ai-generated-code",
+        "ai-generated-graphics",
+        "match-cards",
+        "matching",
+        "memory",
+        "puzzle"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzg1ODEwLnBuZw==/315x250%23c/4CAb1B.png",
+    "id": 3760440,
+    "title": "Groovy Memory",
+    "price": "$0.00"
+}

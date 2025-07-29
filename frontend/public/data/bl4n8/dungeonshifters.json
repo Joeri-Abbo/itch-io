@@ -1,0 +1,36 @@
+{
+    "authors": [
+        {
+            "name": "Xientra",
+            "url": "https://xientra.itch.io"
+        },
+        {
+            "name": "Chris Kohler",
+            "url": "https://chriskohler.itch.io"
+        },
+        {
+            "name": "RobotDentist",
+            "url": "https://robotdentist.itch.io"
+        },
+        {
+            "name": "Yixi",
+            "url": "https://cyixi1.itch.io"
+        },
+        {
+            "name": "Dawin",
+            "url": "https://dawinyurtseven.itch.io"
+        },
+        {
+            "name": "Bl4n8",
+            "url": "https://bl4n8.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://xientra.itch.io/dungeonshifters",
+        "comments": "https://xientra.itch.io/dungeonshifters/comments"
+    },
+    "tags": [],
+    "cover_image": "https://img.itch.zone/aW1nLzEyNDM5NTU5LnBuZw==/315x250%23c/zlikQQ.png",
+    "title": "Dungeon Shifters",
+    "id": 2112760
+}

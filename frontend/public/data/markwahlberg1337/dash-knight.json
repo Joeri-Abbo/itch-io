@@ -1,0 +1,29 @@
+{
+    "links": {
+        "self": "https://markwahlberg1337.itch.io/dash-knight",
+        "comments": "https://markwahlberg1337.itch.io/dash-knight/comments"
+    },
+    "id": 3760414,
+    "tags": [
+        "action",
+        "ai-generated",
+        "ai-generated-code",
+        "dash",
+        "dungeon",
+        "fast-paced",
+        "indie",
+        "isometric",
+        "knight",
+        "medieval",
+        "platformer",
+        "singleplayer"
+    ],
+    "title": "Dash Knight",
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzg1Njk2LnBuZw==/315x250%23c/1QGwM5.png",
+    "authors": [
+        {
+            "name": "MarkWahlberg1337",
+            "url": "https://markwahlberg1337.itch.io"
+        }
+    ]
+}

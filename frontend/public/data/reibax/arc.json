@@ -1,0 +1,43 @@
+{
+    "authors": [
+        {
+            "name": "Reibax",
+            "url": "https://reibax.itch.io"
+        },
+        {
+            "name": "Monodo",
+            "url": "https://mo-no-do.itch.io"
+        },
+        {
+            "name": "lucjuego",
+            "url": "https://lucjuego.itch.io"
+        },
+        {
+            "name": "Bernugget",
+            "url": "https://bernugget.itch.io"
+        },
+        {
+            "name": "Hanxk",
+            "url": "https://hanxk.itch.io"
+        },
+        {
+            "name": "Fefpsy17",
+            "url": "https://fefpsy17.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://reibax.itch.io/arc",
+        "comments": "https://reibax.itch.io/arc/comments"
+    },
+    "tags": [
+        "first-person",
+        "horror",
+        "indie",
+        "no-ai",
+        "other",
+        "psx"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzcwMTkxLnBuZw==/315x250%23c/XHJSPq.png",
+    "title": "ARC",
+    "id": 3757975
+}

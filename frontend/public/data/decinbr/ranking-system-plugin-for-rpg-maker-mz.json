@@ -1,0 +1,23 @@
+{
+    "price": "$20.00",
+    "id": 3104621,
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "tags": [
+        "job-system",
+        "plugin",
+        "ranking",
+        "rankingsystem",
+        "rpg-maker-mz"
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/ranking-system-plugin-for-rpg-maker-mz",
+        "comments": "https://decinbr.itch.io/ranking-system-plugin-for-rpg-maker-mz/comments"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODY0MjY2LmpwZw==/315x250%23c/xDalFH.jpg",
+    "title": "Ranking System plugin for RPG Maker MZ"
+}

@@ -1,0 +1,40 @@
+{
+    "authors": [
+        {
+            "name": "missingfox",
+            "url": "https://missingfox.itch.io"
+        },
+        {
+            "name": "kagenashi",
+            "url": "https://kagenashi.itch.io"
+        },
+        {
+            "name": "LynnBoass",
+            "url": "https://lynnboass.itch.io"
+        },
+        {
+            "name": "Dukebot",
+            "url": "https://dukebot.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://missingfox.itch.io/haunt-o-mat",
+        "comments": "https://missingfox.itch.io/haunt-o-mat/comments"
+    },
+    "tags": [
+        "2d",
+        "atmospheric",
+        "dark-humor",
+        "horror",
+        "narrative",
+        "pixel-art",
+        "puzzle",
+        "rpg",
+        "satire",
+        "story-rich"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzUyNDgwMzIucG5n/315x250%23c/rJI%2FHo.png",
+    "id": 926614,
+    "title": "Haunt-o-mat",
+    "price": "$0.00"
+}

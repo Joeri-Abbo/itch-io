@@ -1,0 +1,33 @@
+{
+    "title": "VR Experience",
+    "links": {
+        "comments": "https://sloam-games.itch.io/vr-experience/comments",
+        "self": "https://sloam-games.itch.io/vr-experience",
+        "devlog": "https://sloam-games.itch.io/vr-experience/devlog"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzI2Mzk0NzQucG5n/315x250%23c/l7hfrY.png",
+    "id": 508854,
+    "tags": [
+        "8-bit",
+        "escape-game",
+        "horror",
+        "point-and-click",
+        "puzzle",
+        "story-rich"
+    ],
+    "authors": [
+        {
+            "name": "Sloam Games",
+            "url": "https://sloam-games.itch.io"
+        },
+        {
+            "name": "Reibax",
+            "url": "https://reibax.itch.io"
+        },
+        {
+            "name": "Mighty Salmon",
+            "url": "https://solomonkjr.itch.io"
+        }
+    ],
+    "price": "$0.00"
+}

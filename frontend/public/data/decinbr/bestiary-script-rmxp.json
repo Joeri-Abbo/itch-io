@@ -1,0 +1,22 @@
+{
+    "price": "$0.00",
+    "id": 3342617,
+    "title": "Bestiary Script - RMXP",
+    "cover_image": "https://img.itch.zone/aW1nLzE5OTY5Mjk0LmpwZw==/315x250%23c/LcQltL.jpg",
+    "links": {
+        "self": "https://decinbr.itch.io/bestiary-script-rmxp",
+        "comments": "https://decinbr.itch.io/bestiary-script-rmxp/comments"
+    },
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "tags": [
+        "no-ai",
+        "puzzlescript",
+        "rpgmaker",
+        "rpgmakerxp"
+    ]
+}

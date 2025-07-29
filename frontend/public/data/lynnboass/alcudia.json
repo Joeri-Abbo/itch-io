@@ -1,0 +1,38 @@
+{
+    "price": "$0.00",
+    "id": 997482,
+    "authors": [
+        {
+            "name": "Dukebot",
+            "url": "https://dukebot.itch.io"
+        },
+        {
+            "name": "missingfox",
+            "url": "https://missingfox.itch.io"
+        },
+        {
+            "name": "LynnBoass",
+            "url": "https://lynnboass.itch.io"
+        }
+    ],
+    "tags": [
+        "2d",
+        "atmospheric",
+        "creepy",
+        "horror",
+        "narrative",
+        "other",
+        "pixel-art",
+        "retro",
+        "short",
+        "singleplayer",
+        "visual-novel"
+    ],
+    "links": {
+        "comments": "https://dukebot.itch.io/alcudia/comments",
+        "devlog": "https://dukebot.itch.io/alcudia/devlog",
+        "self": "https://dukebot.itch.io/alcudia"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzY4MTE4ODAucG5n/315x250%23c/ob%2FEtA.png",
+    "title": "Alcudia"
+}

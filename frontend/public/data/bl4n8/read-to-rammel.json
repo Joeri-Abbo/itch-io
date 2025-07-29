@@ -1,0 +1,34 @@
+{
+    "authors": [
+        {
+            "name": "Xientra",
+            "url": "https://xientra.itch.io"
+        },
+        {
+            "name": "Bl4n8",
+            "url": "https://bl4n8.itch.io"
+        },
+        {
+            "name": "NewbornnGod",
+            "url": "https://newbornngod.itch.io"
+        },
+        {
+            "name": "Stonefuchs",
+            "url": "https://stonefuchs.itch.io"
+        },
+        {
+            "name": "benni1913",
+            "url": "https://benni1913.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://xientra.itch.io/read-to-rammel",
+        "comments": "https://xientra.itch.io/read-to-rammel/comments"
+    },
+    "tags": [
+        "action"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzEwNzQ3MjkyLnBuZw==/315x250%23c/ju3POd.png",
+    "title": "Ready to Rammel",
+    "id": 1831067
+}

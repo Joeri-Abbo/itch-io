@@ -1,0 +1,24 @@
+{
+    "price": "$0.00",
+    "id": 3333795,
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "tags": [
+        "minigames",
+        "no-ai",
+        "plugin",
+        "rpgmaker",
+        "rpg-maker-mz",
+        "tetris"
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/tetris-minigame-rmmz-plugin",
+        "comments": "https://decinbr.itch.io/tetris-minigame-rmmz-plugin/comments"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE5OTA1MzQxLmpwZw==/315x250%23c/rE7a7P.jpg",
+    "title": "Tetris Minigame (Free RMMZ Plugin)"
+}

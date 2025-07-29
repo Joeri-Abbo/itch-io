@@ -1,0 +1,28 @@
+{
+    "id": 3760642,
+    "links": {
+        "self": "https://ses-tabbot.itch.io/blackjack",
+        "comments": "https://ses-tabbot.itch.io/blackjack/comments"
+    },
+    "tags": [
+        "3d",
+        "brain-training",
+        "card-game",
+        "godot",
+        "indie",
+        "no-ai",
+        "short",
+        "simple",
+        "singleplayer",
+        "turn-based-strategy"
+    ],
+    "title": "blackjack",
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzg2OTg0LnBuZw==/315x250%23c/pxqunx.png",
+    "authors": [
+        {
+            "name": "Ses Tabbot",
+            "url": "https://ses-tabbot.itch.io"
+        }
+    ],
+    "price": "$0.00"
+}

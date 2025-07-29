@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/map-atlasrmmz",
+        "comments": "https://decinbr.itch.io/map-atlasrmmz/comments"
+    },
+    "tags": [
+        "no-ai",
+        "plugin",
+        "rmmz",
+        "rpgmaker",
+        "rpg-maker-mz",
+        "teleport"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODYyOTA4LmpwZw==/315x250%23c/wGN0oI.jpg",
+    "id": 3326602,
+    "title": "Map Atlas(RMMZ)",
+    "price": "$8.00"
+}

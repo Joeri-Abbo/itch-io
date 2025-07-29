@@ -1,0 +1,46 @@
+{
+    "price": "$0.00",
+    "id": 2569082,
+    "authors": [
+        {
+            "name": "Reibax",
+            "url": "https://reibax.itch.io"
+        },
+        {
+            "name": "Nurii",
+            "url": "https://nuriia.itch.io"
+        },
+        {
+            "name": "KaZeR",
+            "url": "https://kazerhd.itch.io"
+        },
+        {
+            "name": "Tokpary",
+            "url": "https://tokpary.itch.io"
+        },
+        {
+            "name": "Iv\u00e1n de Castilla Guiti\u00e1n",
+            "url": "https://smartwastaken.itch.io"
+        },
+        {
+            "name": "Mighty Salmon",
+            "url": "https://solomonkjr.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "creepy",
+        "first-person",
+        "horror",
+        "psx",
+        "psychological-horror",
+        "puzzle",
+        "singleplayer"
+    ],
+    "links": {
+        "self": "https://reibax.itch.io/unchained",
+        "comments": "https://reibax.itch.io/unchained/comments"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE1NDkzNDU4LnBuZw==/315x250%23c/ggUOZs.png",
+    "title": "Unchained"
+}

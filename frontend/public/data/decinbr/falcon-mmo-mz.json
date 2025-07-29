@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "links": {
+        "comments": "https://decinbr.itch.io/falcon-mmo-mz/comments",
+        "self": "https://decinbr.itch.io/falcon-mmo-mz",
+        "devlog": "https://decinbr.itch.io/falcon-mmo-mz/devlog"
+    },
+    "tags": [
+        "mmorpg",
+        "no-ai",
+        "plugin",
+        "rpgmaker",
+        "rpg-maker-mz"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwNTU1NzA1LmpwZw==/315x250%23c/gM3I1r.jpg",
+    "id": 3445359,
+    "title": "Falcon MMO-MZ",
+    "price": "$45.00"
+}

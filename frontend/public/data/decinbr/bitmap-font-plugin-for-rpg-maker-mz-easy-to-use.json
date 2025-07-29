@@ -1,0 +1,24 @@
+{
+    "price": "$8.00",
+    "id": 3314803,
+    "links": {
+        "comments": "https://decinbr.itch.io/bitmap-font-plugin-for-rpg-maker-mz-easy-to-use/comments",
+        "devlog": "https://decinbr.itch.io/bitmap-font-plugin-for-rpg-maker-mz-easy-to-use/devlog",
+        "self": "https://decinbr.itch.io/bitmap-font-plugin-for-rpg-maker-mz-easy-to-use"
+    },
+    "title": "Bitmap Font plugin for RPG Maker MZ (Easy-to-use)",
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE5ODY0MjQxLmpwZw==/315x250%23c/600WnI.jpg",
+    "tags": [
+        "bitmap",
+        "fonts",
+        "no-ai",
+        "plugin",
+        "rpgmaker"
+    ]
+}

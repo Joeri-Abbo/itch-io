@@ -1,0 +1,34 @@
+{
+    "id": 3755295,
+    "links": {
+        "self": "https://bl4n8.itch.io/potion-commotion",
+        "comments": "https://bl4n8.itch.io/potion-commotion/comments"
+    },
+    "title": "Potion Commotion",
+    "authors": [
+        {
+            "name": "Bl4n8",
+            "url": "https://bl4n8.itch.io"
+        },
+        {
+            "name": "Chris Kohler",
+            "url": "https://chriskohler.itch.io"
+        },
+        {
+            "name": "Murasaki",
+            "url": "https://murasakiii.itch.io"
+        },
+        {
+            "name": "robberrobsenbob",
+            "url": "https://robberrobsenbob.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzUyMTIyLmpwZw==/315x250%23c/p7gHaz.jpg",
+    "tags": [
+        "3d",
+        "no-ai",
+        "puzzle",
+        "sandbox",
+        "virtual-reality"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/picture-limit-breaker-mv",
+        "comments": "https://decinbr.itch.io/picture-limit-breaker-mv/comments"
+    },
+    "tags": [
+        "no-ai",
+        "picture",
+        "plugin",
+        "rpgmaker",
+        "rpgmakermv"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwOTQwMzU0LmpwZw==/315x250%23c/F6htyV.jpg",
+    "title": "Picture Limit Breaker MV",
+    "id": 3514217
+}

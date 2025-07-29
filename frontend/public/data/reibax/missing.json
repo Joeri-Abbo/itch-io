@@ -1,0 +1,36 @@
+{
+    "id": 2323003,
+    "title": "10-65: MISSING",
+    "cover_image": "https://img.itch.zone/aW1nLzEzODcyNTEzLmdpZg==/315x250%23c/ajj4YM.gif",
+    "links": {
+        "self": "https://sloam-games.itch.io/missing",
+        "comments": "https://sloam-games.itch.io/missing/comments"
+    },
+    "authors": [
+        {
+            "name": "Sloam Games",
+            "url": "https://sloam-games.itch.io"
+        },
+        {
+            "name": "Mighty Salmon",
+            "url": "https://solomonkjr.itch.io"
+        },
+        {
+            "name": "Reibax",
+            "url": "https://reibax.itch.io"
+        }
+    ],
+    "tags": [
+        "adventure",
+        "atmospheric",
+        "creepypasta",
+        "detective",
+        "first-person",
+        "horror",
+        "indie",
+        "low-poly",
+        "narrative",
+        "psychological-horror",
+        "singleplayer"
+    ]
+}

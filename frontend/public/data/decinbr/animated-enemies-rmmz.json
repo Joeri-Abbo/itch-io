@@ -1,0 +1,23 @@
+{
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/animated-enemies-rmmz",
+        "comments": "https://decinbr.itch.io/animated-enemies-rmmz/comments"
+    },
+    "tags": [
+        "animatedenemies",
+        "no-ai",
+        "plugin",
+        "rpgmaker",
+        "rpg-maker-mz"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIwMTY0MjAwLmpwZw==/315x250%23c/n2Bdb2.jpg",
+    "id": 3377717,
+    "title": "Animated Enemies (RMMZ)",
+    "price": "$3.00"
+}

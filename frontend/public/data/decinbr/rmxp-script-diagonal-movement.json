@@ -1,0 +1,21 @@
+{
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/rmxp-script-diagonal-movement",
+        "comments": "https://decinbr.itch.io/rmxp-script-diagonal-movement/comments"
+    },
+    "tags": [
+        "diagonalmovement",
+        "no-ai",
+        "puzzlescript",
+        "rpgmakerxp"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIxNjM3NTUzLmpwZw==/315x250%23c/MmEVnJ.jpg",
+    "title": "RMXP Script - Diagonal Movement",
+    "id": 3636187
+}

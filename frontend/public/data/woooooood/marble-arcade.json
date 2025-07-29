@@ -1,0 +1,34 @@
+{
+    "id": 1902269,
+    "authors": [
+        {
+            "name": "Olomasck",
+            "url": "https://olomasck.itch.io"
+        },
+        {
+            "name": "Wood",
+            "url": "https://woooooood.itch.io"
+        },
+        {
+            "name": "PandoraB0x",
+            "url": "https://pandorab0x.itch.io"
+        },
+        {
+            "name": "Shaaken",
+            "url": "https://shaaken.itch.io"
+        }
+    ],
+    "tags": [
+        "3d",
+        "low-poly",
+        "platformer",
+        "singleplayer",
+        "unity"
+    ],
+    "links": {
+        "self": "https://olomasck.itch.io/marble-arcade",
+        "comments": "https://olomasck.itch.io/marble-arcade/comments"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzExMTgxNDE5LnBuZw==/315x250%23c/Q63S5i.png",
+    "title": "Marble Arcade"
+}

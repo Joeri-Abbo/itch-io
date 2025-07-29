@@ -1,0 +1,38 @@
+{
+    "price": "$0.00",
+    "id": 2507588,
+    "links": {
+        "self": "https://woooooood.itch.io/lavr-quest",
+        "comments": "https://woooooood.itch.io/lavr-quest/comments"
+    },
+    "title": "LaVR Quest",
+    "authors": [
+        {
+            "name": "Wood",
+            "url": "https://woooooood.itch.io"
+        },
+        {
+            "name": "Elevene",
+            "url": "https://elevene.itch.io"
+        },
+        {
+            "name": "Shaaken",
+            "url": "https://shaaken.itch.io"
+        },
+        {
+            "name": "Burizof",
+            "url": "https://burizof.itch.io"
+        },
+        {
+            "name": "Linger",
+            "url": "https://eliaz-lebert.itch.io"
+        }
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE0OTA4ODYzLnBuZw==/315x250%23c/MBvcAP.png",
+    "tags": [
+        "3d",
+        "puzzle",
+        "singleplayer",
+        "virtual-reality"
+    ]
+}

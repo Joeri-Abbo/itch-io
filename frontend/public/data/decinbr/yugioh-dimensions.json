@@ -1,0 +1,20 @@
+{
+    "authors": [
+        {
+            "name": "ProtoX",
+            "url": "https://decinbr.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://decinbr.itch.io/yugioh-dimensions",
+        "community": "https://decinbr.itch.io/yugioh-dimensions/community"
+    },
+    "tags": [
+        "card-game",
+        "no-ai",
+        "yugioh"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzIyMzg2ODY0LnBuZw==/315x250%23c/%2Batydo.png",
+    "title": "Yugioh Dimensions 1.5 (Preview)",
+    "id": 3760624
+}

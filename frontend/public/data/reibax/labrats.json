@@ -1,0 +1,31 @@
+{
+    "price": "$0.00",
+    "id": 3255047,
+    "authors": [
+        {
+            "name": "ismaest",
+            "url": "https://ismaest.itch.io"
+        },
+        {
+            "name": "Iv\u00e1n de Castilla Guiti\u00e1n",
+            "url": "https://smartwastaken.itch.io"
+        },
+        {
+            "name": "Reibax",
+            "url": "https://reibax.itch.io"
+        },
+        {
+            "name": "KaZeR",
+            "url": "https://kazerhd.itch.io"
+        }
+    ],
+    "tags": [
+        "no-ai"
+    ],
+    "links": {
+        "self": "https://ismaest.itch.io/labrats",
+        "comments": "https://ismaest.itch.io/labrats/comments"
+    },
+    "cover_image": "https://img.itch.zone/aW1nLzE5NDUyNzI0LnBuZw==/315x250%23c/ZXdyzx.png",
+    "title": "LabRats"
+}

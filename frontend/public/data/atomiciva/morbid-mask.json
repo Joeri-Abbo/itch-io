@@ -1,0 +1,36 @@
+{
+    "authors": [
+        {
+            "name": "AtomicIva",
+            "url": "https://atomiciva.itch.io"
+        },
+        {
+            "name": "Dee C",
+            "url": "https://lepotrio.itch.io"
+        },
+        {
+            "name": "tortolja",
+            "url": "https://tortolja.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://atomiciva.itch.io/morbid-mask",
+        "comments": "https://atomiciva.itch.io/morbid-mask/comments"
+    },
+    "tags": [
+        "2d",
+        "aseprite",
+        "music",
+        "no-ai",
+        "physics",
+        "pixel-art",
+        "platformer",
+        "singleplayer",
+        "skeletons",
+        "spooky",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE4ODgzNjkxLnBuZw==/315x250%23c/OPQ4Vu.png",
+    "title": "Morbid Mask (Prototype)",
+    "id": 3161970
+}

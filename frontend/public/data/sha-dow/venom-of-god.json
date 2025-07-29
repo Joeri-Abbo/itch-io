@@ -1,0 +1,27 @@
+{
+    "authors": [
+        {
+            "name": "SHADOW",
+            "url": "https://sha-dow.itch.io"
+        }
+    ],
+    "links": {
+        "self": "https://sha-dow.itch.io/venom-of-god",
+        "comments": "https://sha-dow.itch.io/venom-of-god/comments"
+    },
+    "tags": [
+        "2d",
+        "atmospheric",
+        "creepy",
+        "horror",
+        "indie",
+        "pixel-art",
+        "platformer",
+        "singleplayer",
+        "suspense",
+        "unity"
+    ],
+    "cover_image": "https://img.itch.zone/aW1nLzE0NzgyODAxLmdpZg==/315x250%23c/XHRu6L.gif",
+    "title": "Venom of God",
+    "id": 2481666
+}
