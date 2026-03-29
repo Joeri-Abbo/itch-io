@@ -58,9 +58,10 @@ async function getCreatorData(creator: string) {
 
   return { games, error };
 }
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-export default async function CreatorPage(props: any) {
-  const { creator } = props.params as { creator: string };
+export default async function CreatorPage(props: {
+  params: Promise<{ creator: string }>;
+}) {
+  const { creator } = await props.params;
 
   // Get the data for this creator
   const { games, error } = await getCreatorData(creator);
