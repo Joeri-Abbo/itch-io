@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"87RcX3u6DF9C9AcAzz25F","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":["Creator: ","aiden-h"]}],["$","ul",null,{"children":[["$","li","0",{"children":["$","pre",null,{"children":"{\n  \"authors\": [\n    {\n      \"name\": \"Aiden H\",\n      \"url\": \"https://aiden-h.itch.io\"\n    }\n  ],\n  \"id\": 3759115,\n  \"tags\": [\n    \"2d\",\n    \"educational\",\n    \"math\",\n    \"no-ai\",\n    \"rpg\"\n  ],\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzc3ODQxLnBuZw==/315x250%23c/thZiDj.png\",\n  \"links\": {\n    \"self\": \"https://aiden-h.itch.io/timmys-math-adventure\",\n    \"comments\": \"https://aiden-h.itch.io/timmys-math-adventure/comments\"\n  },\n  \"title\": \"Timmy's Math Adventure\"\n}"}]}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

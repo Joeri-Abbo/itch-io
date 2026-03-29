@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"87RcX3u6DF9C9AcAzz25F","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":["Creator: ","griddmeirax"]}],["$","ul",null,{"children":[["$","li","0",{"children":["$","pre",null,{"children":"{\n  \"title\": \"OneShot: Flying Machine\",\n  \"id\": 2763930,\n  \"cover_image\": \"https://img.itch.zone/aW1nLzE2NDk2MzQ5LnBuZw==/315x250%23c/B6EsRh.png\",\n  \"links\": {\n    \"comments\": \"https://griddmeirax.itch.io/oneshotplane/comments\",\n    \"self\": \"https://griddmeirax.itch.io/oneshotplane\"\n  },\n  \"tags\": [\n    \"2d\",\n    \"fangame\",\n    \"meta\",\n    \"pixel-art\",\n    \"short\",\n    \"simulation\",\n    \"singleplayer\"\n  ],\n  \"authors\": [\n    {\n      \"name\": \"GriddMeirax\",\n      \"url\": \"https://griddmeirax.itch.io\"\n    }\n  ]\n}"}]}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

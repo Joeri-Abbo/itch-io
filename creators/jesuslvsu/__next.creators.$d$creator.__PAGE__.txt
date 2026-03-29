@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"87RcX3u6DF9C9AcAzz25F","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":["Creator: ","jesuslvsu"]}],["$","ul",null,{"children":[["$","li","0",{"children":["$","pre",null,{"children":"{\n  \"title\": \"Project Eclipse\",\n  \"id\": 3759249,\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzc4NzI0LnBuZw==/315x250%23c/JLpk7h.png\",\n  \"links\": {\n    \"comments\": \"https://jesuslvsu.itch.io/project-eclipse/comments\",\n    \"self\": \"https://jesuslvsu.itch.io/project-eclipse\"\n  },\n  \"tags\": [\n    \"no-ai\",\n    \"platformer\"\n  ],\n  \"authors\": [\n    {\n      \"name\": \"JesusLvsU\",\n      \"url\": \"https://jesuslvsu.itch.io\"\n    }\n  ]\n}"}]}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

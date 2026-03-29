@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"87RcX3u6DF9C9AcAzz25F","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":["Creator: ","0xmatias"]}],["$","ul",null,{"children":[["$","li","0",{"children":["$","pre",null,{"children":"{\n  \"authors\": [\n    {\n      \"name\": \"0xMatias\",\n      \"url\": \"https://0xmatias.itch.io\"\n    }\n  ],\n  \"links\": {\n    \"self\": \"https://0xmatias.itch.io/juego-del-clic\",\n    \"comments\": \"https://0xmatias.itch.io/juego-del-clic/comments\"\n  },\n  \"tags\": [\n    \"buttons\",\n    \"clicker\",\n    \"puzzle\"\n  ],\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzg2MTg4LnBuZw==/315x250%23c/eODkia.png\",\n  \"id\": 3760515,\n  \"title\": \"juego del clic\",\n  \"price\": \"$0.00\"\n}"}]}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

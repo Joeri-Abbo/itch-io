@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"87RcX3u6DF9C9AcAzz25F","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":["Creator: ","vttu"]}],["$","ul",null,{"children":[["$","li","0",{"children":["$","pre",null,{"children":"{\n  \"title\": \"Sprint\",\n  \"id\": 3759077,\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzc4MDE0LnBuZw==/315x250%23c/uDbw1K.png\",\n  \"links\": {\n    \"comments\": \"https://vttu.itch.io/sprint/comments\",\n    \"self\": \"https://vttu.itch.io/sprint\"\n  },\n  \"tags\": [\n    \"casual\",\n    \"no-ai\",\n    \"parkour\",\n    \"platformer\",\n    \"relaxing\"\n  ],\n  \"authors\": [\n    {\n      \"name\": \"Vttu\",\n      \"url\": \"https://vttu.itch.io\"\n    }\n  ]\n}"}]}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

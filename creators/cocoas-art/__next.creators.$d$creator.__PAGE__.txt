@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"87RcX3u6DF9C9AcAzz25F","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":["Creator: ","cocoas-art"]}],["$","ul",null,{"children":[["$","li","0",{"children":["$","pre",null,{"children":"{\n  \"title\": \"Pebble's Adventure\",\n  \"id\": 3759132,\n  \"price\": \"$0.00\",\n  \"cover_image\": \"https://img.itch.zone/aW1nLzIyMzc4MTkwLnBuZw==/315x250%23c/72nB21.png\",\n  \"links\": {\n    \"comments\": \"https://cocoas-art.itch.io/pebbles-adventure/comments\",\n    \"self\": \"https://cocoas-art.itch.io/pebbles-adventure\"\n  },\n  \"tags\": [\n    \"cats\",\n    \"cute\",\n    \"furry\",\n    \"no-ai\",\n    \"visual-novel\"\n  ],\n  \"authors\": [\n    {\n      \"name\": \"Cocoa's Art\",\n      \"url\": \"https://cocoas-art.itch.io\"\n    }\n  ]\n}"}]}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
