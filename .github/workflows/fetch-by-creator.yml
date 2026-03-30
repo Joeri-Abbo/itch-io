@@ -30,6 +30,6 @@ jobs:
           cd python
           python fetch-by-creator.py "${{ github.event.inputs.creator }}"
 
-      - uses: stefanzweifel/git-auto-commit-action@v7.0.0
+      - uses: stefanzweifel/git-auto-commit-action@v7.1.0
         with:
           commit_message: "Added games for creator ${{ github.event.inputs.creator }}"
